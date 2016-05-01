@@ -1,0 +1,861 @@
+CountryName,CountryCode,Year,Food production index (2004-2006 = 100)
+Afghanistan,AFG,1961,54.02
+Albania,ALB,1961,29.35
+Algeria,DZA,1961,38.27
+American Samoa,ASM,1961,70.22
+Angola,AGO,1961,28.92
+Antigua and Barbuda,ATG,1961,120.58
+Argentina,ARG,1961,36.77
+Australia,AUS,1961,38.95
+Austria,AUT,1961,71.97
+"Bahamas, The",BHS,1961,34.95
+Bahrain,BHR,1961,54.02
+Bangladesh,BGD,1961,36.59
+Barbados,BRB,1961,120.47
+Belize,BLZ,1961,13.34
+Benin,BEN,1961,22.6
+Bermuda,BMU,1961,132.04
+Bhutan,BTN,1961,31.58
+Bolivia,BOL,1961,20.16
+Botswana,BWA,1961,57.57
+Brazil,BRA,1961,15.66
+Brunei Darussalam,BRN,1961,16.39
+Bulgaria,BGR,1961,116.78
+Burkina Faso,BFA,1961,21.12
+Burundi,BDI,1961,63.49
+Cabo Verde,CPV,1961,27.72
+Cambodia,KHM,1961,38.95
+Cameroon,CMR,1961,25.84
+Canada,CAN,1961,34.74
+Cayman Islands,CYM,1961,100.6
+Chad,TCD,1961,40.46
+Chile,CHL,1961,27.78
+China,CHN,1961,13.35
+Colombia,COL,1961,27.4
+Comoros,COM,1961,42.02
+"Congo, Dem. Rep.",ZAR,1961,60.5
+"Congo, Rep.",COG,1961,39.01
+Costa Rica,CRI,1961,14.82
+Cote d'Ivoire,CIV,1961,16.95
+Cuba,CUB,1961,98.11
+Cyprus,CYP,1961,52.47
+Denmark,DNK,1961,69.34
+Djibouti,DJI,1961,13.42
+Dominica,DMA,1961,84.26
+Dominican Republic,DOM,1961,45.68
+Ecuador,ECU,1961,27.6
+"Egypt, Arab Rep.",EGY,1961,17.51
+El Salvador,SLV,1961,34.85
+Equatorial Guinea,GNQ,1961,105.3
+Faeroe Islands,FRO,1961,16
+Fiji,FJI,1961,51.07
+Finland,FIN,1961,87.62
+France,FRA,1961,67.22
+French Polynesia,PYF,1961,109.58
+Gabon,GAB,1961,46.24
+"Gambia, The",GMB,1961,65.73
+Germany,DEU,1961,69.81
+Ghana,GHA,1961,27.46
+Greece,GRC,1961,54.98
+Greenland,GRL,1961,48.23
+Grenada,GRD,1961,117.37
+Guam,GUM,1961,34.32
+Guatemala,GTM,1961,18.63
+Guinea,GIN,1961,36.23
+Guinea-Bissau,GNB,1961,40.26
+Guyana,GUY,1961,67.38
+Haiti,HTI,1961,63.99
+Honduras,HND,1961,30.63
+"Hong Kong SAR, China",HKG,1961,130.77
+Hungary,HUN,1961,67.05
+Iceland,ISL,1961,87.3
+India,IND,1961,32.17
+Indonesia,IDN,1961,20.23
+"Iran, Islamic Rep.",IRN,1961,14.33
+Iraq,IRQ,1961,45.37
+Ireland,IRL,1961,48.81
+Israel,ISR,1961,23.98
+Italy,ITA,1961,72.85
+Jamaica,JAM,1961,70.51
+Japan,JPN,1961,67.64
+Jordan,JOR,1961,38.19
+Kenya,KEN,1961,23.9
+Kiribati,KIR,1961,45.33
+"Korea, Dem. Rep.",PRK,1961,34.91
+"Korea, Rep.",KOR,1961,24.91
+Kuwait,KWT,1961,8.72
+Lao PDR,LAO,1961,17.81
+Lebanon,LBN,1961,31.08
+Lesotho,LSO,1961,66.7
+Liberia,LBR,1961,46.07
+Libya,LBY,1961,14.84
+Liechtenstein,LIE,1961,41.22
+"Macao SAR, China",MAC,1961,36.03
+Madagascar,MDG,1961,45.79
+Malawi,MWI,1961,23.06
+Malaysia,MYS,1961,8.73
+Maldives,MDV,1961,53.48
+Mali,MLI,1961,27.97
+Malta,MLT,1961,44.74
+Marshall Islands,MHL,1961,94.7
+Mauritania,MRT,1961,53.74
+Mauritius,MUS,1961,70.99
+Mexico,MEX,1961,23.65
+Mongolia,MNG,1961,103.88
+Morocco,MAR,1961,23.37
+Mozambique,MOZ,1961,49.82
+Myanmar,MMR,1961,21.35
+Namibia,NAM,1961,65.56
+Nepal,NPL,1961,28.4
+Netherlands,NLD,1961,44.82
+New Caledonia,NCL,1961,77.93
+New Zealand,NZL,1961,40.54
+Nicaragua,NIC,1961,30.02
+Niger,NER,1961,25.5
+Nigeria,NGA,1961,22.46
+Norway,NOR,1961,81.42
+Oman,OMN,1961,11.23
+Pakistan,PAK,1961,20.3
+Panama,PAN,1961,41.75
+Papua New Guinea,PNG,1961,35.18
+Paraguay,PRY,1961,21.3
+Peru,PER,1961,29.61
+Philippines,PHL,1961,26.17
+Poland,POL,1961,75.99
+Portugal,PRT,1961,72.37
+Puerto Rico,PRI,1961,188.3
+Qatar,QAT,1961,10.95
+Romania,ROM,1961,62.48
+Rwanda,RWA,1961,28
+Samoa,WSM,1961,82.6
+Sao Tome and Principe,STP,1961,76.72
+Saudi Arabia,SAU,1961,9.58
+Senegal,SEN,1961,63.19
+Seychelles,SYC,1961,133.62
+Sierra Leone,SLE,1961,33.76
+Singapore,SGP,1961,425.69
+Solomon Islands,SLB,1961,29.89
+Somalia,SOM,1961,46.17
+South Africa,ZAF,1961,41.98
+Spain,ESP,1961,38.68
+Sri Lanka,LKA,1961,41.73
+St. Kitts and Nevis,KNA,1961,260.37
+St. Lucia,LCA,1961,173.81
+St. Vincent and the Grenadines,VCT,1961,91.92
+Sudan,SDN,1961,22.22
+Suriname,SUR,1961,42.66
+Swaziland,SWZ,1961,33.6
+Sweden,SWE,1961,97.09
+Switzerland,CHE,1961,80.47
+Syrian Arab Republic,SYR,1961,14.08
+Tanzania,TZA,1961,25.33
+Thailand,THA,1961,26.17
+Timor-Leste,TMP,1961,81.84
+Togo,TGO,1961,36.12
+Tonga,TON,1961,111.69
+Trinidad and Tobago,TTO,1961,99.88
+Tunisia,TUN,1961,23.56
+Turkey,TUR,1961,35.5
+Tuvalu,TUV,1961,77.85
+Uganda,UGA,1961,31.49
+United Arab Emirates,ARE,1961,4.06
+United Kingdom,GBR,1961,71.99
+United States,USA,1961,45.58
+Uruguay,URY,1961,44.66
+Vanuatu,VUT,1961,60.9
+"Venezuela, RB",VEN,1961,24.91
+Vietnam,VNM,1961,20.92
+Virgin Islands (U.S.),VIR,1961,231.21
+"Yemen, Rep.",YEM,1961,28.27
+Zambia,ZMB,1961,30.61
+Zimbabwe,ZWE,1961,41.5
+Afghanistan,AFG,1962,54.68
+Albania,ALB,1962,30.12
+Algeria,DZA,1962,39.81
+American Samoa,ASM,1962,70.93
+Angola,AGO,1962,29.96
+Antigua and Barbuda,ATG,1962,121.33
+Argentina,ARG,1962,39.35
+Armenia,ARM,1962,75.3
+Australia,AUS,1962,44.13
+Austria,AUT,1962,70.3
+Azerbaijan,AZE,1962,82.5
+"Bahamas, The",BHS,1962,36.4
+Bahrain,BHR,1962,54.38
+Bangladesh,BGD,1962,34.91
+Barbados,BRB,1962,124.96
+Belarus,BLR,1962,110.9
+Belize,BLZ,1962,11.4
+Benin,BEN,1962,20.97
+Bermuda,BMU,1962,133.2
+Bhutan,BTN,1962,32.93
+Bolivia,BOL,1962,20.88
+Bosnia and Herzegovina,BIH,1962,87.7
+Botswana,BWA,1962,57.97
+Brazil,BRA,1962,16.2
+Brunei Darussalam,BRN,1962,21.51
+Bulgaria,BGR,1962,125.63
+Burkina Faso,BFA,1962,23.21
+Burundi,BDI,1962,63.74
+Cabo Verde,CPV,1962,30.09
+Cambodia,KHM,1962,34.9
+Cameroon,CMR,1962,27.35
+Canada,CAN,1962,41.33
+Cayman Islands,CYM,1962,118.8
+Chad,TCD,1962,42.68
+Chile,CHL,1962,29.02
+China,CHN,1962,14.1
+Colombia,COL,1962,29.57
+Comoros,COM,1962,41.54
+"Congo, Dem. Rep.",ZAR,1962,61.17
+"Congo, Rep.",COG,1962,39.97
+Costa Rica,CRI,1962,15.71
+Cote d'Ivoire,CIV,1962,19.66
+Croatia,HRV,1962,104.6
+Cuba,CUB,1962,79
+Cyprus,CYP,1962,52.64
+Denmark,DNK,1962,70.49
+Djibouti,DJI,1962,13.78
+Dominica,DMA,1962,81.46
+Dominican Republic,DOM,1962,46.32
+Ecuador,ECU,1962,28.01
+"Egypt, Arab Rep.",EGY,1962,20.8
+El Salvador,SLV,1962,38.46
+Equatorial Guinea,GNQ,1962,119.93
+Estonia,EST,1962,157.7
+Faeroe Islands,FRO,1962,15.2
+Fiji,FJI,1962,61.23
+Finland,FIN,1962,87.28
+France,FRA,1962,77.24
+French Polynesia,PYF,1962,122.05
+Gabon,GAB,1962,46.91
+"Gambia, The",GMB,1962,67.06
+Georgia,GEO,1962,106.3
+Germany,DEU,1962,74.68
+Ghana,GHA,1962,27.82
+Greece,GRC,1962,45.72
+Greenland,GRL,1962,55.98
+Grenada,GRD,1962,125.94
+Guam,GUM,1962,35.6
+Guatemala,GTM,1962,19.23
+Guinea,GIN,1962,36.89
+Guinea-Bissau,GNB,1962,40.45
+Guyana,GUY,1962,69.02
+Haiti,HTI,1962,65.42
+Honduras,HND,1962,30.38
+"Hong Kong SAR, China",HKG,1962,164.05
+Hungary,HUN,1962,68.58
+Iceland,ISL,1962,92.39
+India,IND,1962,31.74
+Indonesia,IDN,1962,21.66
+"Iran, Islamic Rep.",IRN,1962,15.14
+Iraq,IRQ,1962,51.79
+Ireland,IRL,1962,47.6
+Israel,ISR,1962,25.84
+Italy,ITA,1962,73.95
+Jamaica,JAM,1962,70.31
+Japan,JPN,1962,72.19
+Jordan,JOR,1962,28.8
+Kazakhstan,KAZ,1962,142.5
+Kenya,KEN,1962,24.43
+Kiribati,KIR,1962,42.14
+"Korea, Dem. Rep.",PRK,1962,36.44
+"Korea, Rep.",KOR,1962,23.22
+Kuwait,KWT,1962,8.86
+Kyrgyz Republic,KGZ,1962,77.6
+Lao PDR,LAO,1962,17.38
+Latvia,LVA,1962,193.9
+Lebanon,LBN,1962,29.28
+Lesotho,LSO,1962,67.39
+Liberia,LBR,1962,46.6
+Libya,LBY,1962,15.58
+Liechtenstein,LIE,1962,43.58
+Lithuania,LTU,1962,130.5
+"Macao SAR, China",MAC,1962,40
+Madagascar,MDG,1962,46.97
+Malawi,MWI,1962,24.26
+Malaysia,MYS,1962,8.91
+Maldives,MDV,1962,55.38
+Mali,MLI,1962,30.02
+Malta,MLT,1962,43.42
+Marshall Islands,MHL,1962,131.7
+Mauritania,MRT,1962,54.85
+Mauritius,MUS,1962,68.13
+Mexico,MEX,1962,25.34
+Moldova,MDA,1962,139.5
+Mongolia,MNG,1962,97.27
+Morocco,MAR,1962,27.11
+Mozambique,MOZ,1962,51.12
+Myanmar,MMR,1962,23.79
+Namibia,NAM,1962,56.77
+Nepal,NPL,1962,28.66
+Netherlands,NLD,1962,47.02
+New Caledonia,NCL,1962,78.88
+New Zealand,NZL,1962,42.44
+Nicaragua,NIC,1962,31.74
+Niger,NER,1962,28.79
+Nigeria,NGA,1962,23.29
+Norway,NOR,1962,83.06
+Oman,OMN,1962,11.38
+Pakistan,PAK,1962,21.54
+Panama,PAN,1962,43.14
+Papua New Guinea,PNG,1962,36.41
+Paraguay,PRY,1962,20.94
+Peru,PER,1962,30.52
+Philippines,PHL,1962,27.95
+Poland,POL,1962,71.49
+Portugal,PRT,1962,78.11
+Puerto Rico,PRI,1962,182.01
+Qatar,QAT,1962,12.27
+Romania,ROM,1962,59.27
+Russian Federation,RUS,1962,119.2
+Rwanda,RWA,1962,37.41
+Samoa,WSM,1962,90.34
+Sao Tome and Principe,STP,1962,80.46
+Saudi Arabia,SAU,1962,9.42
+Senegal,SEN,1962,64.43
+Seychelles,SYC,1962,142.65
+Sierra Leone,SLE,1962,36.61
+Singapore,SGP,1962,423.23
+Solomon Islands,SLB,1962,30.26
+Somalia,SOM,1962,47.78
+South Africa,ZAF,1962,42.77
+Spain,ESP,1962,37.99
+Sri Lanka,LKA,1962,44.66
+St. Kitts and Nevis,KNA,1962,247.5
+St. Lucia,LCA,1962,186.69
+St. Vincent and the Grenadines,VCT,1962,94.75
+Sudan,SDN,1962,22.61
+Suriname,SUR,1962,49.12
+Swaziland,SWZ,1962,34.86
+Sweden,SWE,1962,100.3
+Switzerland,CHE,1962,83.78
+Syrian Arab Republic,SYR,1962,19.55
+Tanzania,TZA,1962,26.17
+Thailand,THA,1962,27.99
+Timor-Leste,TMP,1962,81.64
+Togo,TGO,1962,36.66
+Tonga,TON,1962,102.46
+Trinidad and Tobago,TTO,1962,91.8
+Tunisia,TUN,1962,25.77
+Turkey,TUR,1962,36.19
+Tuvalu,TUV,1962,78.2
+Uganda,UGA,1962,31.48
+United Arab Emirates,ARE,1962,4.12
+United Kingdom,GBR,1962,74.77
+United States,USA,1962,45.95
+Uruguay,URY,1962,45.02
+Vanuatu,VUT,1962,61.03
+"Venezuela, RB",VEN,1962,25.48
+Vietnam,VNM,1962,22.22
+Virgin Islands (U.S.),VIR,1962,256.27
+"Yemen, Rep.",YEM,1962,28.73
+Zambia,ZMB,1962,30.29
+Zimbabwe,ZWE,1962,44.65
+Afghanistan,AFG,1963,54.65
+Albania,ALB,1963,28.52
+Algeria,DZA,1963,39.83
+American Samoa,ASM,1963,79.37
+Angola,AGO,1963,30.37
+Antigua and Barbuda,ATG,1963,149.1
+Argentina,ARG,1963,43.17
+Armenia,ARM,1963,57
+Australia,AUS,1963,45.94
+Austria,AUT,1963,75.01
+Azerbaijan,AZE,1963,68.3
+"Bahamas, The",BHS,1963,38.5
+Bahrain,BHR,1963,55.03
+Bangladesh,BGD,1963,39.72
+Barbados,BRB,1963,142.77
+Belarus,BLR,1963,112.8
+Belize,BLZ,1963,12.49
+Benin,BEN,1963,21.24
+Bermuda,BMU,1963,146.77
+Bhutan,BTN,1963,34.2
+Bolivia,BOL,1963,22.2
+Bosnia and Herzegovina,BIH,1963,80.6
+Botswana,BWA,1963,63.76
+Brazil,BRA,1963,16.73
+Brunei Darussalam,BRN,1963,20.02
+Bulgaria,BGR,1963,128.08
+Burkina Faso,BFA,1963,23.36
+Burundi,BDI,1963,64.57
+Cabo Verde,CPV,1963,31.57
+Cambodia,KHM,1963,42.75
+Cameroon,CMR,1963,29.49
+Canada,CAN,1963,44.13
+Cayman Islands,CYM,1963,111.5
+Chad,TCD,1963,45.44
+Chile,CHL,1963,29.24
+China,CHN,1963,14.88
+Colombia,COL,1963,29.17
+Comoros,COM,1963,46.35
+"Congo, Dem. Rep.",ZAR,1963,61.44
+"Congo, Rep.",COG,1963,40.73
+Costa Rica,CRI,1963,16.67
+Cote d'Ivoire,CIV,1963,19.68
+Croatia,HRV,1963,104.8
+Cuba,CUB,1963,73.72
+Cyprus,CYP,1963,48.41
+Czech Republic,CZE,1963,126.4
+Denmark,DNK,1963,68.94
+Djibouti,DJI,1963,14.23
+Dominica,DMA,1963,81.36
+Dominican Republic,DOM,1963,44.89
+Ecuador,ECU,1963,28.27
+"Egypt, Arab Rep.",EGY,1963,21.54
+El Salvador,SLV,1963,39.71
+Equatorial Guinea,GNQ,1963,125.07
+Eritrea,ERI,1963,61.7
+Estonia,EST,1963,138.6
+Ethiopia,ETH,1963,53.5
+Faeroe Islands,FRO,1963,17.09
+Fiji,FJI,1963,70.11
+Finland,FIN,1963,92.92
+France,FRA,1963,71.87
+French Polynesia,PYF,1963,116.89
+Gabon,GAB,1963,47.9
+"Gambia, The",GMB,1963,67.28
+Georgia,GEO,1963,102.1
+Germany,DEU,1963,79.49
+Ghana,GHA,1963,28.43
+Greece,GRC,1963,51.64
+Greenland,GRL,1963,49.74
+Grenada,GRD,1963,133.83
+Guam,GUM,1963,40.14
+Guatemala,GTM,1963,21.09
+Guinea,GIN,1963,34.89
+Guinea-Bissau,GNB,1963,39.26
+Guyana,GUY,1963,61.8
+Haiti,HTI,1963,67.7
+Honduras,HND,1963,30.37
+"Hong Kong SAR, China",HKG,1963,149.78
+Hungary,HUN,1963,74.48
+Iceland,ISL,1963,90.96
+India,IND,1963,32.46
+Indonesia,IDN,1963,20.46
+"Iran, Islamic Rep.",IRN,1963,14.69
+Iraq,IRQ,1963,45.3
+Ireland,IRL,1963,48.13
+Israel,ISR,1963,27.46
+Italy,ITA,1963,73.41
+Jamaica,JAM,1963,74.73
+Japan,JPN,1963,73.84
+Jordan,JOR,1963,31.85
+Kazakhstan,KAZ,1963,125.9
+Kenya,KEN,1963,24.43
+Kiribati,KIR,1963,38.63
+"Korea, Dem. Rep.",PRK,1963,38.71
+"Korea, Rep.",KOR,1963,25.94
+Kuwait,KWT,1963,9.97
+Kyrgyz Republic,KGZ,1963,73
+Lao PDR,LAO,1963,17.65
+Latvia,LVA,1963,174.7
+Lebanon,LBN,1963,33.01
+Lesotho,LSO,1963,66.77
+Liberia,LBR,1963,47.59
+Libya,LBY,1963,14.99
+Liechtenstein,LIE,1963,41.94
+Lithuania,LTU,1963,114.5
+"Macao SAR, China",MAC,1963,46.39
+Madagascar,MDG,1963,48.48
+Malawi,MWI,1963,23.95
+Malaysia,MYS,1963,9.34
+Maldives,MDV,1963,57.29
+Mali,MLI,1963,31.01
+Malta,MLT,1963,46.16
+Marshall Islands,MHL,1963,102.9
+Mauritania,MRT,1963,56.44
+Mauritius,MUS,1963,83.43
+Mexico,MEX,1963,26.23
+Moldova,MDA,1963,160.5
+Mongolia,MNG,1963,88.23
+Morocco,MAR,1963,29.05
+Mozambique,MOZ,1963,52.78
+Myanmar,MMR,1963,24.74
+Namibia,NAM,1963,69.8
+Nepal,NPL,1963,29.21
+Netherlands,NLD,1963,47.18
+New Caledonia,NCL,1963,80.17
+New Zealand,NZL,1963,43.11
+Nicaragua,NIC,1963,34.46
+Niger,NER,1963,30.33
+Nigeria,NGA,1963,24.46
+Norway,NOR,1963,84.83
+Oman,OMN,1963,11.52
+Pakistan,PAK,1963,22.24
+Panama,PAN,1963,45
+Papua New Guinea,PNG,1963,37.24
+Paraguay,PRY,1963,20.96
+Peru,PER,1963,30.09
+Philippines,PHL,1963,29.09
+Poland,POL,1963,74.74
+Portugal,PRT,1963,83.57
+Puerto Rico,PRI,1963,193.05
+Qatar,QAT,1963,13.16
+Romania,ROM,1963,59.25
+Russian Federation,RUS,1963,113.3
+Rwanda,RWA,1963,27.45
+Samoa,WSM,1963,92.86
+Sao Tome and Principe,STP,1963,68.73
+Saudi Arabia,SAU,1963,9.54
+Senegal,SEN,1963,69.61
+Seychelles,SYC,1963,133.9
+Sierra Leone,SLE,1963,36.93
+Singapore,SGP,1963,418.73
+Solomon Islands,SLB,1963,31.28
+Somalia,SOM,1963,50.36
+South Africa,ZAF,1963,44.87
+Spain,ESP,1963,45.74
+Sri Lanka,LKA,1963,46.59
+St. Kitts and Nevis,KNA,1963,226.83
+St. Lucia,LCA,1963,189.83
+St. Vincent and the Grenadines,VCT,1963,92.56
+Sudan,SDN,1963,23.86
+Suriname,SUR,1963,48.27
+Swaziland,SWZ,1963,37.41
+Sweden,SWE,1963,98.29
+Switzerland,CHE,1963,81.29
+Syrian Arab Republic,SYR,1963,17.97
+Tanzania,TZA,1963,28.54
+Thailand,THA,1963,29.72
+Timor-Leste,TMP,1963,82
+Togo,TGO,1963,38.5
+Tonga,TON,1963,109.28
+Trinidad and Tobago,TTO,1963,98.96
+Tunisia,TUN,1963,33.53
+Turkey,TUR,1963,37.29
+Tuvalu,TUV,1963,78.56
+Uganda,UGA,1963,33.86
+United Arab Emirates,ARE,1963,4.25
+United Kingdom,GBR,1963,74.45
+United States,USA,1963,48.23
+Uruguay,URY,1963,46.52
+Vanuatu,VUT,1963,67.56
+"Venezuela, RB",VEN,1963,27.02
+Vietnam,VNM,1963,22.26
+Virgin Islands (U.S.),VIR,1963,246.28
+"Yemen, Rep.",YEM,1963,29.6
+Zambia,ZMB,1963,30
+Zimbabwe,ZWE,1963,42.63
+Afghanistan,AFG,1964,59.12
+Albania,ALB,1964,32.47
+Algeria,DZA,1964,35.51
+American Samoa,ASM,1964,81.52
+Angola,AGO,1964,31.76
+Antigua and Barbuda,ATG,1964,153.14
+Argentina,ARG,1964,40.02
+Armenia,ARM,1964,71.3
+Australia,AUS,1964,49.03
+Austria,AUT,1964,77.53
+Azerbaijan,AZE,1964,62.1
+"Bahamas, The",BHS,1964,40.25
+Bahrain,BHR,1964,54.89
+Bangladesh,BGD,1964,40
+Barbados,BRB,1964,129.08
+Belarus,BLR,1964,86.7
+Belize,BLZ,1964,15.11
+Benin,BEN,1964,22.24
+Bermuda,BMU,1964,156.37
+Bhutan,BTN,1964,35.11
+Bolivia,BOL,1964,22.77
+Bosnia and Herzegovina,BIH,1964,68.4
+Botswana,BWA,1964,70.37
+Brazil,BRA,1964,17.58
+Brunei Darussalam,BRN,1964,17.22
+Bulgaria,BGR,1964,130.77
+Burkina Faso,BFA,1964,25.66
+Burundi,BDI,1964,69.74
+Cabo Verde,CPV,1964,34.09
+Cambodia,KHM,1964,45.05
+Cameroon,CMR,1964,30.39
+Canada,CAN,1964,42.65
+Cayman Islands,CYM,1964,122.6
+Chad,TCD,1964,44.41
+Chile,CHL,1964,28.93
+China,CHN,1964,16.03
+Colombia,COL,1964,30.71
+Comoros,COM,1964,47.07
+"Congo, Dem. Rep.",ZAR,1964,62.31
+"Congo, Rep.",COG,1964,42.33
+Costa Rica,CRI,1964,17.71
+Cote d'Ivoire,CIV,1964,21.26
+Croatia,HRV,1964,96.1
+Cuba,CUB,1964,81.47
+Cyprus,CYP,1964,48.42
+Czech Republic,CZE,1964,101
+Denmark,DNK,1964,69.95
+Djibouti,DJI,1964,14.54
+Dominica,DMA,1964,98.56
+Dominican Republic,DOM,1964,46.3
+Ecuador,ECU,1964,33.6
+"Egypt, Arab Rep.",EGY,1964,21.58
+El Salvador,SLV,1964,38.71
+Equatorial Guinea,GNQ,1964,132.29
+Eritrea,ERI,1964,82.7
+Estonia,EST,1964,119.3
+Ethiopia,ETH,1964,53.6
+Faeroe Islands,FRO,1964,14.08
+Fiji,FJI,1964,70.98
+Finland,FIN,1964,95.04
+France,FRA,1964,72.54
+French Polynesia,PYF,1964,110.35
+Gabon,GAB,1964,48.48
+"Gambia, The",GMB,1964,69.86
+Georgia,GEO,1964,105.4
+Germany,DEU,1964,77.06
+Ghana,GHA,1964,32.22
+Greece,GRC,1964,50.71
+Greenland,GRL,1964,72.35
+Grenada,GRD,1964,128.03
+Guam,GUM,1964,35.23
+Guatemala,GTM,1964,22.16
+Guinea,GIN,1964,36.71
+Guinea-Bissau,GNB,1964,38.24
+Guyana,GUY,1964,70.07
+Haiti,HTI,1964,69.09
+Honduras,HND,1964,32.71
+"Hong Kong SAR, China",HKG,1964,117.99
+Hungary,HUN,1964,74.64
+Iceland,ISL,1964,90.38
+India,IND,1964,33.29
+Indonesia,IDN,1964,22
+"Iran, Islamic Rep.",IRN,1964,15.02
+Iraq,IRQ,1964,49.64
+Ireland,IRL,1964,49.83
+Israel,ISR,1964,31.35
+Italy,ITA,1964,77.07
+Jamaica,JAM,1964,77.53
+Japan,JPN,1964,76.18
+Jordan,JOR,1964,45.01
+Kazakhstan,KAZ,1964,106.2
+Kenya,KEN,1964,25.61
+Kiribati,KIR,1964,41.56
+"Korea, Dem. Rep.",PRK,1964,40.34
+"Korea, Rep.",KOR,1964,29.59
+Kuwait,KWT,1964,8.47
+Kyrgyz Republic,KGZ,1964,69
+Lao PDR,LAO,1964,22.69
+Latvia,LVA,1964,121.6
+Lebanon,LBN,1964,35.11
+Lesotho,LSO,1964,61.05
+Liberia,LBR,1964,48.47
+Libya,LBY,1964,14
+Liechtenstein,LIE,1964,40.5
+Lithuania,LTU,1964,85.8
+"Macao SAR, China",MAC,1964,45.08
+Madagascar,MDG,1964,50.52
+Malawi,MWI,1964,25.65
+Malaysia,MYS,1964,9.28
+Maldives,MDV,1964,59.18
+Mali,MLI,1964,31.13
+Malta,MLT,1964,45.37
+Marshall Islands,MHL,1964,109.1
+Mauritania,MRT,1964,58.33
+Mauritius,MUS,1964,64.97
+Mexico,MEX,1964,28.42
+Moldova,MDA,1964,113.5
+Mongolia,MNG,1964,89.84
+Morocco,MAR,1964,29.77
+Mozambique,MOZ,1964,54.86
+Myanmar,MMR,1964,25.98
+Namibia,NAM,1964,70.55
+Nepal,NPL,1964,29.7
+Netherlands,NLD,1964,48.52
+New Caledonia,NCL,1964,83.53
+New Zealand,NZL,1964,44.67
+Nicaragua,NIC,1964,37.33
+Niger,NER,1964,30.24
+Nigeria,NGA,1964,25.2
+Norway,NOR,1964,81.72
+Oman,OMN,1964,11.68
+Pakistan,PAK,1964,22.75
+Panama,PAN,1964,46.26
+Papua New Guinea,PNG,1964,38.34
+Paraguay,PRY,1964,23.01
+Peru,PER,1964,32.84
+Philippines,PHL,1964,29.55
+Poland,POL,1964,78.64
+Portugal,PRT,1964,77.18
+Puerto Rico,PRI,1964,191.12
+Qatar,QAT,1964,13.99
+Romania,ROM,1964,58.87
+Russian Federation,RUS,1964,97.4
+Rwanda,RWA,1964,27.28
+Samoa,WSM,1964,97.15
+Sao Tome and Principe,STP,1964,83.29
+Saudi Arabia,SAU,1964,9.75
+Senegal,SEN,1964,68.19
+Seychelles,SYC,1964,159.57
+Sierra Leone,SLE,1964,39.1
+Singapore,SGP,1964,423.54
+Solomon Islands,SLB,1964,32.21
+Somalia,SOM,1964,52.3
+South Africa,ZAF,1964,43.56
+Spain,ESP,1964,41.23
+Sri Lanka,LKA,1964,49.51
+St. Kitts and Nevis,KNA,1964,240.85
+St. Lucia,LCA,1964,199.18
+St. Vincent and the Grenadines,VCT,1964,96.55
+Sudan,SDN,1964,22.97
+Suriname,SUR,1964,48.73
+Swaziland,SWZ,1964,36.11
+Sweden,SWE,1964,98.92
+Switzerland,CHE,1964,82.27
+Syrian Arab Republic,SYR,1964,19.59
+Tanzania,TZA,1964,28.56
+Thailand,THA,1964,29.07
+Timor-Leste,TMP,1964,88.02
+Togo,TGO,1964,39.65
+Tonga,TON,1964,107.41
+Trinidad and Tobago,TTO,1964,97.04
+Tunisia,TUN,1964,32.83
+Turkey,TUR,1964,37.44
+Tuvalu,TUV,1964,84.97
+Uganda,UGA,1964,34.48
+United Arab Emirates,ARE,1964,4.4
+United Kingdom,GBR,1964,75.27
+United States,USA,1964,49.01
+Uruguay,URY,1964,54.6
+Vanuatu,VUT,1964,70.29
+"Venezuela, RB",VEN,1964,29.12
+Vietnam,VNM,1964,22.56
+Virgin Islands (U.S.),VIR,1964,361.32
+West Bank and Gaza,WBG,1964,48.8
+"Yemen, Rep.",YEM,1964,30.05
+Zambia,ZMB,1964,31.77
+Zimbabwe,ZWE,1964,41.53
+Afghanistan,AFG,1965,61.96
+Albania,ALB,1965,30.47
+Algeria,DZA,1965,41.23
+American Samoa,ASM,1965,84.49
+Angola,AGO,1965,32.58
+Antigua and Barbuda,ATG,1965,104.29
+Argentina,ARG,1965,38.06
+Armenia,ARM,1965,65.7
+Australia,AUS,1965,47.22
+Austria,AUT,1965,68.32
+Azerbaijan,AZE,1965,58.6
+"Bahamas, The",BHS,1965,42.59
+Bahrain,BHR,1965,56.83
+Bangladesh,BGD,1965,40.27
+Barbados,BRB,1965,144.55
+Belarus,BLR,1965,86.2
+Belize,BLZ,1965,16.19
+Benin,BEN,1965,23.21
+Bermuda,BMU,1965,150.44
+Bhutan,BTN,1965,36.02
+Bolivia,BOL,1965,23.76
+Bosnia and Herzegovina,BIH,1965,66.4
+Botswana,BWA,1965,69.41
+Brazil,BRA,1965,19.62
+Brunei Darussalam,BRN,1965,15.89
+Bulgaria,BGR,1965,144.64
+Burkina Faso,BFA,1965,26.32
+Burundi,BDI,1965,70.12
+Cabo Verde,CPV,1965,37.54
+Cambodia,KHM,1965,41.92
+Cameroon,CMR,1965,28
+Canada,CAN,1965,46
+Cayman Islands,CYM,1965,139.4
+Chad,TCD,1965,43.74
+Chile,CHL,1965,28.21
+China,CHN,1965,17.37
+Colombia,COL,1965,31.28
+Comoros,COM,1965,48.02
+"Congo, Dem. Rep.",ZAR,1965,62.57
+"Congo, Rep.",COG,1965,43.59
+Costa Rica,CRI,1965,18.33
+Cote d'Ivoire,CIV,1965,21.38
+Croatia,HRV,1965,98.6
+Cuba,CUB,1965,99.13
+Cyprus,CYP,1965,64.84
+Czech Republic,CZE,1965,102.6
+Denmark,DNK,1965,71.12
+Djibouti,DJI,1965,14.82
+Dominica,DMA,1965,111.62
+Dominican Republic,DOM,1965,42.55
+Ecuador,ECU,1965,35
+"Egypt, Arab Rep.",EGY,1965,21.79
+El Salvador,SLV,1965,42.67
+Equatorial Guinea,GNQ,1965,133.45
+Eritrea,ERI,1965,76.7
+Estonia,EST,1965,109.6
+Ethiopia,ETH,1965,59.3
+Faeroe Islands,FRO,1965,13.16
+Fiji,FJI,1965,64.99
+Finland,FIN,1965,95.36
+France,FRA,1965,77.29
+French Polynesia,PYF,1965,102.83
+Gabon,GAB,1965,49.24
+"Gambia, The",GMB,1965,76.57
+Georgia,GEO,1965,119.1
+Germany,DEU,1965,74.67
+Ghana,GHA,1965,29.13
+Greece,GRC,1965,55.25
+Greenland,GRL,1965,67.7
+Grenada,GRD,1965,157.98
+Guam,GUM,1965,40.62
+Guatemala,GTM,1965,21.67
+Guinea,GIN,1965,36.04
+Guinea-Bissau,GNB,1965,35.2
+Guyana,GUY,1965,70.13
+Haiti,HTI,1965,71.07
+Honduras,HND,1965,32.54
+"Hong Kong SAR, China",HKG,1965,111.87
+Hungary,HUN,1965,71.19
+Iceland,ISL,1965,95.94
+India,IND,1965,31.73
+Indonesia,IDN,1965,21.87
+"Iran, Islamic Rep.",IRN,1965,16.28
+Iraq,IRQ,1965,52.11
+Ireland,IRL,1965,48.35
+Israel,ISR,1965,31.38
+Italy,ITA,1965,79.96
+Jamaica,JAM,1965,80.15
+Japan,JPN,1965,78.7
+Jordan,JOR,1965,40.33
+Kazakhstan,KAZ,1965,86.7
+Kenya,KEN,1965,26.14
+Kiribati,KIR,1965,53.36
+"Korea, Dem. Rep.",PRK,1965,38.09
+"Korea, Rep.",KOR,1965,29.84
+Kuwait,KWT,1965,10.63
+Kyrgyz Republic,KGZ,1965,68.6
+Lao PDR,LAO,1965,23.19
+Latvia,LVA,1965,113.4
+Lebanon,LBN,1965,35.32
+Lesotho,LSO,1965,66.37
+Liberia,LBR,1965,50.86
+Libya,LBY,1965,24.73
+Liechtenstein,LIE,1965,42.58
+Lithuania,LTU,1965,85.9
+"Macao SAR, China",MAC,1965,48.32
+Madagascar,MDG,1965,49.45
+Malawi,MWI,1965,26.45
+Malaysia,MYS,1965,10.17
+Maldives,MDV,1965,60.65
+Mali,MLI,1965,33.26
+Malta,MLT,1965,46.41
+Marshall Islands,MHL,1965,172.8
+Mauritania,MRT,1965,60.33
+Mauritius,MUS,1965,86.35
+Mexico,MEX,1965,30.76
+"Micronesia, Fed. Sts.",FSM,1965,85.5
+Moldova,MDA,1965,129
+Mongolia,MNG,1965,95.89
+Morocco,MAR,1965,33.3
+Mozambique,MOZ,1965,53.88
+Myanmar,MMR,1965,25.25
+Namibia,NAM,1965,69.07
+Nepal,NPL,1965,30.56
+Netherlands,NLD,1965,47.75
+New Caledonia,NCL,1965,86.5
+New Zealand,NZL,1965,44.8
+Nicaragua,NIC,1965,39.02
+Niger,NER,1965,30.55
+Nigeria,NGA,1965,26.33
+Norway,NOR,1965,83.37
+Oman,OMN,1965,11.8
+Pakistan,PAK,1965,23.87
+Panama,PAN,1965,48.95
