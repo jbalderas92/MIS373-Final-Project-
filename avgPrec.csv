@@ -1,1 +1,625 @@
-CountryName,CountryCode,Year,Average precipitation in depth (mm per year)Afghanistan,AFG,1962,327Albania,ALB,1962,1485Algeria,DZA,1962,89Angola,AGO,1962,1010Antigua and Barbuda,ATG,1962,1030Argentina,ARG,1962,591Australia,AUS,1962,534Austria,AUT,1962,1110"Bahamas, The",BHS,1962,1292Bahrain,BHR,1962,83Bangladesh,BGD,1962,2666Barbados,BRB,1962,1422Belgium,BEL,1962,847Belize,BLZ,1962,1705Benin,BEN,1962,1039Bhutan,BTN,1962,2200Bolivia,BOL,1962,1146Botswana,BWA,1962,416Brazil,BRA,1962,1761Brunei Darussalam,BRN,1962,2722Bulgaria,BGR,1962,608Burkina Faso,BFA,1962,748Burundi,BDI,1962,1274Cabo Verde,CPV,1962,228Cambodia,KHM,1962,1904Cameroon,CMR,1962,1604Canada,CAN,1962,537Chad,TCD,1962,322Chile,CHL,1962,1522China,CHN,1962,645Colombia,COL,1962,3240Comoros,COM,1962,900"Congo, Dem. Rep.",ZAR,1962,1543"Congo, Rep.",COG,1962,1646Costa Rica,CRI,1962,2926Cote d'Ivoire,CIV,1962,1348Cuba,CUB,1962,1335Cyprus,CYP,1962,498Denmark,DNK,1962,703Djibouti,DJI,1962,220Dominica,DMA,1962,2083Dominican Republic,DOM,1962,1410Ecuador,ECU,1962,2274"Egypt, Arab Rep.",EGY,1962,51El Salvador,SLV,1962,1784Equatorial Guinea,GNQ,1962,2156Fiji,FJI,1962,2592Finland,FIN,1962,536France,FRA,1962,867Gabon,GAB,1962,1831"Gambia, The",GMB,1962,836Germany,DEU,1962,700Ghana,GHA,1962,1187Greece,GRC,1962,652Grenada,GRD,1962,2350Guatemala,GTM,1962,1996Guinea,GIN,1962,1651Guinea-Bissau,GNB,1962,1577Guyana,GUY,1962,2387Haiti,HTI,1962,1440Honduras,HND,1962,1976Hungary,HUN,1962,589Iceland,ISL,1962,1940India,IND,1962,1083Indonesia,IDN,1962,2702"Iran, Islamic Rep.",IRN,1962,228Iraq,IRQ,1962,216Ireland,IRL,1962,1118Israel,ISR,1962,435Italy,ITA,1962,832Jamaica,JAM,1962,2051Japan,JPN,1962,1668Jordan,JOR,1962,111Kenya,KEN,1962,630"Korea, Dem. Rep.",PRK,1962,1054"Korea, Rep.",KOR,1962,1274Kuwait,KWT,1962,121Lao PDR,LAO,1962,1834Lebanon,LBN,1962,661Lesotho,LSO,1962,788Liberia,LBR,1962,2391Libya,LBY,1962,56Luxembourg,LUX,1962,934Madagascar,MDG,1962,1513Malawi,MWI,1962,1181Malaysia,MYS,1962,2875Maldives,MDV,1962,1972Mali,MLI,1962,282Malta,MLT,1962,560Mauritania,MRT,1962,92Mauritius,MUS,1962,2041Mexico,MEX,1962,758Mongolia,MNG,1962,241Morocco,MAR,1962,346Mozambique,MOZ,1962,1032Myanmar,MMR,1962,2091Namibia,NAM,1962,285Nepal,NPL,1962,1500Netherlands,NLD,1962,778New Zealand,NZL,1962,1732Nicaragua,NIC,1962,2280Niger,NER,1962,151Nigeria,NGA,1962,1150Norway,NOR,1962,1414Oman,OMN,1962,125Pakistan,PAK,1962,494Panama,PAN,1962,2928Papua New Guinea,PNG,1962,3142Paraguay,PRY,1962,1130Peru,PER,1962,1738Philippines,PHL,1962,2348Poland,POL,1962,600Portugal,PRT,1962,854Puerto Rico,PRI,1962,2054Qatar,QAT,1962,74Romania,ROM,1962,637Rwanda,RWA,1962,1212Sao Tome and Principe,STP,1962,3200Saudi Arabia,SAU,1962,59Senegal,SEN,1962,686Seychelles,SYC,1962,2330Sierra Leone,SLE,1962,2526Singapore,SGP,1962,2497Solomon Islands,SLB,1962,3028Somalia,SOM,1962,282South Africa,ZAF,1962,495Spain,ESP,1962,636Sri Lanka,LKA,1962,1712St. Kitts and Nevis,KNA,1962,1427St. Lucia,LCA,1962,2301St. Vincent and the Grenadines,VCT,1962,1583Sudan,SDN,1962,416Suriname,SUR,1962,2331Swaziland,SWZ,1962,788Sweden,SWE,1962,624Switzerland,CHE,1962,1537Syrian Arab Republic,SYR,1962,252Tanzania,TZA,1962,1071Thailand,THA,1962,1622Timor-Leste,TMP,1962,1500Togo,TGO,1962,1168Trinidad and Tobago,TTO,1962,2200Tunisia,TUN,1962,207Turkey,TUR,1962,593Uganda,UGA,1962,1180United Arab Emirates,ARE,1962,78United Kingdom,GBR,1962,1220United States,USA,1962,715Uruguay,URY,1962,1300"Venezuela, RB",VEN,1962,2044Vietnam,VNM,1962,1821West Bank and Gaza,WBG,1962,402"Yemen, Rep.",YEM,1962,167Zambia,ZMB,1962,1020Zimbabwe,ZWE,1962,657
+CountryName,CountryCode,Year,Average precipitation in depth (mm per year)
+Afghanistan,AFG,1962,327
+Albania,ALB,1962,1485
+Algeria,DZA,1962,89
+Angola,AGO,1962,1010
+Antigua and Barbuda,ATG,1962,1030
+Argentina,ARG,1962,591
+Australia,AUS,1962,534
+Austria,AUT,1962,1110
+"Bahamas, The",BHS,1962,1292
+Bahrain,BHR,1962,83
+Bangladesh,BGD,1962,2666
+Barbados,BRB,1962,1422
+Belgium,BEL,1962,847
+Belize,BLZ,1962,1705
+Benin,BEN,1962,1039
+Bhutan,BTN,1962,2200
+Bolivia,BOL,1962,1146
+Botswana,BWA,1962,416
+Brazil,BRA,1962,1761
+Brunei Darussalam,BRN,1962,2722
+Bulgaria,BGR,1962,608
+Burkina Faso,BFA,1962,748
+Burundi,BDI,1962,1274
+Cabo Verde,CPV,1962,228
+Cambodia,KHM,1962,1904
+Cameroon,CMR,1962,1604
+Canada,CAN,1962,537
+Central African Republic,CAF,1962,1343
+Chad,TCD,1962,322
+Chile,CHL,1962,1522
+China,CHN,1962,645
+Colombia,COL,1962,3240
+Comoros,COM,1962,900
+"Congo, Dem. Rep.",ZAR,1962,1543
+"Congo, Rep.",COG,1962,1646
+Costa Rica,CRI,1962,2926
+Cote d'Ivoire,CIV,1962,1348
+Cuba,CUB,1962,1335
+Cyprus,CYP,1962,498
+Denmark,DNK,1962,703
+Djibouti,DJI,1962,220
+Dominica,DMA,1962,2083
+Dominican Republic,DOM,1962,1410
+Ecuador,ECU,1962,2274
+"Egypt, Arab Rep.",EGY,1962,51
+El Salvador,SLV,1962,1784
+Equatorial Guinea,GNQ,1962,2156
+Fiji,FJI,1962,2592
+Finland,FIN,1962,536
+France,FRA,1962,867
+Gabon,GAB,1962,1831
+"Gambia, The",GMB,1962,836
+Germany,DEU,1962,700
+Ghana,GHA,1962,1187
+Greece,GRC,1962,652
+Grenada,GRD,1962,2350
+Guatemala,GTM,1962,1996
+Guinea,GIN,1962,1651
+Guinea-Bissau,GNB,1962,1577
+Guyana,GUY,1962,2387
+Haiti,HTI,1962,1440
+Honduras,HND,1962,1976
+Hungary,HUN,1962,589
+Iceland,ISL,1962,1940
+India,IND,1962,1083
+Indonesia,IDN,1962,2702
+"Iran, Islamic Rep.",IRN,1962,228
+Iraq,IRQ,1962,216
+Ireland,IRL,1962,1118
+Israel,ISR,1962,435
+Italy,ITA,1962,832
+Jamaica,JAM,1962,2051
+Japan,JPN,1962,1668
+Jordan,JOR,1962,111
+Kenya,KEN,1962,630
+"Korea, Dem. Rep.",PRK,1962,1054
+"Korea, Rep.",KOR,1962,1274
+Kuwait,KWT,1962,121
+Lao PDR,LAO,1962,1834
+Lebanon,LBN,1962,661
+Lesotho,LSO,1962,788
+Liberia,LBR,1962,2391
+Libya,LBY,1962,56
+Luxembourg,LUX,1962,934
+Madagascar,MDG,1962,1513
+Malawi,MWI,1962,1181
+Malaysia,MYS,1962,2875
+Maldives,MDV,1962,1972
+Mali,MLI,1962,282
+Malta,MLT,1962,560
+Mauritania,MRT,1962,92
+Mauritius,MUS,1962,2041
+Mexico,MEX,1962,758
+Mongolia,MNG,1962,241
+Morocco,MAR,1962,346
+Mozambique,MOZ,1962,1032
+Myanmar,MMR,1962,2091
+Namibia,NAM,1962,285
+Nepal,NPL,1962,1500
+Netherlands,NLD,1962,778
+New Zealand,NZL,1962,1732
+Nicaragua,NIC,1962,2280
+Niger,NER,1962,151
+Nigeria,NGA,1962,1150
+Norway,NOR,1962,1414
+Oman,OMN,1962,125
+Pakistan,PAK,1962,494
+Panama,PAN,1962,2928
+Papua New Guinea,PNG,1962,3142
+Paraguay,PRY,1962,1130
+Peru,PER,1962,1738
+Philippines,PHL,1962,2348
+Poland,POL,1962,600
+Portugal,PRT,1962,854
+Puerto Rico,PRI,1962,2054
+Qatar,QAT,1962,74
+Romania,ROM,1962,637
+Rwanda,RWA,1962,1212
+Sao Tome and Principe,STP,1962,3200
+Saudi Arabia,SAU,1962,59
+Senegal,SEN,1962,686
+Seychelles,SYC,1962,2330
+Sierra Leone,SLE,1962,2526
+Singapore,SGP,1962,2497
+Solomon Islands,SLB,1962,3028
+Somalia,SOM,1962,282
+South Africa,ZAF,1962,495
+Spain,ESP,1962,636
+Sri Lanka,LKA,1962,1712
+St. Kitts and Nevis,KNA,1962,1427
+St. Lucia,LCA,1962,2301
+St. Vincent and the Grenadines,VCT,1962,1583
+Sudan,SDN,1962,416
+Suriname,SUR,1962,2331
+Swaziland,SWZ,1962,788
+Sweden,SWE,1962,624
+Switzerland,CHE,1962,1537
+Syrian Arab Republic,SYR,1962,252
+Tanzania,TZA,1962,1071
+Thailand,THA,1962,1622
+Timor-Leste,TMP,1962,1500
+Togo,TGO,1962,1168
+Trinidad and Tobago,TTO,1962,2200
+Tunisia,TUN,1962,207
+Turkey,TUR,1962,593
+Uganda,UGA,1962,1180
+United Arab Emirates,ARE,1962,78
+United Kingdom,GBR,1962,1220
+United States,USA,1962,715
+Uruguay,URY,1962,1300
+"Venezuela, RB",VEN,1962,2044
+Vietnam,VNM,1962,1821
+West Bank and Gaza,WBG,1962,402
+"Yemen, Rep.",YEM,1962,167
+Zambia,ZMB,1962,1020
+Zimbabwe,ZWE,1962,657
+Afghanistan,AFG,1967,327
+Albania,ALB,1967,1485
+Algeria,DZA,1967,89
+Angola,AGO,1967,1010
+Antigua and Barbuda,ATG,1967,1030
+Argentina,ARG,1967,591
+Australia,AUS,1967,534
+Austria,AUT,1967,1110
+"Bahamas, The",BHS,1967,1292
+Bahrain,BHR,1967,83
+Bangladesh,BGD,1967,2666
+Barbados,BRB,1967,1422
+Belgium,BEL,1967,847
+Belize,BLZ,1967,1705
+Benin,BEN,1967,1039
+Bhutan,BTN,1967,2200
+Bolivia,BOL,1967,1146
+Botswana,BWA,1967,416
+Brazil,BRA,1967,1761
+Brunei Darussalam,BRN,1967,2722
+Bulgaria,BGR,1967,608
+Burkina Faso,BFA,1967,748
+Burundi,BDI,1967,1274
+Cabo Verde,CPV,1967,228
+Cambodia,KHM,1967,1904
+Cameroon,CMR,1967,1604
+Canada,CAN,1967,537
+Central African Republic,CAF,1967,1343
+Chad,TCD,1967,322
+Chile,CHL,1967,1522
+China,CHN,1967,645
+Colombia,COL,1967,3240
+Comoros,COM,1967,900
+"Congo, Dem. Rep.",ZAR,1967,1543
+"Congo, Rep.",COG,1967,1646
+Costa Rica,CRI,1967,2926
+Cote d'Ivoire,CIV,1967,1348
+Cuba,CUB,1967,1335
+Cyprus,CYP,1967,498
+Denmark,DNK,1967,703
+Djibouti,DJI,1967,220
+Dominica,DMA,1967,2083
+Dominican Republic,DOM,1967,1410
+Ecuador,ECU,1967,2274
+"Egypt, Arab Rep.",EGY,1967,51
+El Salvador,SLV,1967,1784
+Equatorial Guinea,GNQ,1967,2156
+Fiji,FJI,1967,2592
+Finland,FIN,1967,536
+France,FRA,1967,867
+Gabon,GAB,1967,1831
+"Gambia, The",GMB,1967,836
+Germany,DEU,1967,700
+Ghana,GHA,1967,1187
+Greece,GRC,1967,652
+Grenada,GRD,1967,2350
+Guatemala,GTM,1967,1996
+Guinea,GIN,1967,1651
+Guinea-Bissau,GNB,1967,1577
+Guyana,GUY,1967,2387
+Haiti,HTI,1967,1440
+Honduras,HND,1967,1976
+Hungary,HUN,1967,589
+Iceland,ISL,1967,1940
+India,IND,1967,1083
+Indonesia,IDN,1967,2702
+"Iran, Islamic Rep.",IRN,1967,228
+Iraq,IRQ,1967,216
+Ireland,IRL,1967,1118
+Israel,ISR,1967,435
+Italy,ITA,1967,832
+Jamaica,JAM,1967,2051
+Japan,JPN,1967,1668
+Jordan,JOR,1967,111
+Kenya,KEN,1967,630
+"Korea, Dem. Rep.",PRK,1967,1054
+"Korea, Rep.",KOR,1967,1274
+Kuwait,KWT,1967,121
+Lao PDR,LAO,1967,1834
+Lebanon,LBN,1967,661
+Lesotho,LSO,1967,788
+Liberia,LBR,1967,2391
+Libya,LBY,1967,56
+Luxembourg,LUX,1967,934
+Madagascar,MDG,1967,1513
+Malawi,MWI,1967,1181
+Malaysia,MYS,1967,2875
+Maldives,MDV,1967,1972
+Mali,MLI,1967,282
+Malta,MLT,1967,560
+Mauritania,MRT,1967,92
+Mauritius,MUS,1967,2041
+Mexico,MEX,1967,758
+Mongolia,MNG,1967,241
+Morocco,MAR,1967,346
+Mozambique,MOZ,1967,1032
+Myanmar,MMR,1967,2091
+Namibia,NAM,1967,285
+Nepal,NPL,1967,1500
+Netherlands,NLD,1967,778
+New Zealand,NZL,1967,1732
+Nicaragua,NIC,1967,2280
+Niger,NER,1967,151
+Nigeria,NGA,1967,1150
+Norway,NOR,1967,1414
+Oman,OMN,1967,125
+Pakistan,PAK,1967,494
+Panama,PAN,1967,2928
+Papua New Guinea,PNG,1967,3142
+Paraguay,PRY,1967,1130
+Peru,PER,1967,1738
+Philippines,PHL,1967,2348
+Poland,POL,1967,600
+Portugal,PRT,1967,854
+Puerto Rico,PRI,1967,2054
+Qatar,QAT,1967,74
+Romania,ROM,1967,637
+Rwanda,RWA,1967,1212
+Sao Tome and Principe,STP,1967,3200
+Saudi Arabia,SAU,1967,59
+Senegal,SEN,1967,686
+Seychelles,SYC,1967,2330
+Sierra Leone,SLE,1967,2526
+Singapore,SGP,1967,2497
+Solomon Islands,SLB,1967,3028
+Somalia,SOM,1967,282
+South Africa,ZAF,1967,495
+Spain,ESP,1967,636
+Sri Lanka,LKA,1967,1712
+St. Kitts and Nevis,KNA,1967,1427
+St. Lucia,LCA,1967,2301
+St. Vincent and the Grenadines,VCT,1967,1583
+Sudan,SDN,1967,416
+Suriname,SUR,1967,2331
+Swaziland,SWZ,1967,788
+Sweden,SWE,1967,624
+Switzerland,CHE,1967,1537
+Syrian Arab Republic,SYR,1967,252
+Tanzania,TZA,1967,1071
+Thailand,THA,1967,1622
+Timor-Leste,TMP,1967,1500
+Togo,TGO,1967,1168
+Trinidad and Tobago,TTO,1967,2200
+Tunisia,TUN,1967,207
+Turkey,TUR,1967,593
+Uganda,UGA,1967,1180
+United Arab Emirates,ARE,1967,78
+United Kingdom,GBR,1967,1220
+United States,USA,1967,715
+Uruguay,URY,1967,1300
+"Venezuela, RB",VEN,1967,2044
+Vietnam,VNM,1967,1821
+West Bank and Gaza,WBG,1967,402
+"Yemen, Rep.",YEM,1967,167
+Zambia,ZMB,1967,1020
+Zimbabwe,ZWE,1967,657
+Afghanistan,AFG,1972,327
+Albania,ALB,1972,1485
+Algeria,DZA,1972,89
+Angola,AGO,1972,1010
+Antigua and Barbuda,ATG,1972,1030
+Argentina,ARG,1972,591
+Australia,AUS,1972,534
+Austria,AUT,1972,1110
+"Bahamas, The",BHS,1972,1292
+Bahrain,BHR,1972,83
+Bangladesh,BGD,1972,2666
+Barbados,BRB,1972,1422
+Belgium,BEL,1972,847
+Belize,BLZ,1972,1705
+Benin,BEN,1972,1039
+Bhutan,BTN,1972,2200
+Bolivia,BOL,1972,1146
+Botswana,BWA,1972,416
+Brazil,BRA,1972,1761
+Brunei Darussalam,BRN,1972,2722
+Bulgaria,BGR,1972,608
+Burkina Faso,BFA,1972,748
+Burundi,BDI,1972,1274
+Cabo Verde,CPV,1972,228
+Cambodia,KHM,1972,1904
+Cameroon,CMR,1972,1604
+Canada,CAN,1972,537
+Central African Republic,CAF,1972,1343
+Chad,TCD,1972,322
+Chile,CHL,1972,1522
+China,CHN,1972,645
+Colombia,COL,1972,3240
+Comoros,COM,1972,900
+"Congo, Dem. Rep.",ZAR,1972,1543
+"Congo, Rep.",COG,1972,1646
+Costa Rica,CRI,1972,2926
+Cote d'Ivoire,CIV,1972,1348
+Cuba,CUB,1972,1335
+Cyprus,CYP,1972,498
+Denmark,DNK,1972,703
+Djibouti,DJI,1972,220
+Dominica,DMA,1972,2083
+Dominican Republic,DOM,1972,1410
+Ecuador,ECU,1972,2274
+"Egypt, Arab Rep.",EGY,1972,51
+El Salvador,SLV,1972,1784
+Equatorial Guinea,GNQ,1972,2156
+Fiji,FJI,1972,2592
+Finland,FIN,1972,536
+France,FRA,1972,867
+Gabon,GAB,1972,1831
+"Gambia, The",GMB,1972,836
+Germany,DEU,1972,700
+Ghana,GHA,1972,1187
+Greece,GRC,1972,652
+Grenada,GRD,1972,2350
+Guatemala,GTM,1972,1996
+Guinea,GIN,1972,1651
+Guinea-Bissau,GNB,1972,1577
+Guyana,GUY,1972,2387
+Haiti,HTI,1972,1440
+Honduras,HND,1972,1976
+Hungary,HUN,1972,589
+Iceland,ISL,1972,1940
+India,IND,1972,1083
+Indonesia,IDN,1972,2702
+"Iran, Islamic Rep.",IRN,1972,228
+Iraq,IRQ,1972,216
+Ireland,IRL,1972,1118
+Israel,ISR,1972,435
+Italy,ITA,1972,832
+Jamaica,JAM,1972,2051
+Japan,JPN,1972,1668
+Jordan,JOR,1972,111
+Kenya,KEN,1972,630
+"Korea, Dem. Rep.",PRK,1972,1054
+"Korea, Rep.",KOR,1972,1274
+Kuwait,KWT,1972,121
+Lao PDR,LAO,1972,1834
+Lebanon,LBN,1972,661
+Lesotho,LSO,1972,788
+Liberia,LBR,1972,2391
+Libya,LBY,1972,56
+Luxembourg,LUX,1972,934
+Madagascar,MDG,1972,1513
+Malawi,MWI,1972,1181
+Malaysia,MYS,1972,2875
+Maldives,MDV,1972,1972
+Mali,MLI,1972,282
+Malta,MLT,1972,560
+Mauritania,MRT,1972,92
+Mauritius,MUS,1972,2041
+Mexico,MEX,1972,758
+Mongolia,MNG,1972,241
+Morocco,MAR,1972,346
+Mozambique,MOZ,1972,1032
+Myanmar,MMR,1972,2091
+Namibia,NAM,1972,285
+Nepal,NPL,1972,1500
+Netherlands,NLD,1972,778
+New Zealand,NZL,1972,1732
+Nicaragua,NIC,1972,2280
+Niger,NER,1972,151
+Nigeria,NGA,1972,1150
+Norway,NOR,1972,1414
+Oman,OMN,1972,125
+Pakistan,PAK,1972,494
+Panama,PAN,1972,2928
+Papua New Guinea,PNG,1972,3142
+Paraguay,PRY,1972,1130
+Peru,PER,1972,1738
+Philippines,PHL,1972,2348
+Poland,POL,1972,600
+Portugal,PRT,1972,854
+Puerto Rico,PRI,1972,2054
+Qatar,QAT,1972,74
+Romania,ROM,1972,637
+Rwanda,RWA,1972,1212
+Sao Tome and Principe,STP,1972,3200
+Saudi Arabia,SAU,1972,59
+Senegal,SEN,1972,686
+Seychelles,SYC,1972,2330
+Sierra Leone,SLE,1972,2526
+Singapore,SGP,1972,2497
+Solomon Islands,SLB,1972,3028
+Somalia,SOM,1972,282
+South Africa,ZAF,1972,495
+Spain,ESP,1972,636
+Sri Lanka,LKA,1972,1712
+St. Kitts and Nevis,KNA,1972,1427
+St. Lucia,LCA,1972,2301
+St. Vincent and the Grenadines,VCT,1972,1583
+Sudan,SDN,1972,416
+Suriname,SUR,1972,2331
+Swaziland,SWZ,1972,788
+Sweden,SWE,1972,624
+Switzerland,CHE,1972,1537
+Syrian Arab Republic,SYR,1972,252
+Tanzania,TZA,1972,1071
+Thailand,THA,1972,1622
+Timor-Leste,TMP,1972,1500
+Togo,TGO,1972,1168
+Trinidad and Tobago,TTO,1972,2200
+Tunisia,TUN,1972,207
+Turkey,TUR,1972,593
+Uganda,UGA,1972,1180
+United Arab Emirates,ARE,1972,78
+United Kingdom,GBR,1972,1220
+United States,USA,1972,715
+Uruguay,URY,1972,1300
+"Venezuela, RB",VEN,1972,2044
+Vietnam,VNM,1972,1821
+West Bank and Gaza,WBG,1972,402
+"Yemen, Rep.",YEM,1972,167
+Zambia,ZMB,1972,1020
+Zimbabwe,ZWE,1972,657
+Afghanistan,AFG,1977,327
+Albania,ALB,1977,1485
+Algeria,DZA,1977,89
+Angola,AGO,1977,1010
+Antigua and Barbuda,ATG,1977,1030
+Argentina,ARG,1977,591
+Australia,AUS,1977,534
+Austria,AUT,1977,1110
+"Bahamas, The",BHS,1977,1292
+Bahrain,BHR,1977,83
+Bangladesh,BGD,1977,2666
+Barbados,BRB,1977,1422
+Belgium,BEL,1977,847
+Belize,BLZ,1977,1705
+Benin,BEN,1977,1039
+Bhutan,BTN,1977,2200
+Bolivia,BOL,1977,1146
+Botswana,BWA,1977,416
+Brazil,BRA,1977,1761
+Brunei Darussalam,BRN,1977,2722
+Bulgaria,BGR,1977,608
+Burkina Faso,BFA,1977,748
+Burundi,BDI,1977,1274
+Cabo Verde,CPV,1977,228
+Cambodia,KHM,1977,1904
+Cameroon,CMR,1977,1604
+Canada,CAN,1977,537
+Central African Republic,CAF,1977,1343
+Chad,TCD,1977,322
+Chile,CHL,1977,1522
+China,CHN,1977,645
+Colombia,COL,1977,3240
+Comoros,COM,1977,900
+"Congo, Dem. Rep.",ZAR,1977,1543
+"Congo, Rep.",COG,1977,1646
+Costa Rica,CRI,1977,2926
+Cote d'Ivoire,CIV,1977,1348
+Cuba,CUB,1977,1335
+Cyprus,CYP,1977,498
+Denmark,DNK,1977,703
+Djibouti,DJI,1977,220
+Dominica,DMA,1977,2083
+Dominican Republic,DOM,1977,1410
+Ecuador,ECU,1977,2274
+"Egypt, Arab Rep.",EGY,1977,51
+El Salvador,SLV,1977,1784
+Equatorial Guinea,GNQ,1977,2156
+Fiji,FJI,1977,2592
+Finland,FIN,1977,536
+France,FRA,1977,867
+Gabon,GAB,1977,1831
+"Gambia, The",GMB,1977,836
+Germany,DEU,1977,700
+Ghana,GHA,1977,1187
+Greece,GRC,1977,652
+Grenada,GRD,1977,2350
+Guatemala,GTM,1977,1996
+Guinea,GIN,1977,1651
+Guinea-Bissau,GNB,1977,1577
+Guyana,GUY,1977,2387
+Haiti,HTI,1977,1440
+Honduras,HND,1977,1976
+Hungary,HUN,1977,589
+Iceland,ISL,1977,1940
+India,IND,1977,1083
+Indonesia,IDN,1977,2702
+"Iran, Islamic Rep.",IRN,1977,228
+Iraq,IRQ,1977,216
+Ireland,IRL,1977,1118
+Israel,ISR,1977,435
+Italy,ITA,1977,832
+Jamaica,JAM,1977,2051
+Japan,JPN,1977,1668
+Jordan,JOR,1977,111
+Kenya,KEN,1977,630
+"Korea, Dem. Rep.",PRK,1977,1054
+"Korea, Rep.",KOR,1977,1274
+Kuwait,KWT,1977,121
+Lao PDR,LAO,1977,1834
+Lebanon,LBN,1977,661
+Lesotho,LSO,1977,788
+Liberia,LBR,1977,2391
+Libya,LBY,1977,56
+Luxembourg,LUX,1977,934
+Madagascar,MDG,1977,1513
+Malawi,MWI,1977,1181
+Malaysia,MYS,1977,2875
+Maldives,MDV,1977,1972
+Mali,MLI,1977,282
+Malta,MLT,1977,560
+Mauritania,MRT,1977,92
+Mauritius,MUS,1977,2041
+Mexico,MEX,1977,758
+Mongolia,MNG,1977,241
+Morocco,MAR,1977,346
+Mozambique,MOZ,1977,1032
+Myanmar,MMR,1977,2091
+Namibia,NAM,1977,285
+Nepal,NPL,1977,1500
+Netherlands,NLD,1977,778
+New Zealand,NZL,1977,1732
+Nicaragua,NIC,1977,2280
+Niger,NER,1977,151
+Nigeria,NGA,1977,1150
+Norway,NOR,1977,1414
+Oman,OMN,1977,125
+Pakistan,PAK,1977,494
+Panama,PAN,1977,2928
+Papua New Guinea,PNG,1977,3142
+Paraguay,PRY,1977,1130
+Peru,PER,1977,1738
+Philippines,PHL,1977,2348
+Poland,POL,1977,600
+Portugal,PRT,1977,854
+Puerto Rico,PRI,1977,2054
+Qatar,QAT,1977,74
+Romania,ROM,1977,637
+Rwanda,RWA,1977,1212
+Sao Tome and Principe,STP,1977,3200
+Saudi Arabia,SAU,1977,59
+Senegal,SEN,1977,686
+Seychelles,SYC,1977,2330
+Sierra Leone,SLE,1977,2526
+Singapore,SGP,1977,2497
+Solomon Islands,SLB,1977,3028
+Somalia,SOM,1977,282
+South Africa,ZAF,1977,495
+Spain,ESP,1977,636
+Sri Lanka,LKA,1977,1712
+St. Kitts and Nevis,KNA,1977,1427
+St. Lucia,LCA,1977,2301
+St. Vincent and the Grenadines,VCT,1977,1583
+Sudan,SDN,1977,416
+Suriname,SUR,1977,2331
+Swaziland,SWZ,1977,788
+Sweden,SWE,1977,624
+Switzerland,CHE,1977,1537
+Syrian Arab Republic,SYR,1977,252
+Tanzania,TZA,1977,1071
+Thailand,THA,1977,1622
+Timor-Leste,TMP,1977,1500
+Togo,TGO,1977,1168
+Trinidad and Tobago,TTO,1977,2200
+Tunisia,TUN,1977,207
+Turkey,TUR,1977,593
+Uganda,UGA,1977,1180
+United Arab Emirates,ARE,1977,78
+United Kingdom,GBR,1977,1220
+United States,USA,1977,715
+Uruguay,URY,1977,1300
+"Venezuela, RB",VEN,1977,2044
+Vietnam,VNM,1977,1821
+West Bank and Gaza,WBG,1977,402
+"Yemen, Rep.",YEM,1977,167
+Zambia,ZMB,1977,1020
+Zimbabwe,ZWE,1977,657

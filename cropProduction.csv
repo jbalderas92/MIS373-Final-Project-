@@ -1,4 +1,34 @@
 CountryName,CountryCode,Year,Crop production index (2004-2006 = 100)
+Arab World,ARB,1961,25.15376296
+Caribbean small states,CSS,1961,89.66056556
+East Asia & Pacific (all income levels),EAS,1961,22.07207884
+East Asia & Pacific (developing only),EAP,1961,19.45840742
+Euro area,EMU,1961,64.95949377
+European Union,EUU,1961,68.44275505
+Fragile and conflict affected situations,FCS,1961,31.12694824
+Heavily indebted poor countries (HIPC),HPC,1961,33.86904919
+High income,HIC,1961,51.77400631
+High income: nonOECD,NOC,1961,31.64968816
+High income: OECD,OEC,1961,53.99498344
+Latin America & Caribbean (all income levels),LCN,1961,28.69148649
+Latin America & Caribbean (developing only),LAC,1961,28.52069838
+Least developed countries: UN classification,LDC,1961,34.57227291
+Low & middle income,LMY,1961,25.61097965
+Low income,LIC,1961,37.58872241
+Lower middle income,LMC,1961,28.39378376
+Middle East & North Africa (all income levels),MEA,1961,21.13729105
+Middle East & North Africa (developing only),MNA,1961,21.47529193
+Middle income,MIC,1961,24.94083063
+North America,NAC,1961,41.6471396
+OECD members,OED,1961,50.92290623
+Other small states,OSS,1961,49.05566549
+Pacific island small states,PSS,1961,63.2989394
+Small states,SST,1961,65.13116268
+South Asia,SAS,1961,34.25011157
+Sub-Saharan Africa (all income levels),SSF,1961,29.73712501
+Sub-Saharan Africa (developing only),SSA,1961,29.69762409
+Upper middle income,UMC,1961,22.57392152
+World,WLD,1961,32.47952341
 Afghanistan,AFG,1961,67.38
 Albania,ALB,1961,37.6
 Algeria,DZA,1961,50.06
@@ -28,6 +58,7 @@ Cambodia,KHM,1961,46.11
 Cameroon,CMR,1961,25.96
 Canada,CAN,1961,24.71
 Cayman Islands,CYM,1961,101
+Central African Republic,CAF,1961,51.28
 Chad,TCD,1961,33.02
 Chile,CHL,1961,29.74
 China,CHN,1961,18.03
@@ -167,6 +198,36 @@ Vietnam,VNM,1961,20.18
 "Yemen, Rep.",YEM,1961,30.66
 Zambia,ZMB,1961,27.87
 Zimbabwe,ZWE,1961,47.38
+Arab World,ARB,1962,29.46201627
+Caribbean small states,CSS,1962,89.83606993
+East Asia & Pacific (all income levels),EAS,1962,23.22467986
+East Asia & Pacific (developing only),EAP,1962,20.51447297
+Euro area,EMU,1962,70.64038339
+European Union,EUU,1962,71.49445941
+Fragile and conflict affected situations,FCS,1962,33.80644059
+Heavily indebted poor countries (HIPC),HPC,1962,35.36115519
+High income,HIC,1962,54.06833276
+High income: nonOECD,NOC,1962,32.10159924
+High income: OECD,OEC,1962,56.4926441
+Latin America & Caribbean (all income levels),LCN,1962,29.5895248
+Latin America & Caribbean (developing only),LAC,1962,29.50240587
+Least developed countries: UN classification,LDC,1962,35.40105289
+Low & middle income,LMY,1962,26.54004304
+Low income,LIC,1962,38.73847462
+Lower middle income,LMC,1962,29.37984299
+Middle East & North Africa (all income levels),MEA,1962,24.28829969
+Middle East & North Africa (developing only),MNA,1962,24.81283317
+Middle income,MIC,1962,25.85754659
+North America,NAC,1962,43.33498575
+OECD members,OED,1962,53.23107545
+Other small states,OSS,1962,48.55996143
+Pacific island small states,PSS,1962,69.19569865
+Small states,SST,1962,65.74269753
+South Asia,SAS,1962,34.06223586
+Sub-Saharan Africa (all income levels),SSF,1962,31.07105315
+Sub-Saharan Africa (developing only),SSA,1962,31.02458273
+Upper middle income,UMC,1962,23.44310447
+World,WLD,1962,33.76700745
 Afghanistan,AFG,1962,68.9
 Albania,ALB,1962,41.5
 Algeria,DZA,1962,53.26
@@ -200,6 +261,7 @@ Cambodia,KHM,1962,40.41
 Cameroon,CMR,1962,27.99
 Canada,CAN,1962,37.69
 Cayman Islands,CYM,1962,120.9
+Central African Republic,CAF,1962,51.8
 Chad,TCD,1962,37.71
 Chile,CHL,1962,30.84
 China,CHN,1962,18.93
@@ -348,6 +410,36 @@ Vietnam,VNM,1962,21.51
 "Yemen, Rep.",YEM,1962,31.68
 Zambia,ZMB,1962,27.62
 Zimbabwe,ZWE,1962,51.62
+Arab World,ARB,1963,30.21397392
+Caribbean small states,CSS,1963,92.12161084
+East Asia & Pacific (all income levels),EAS,1963,23.93531481
+East Asia & Pacific (developing only),EAP,1963,21.19018117
+Euro area,EMU,1963,73.13986642
+European Union,EUU,1963,75.48813109
+Fragile and conflict affected situations,FCS,1963,33.75721674
+Heavily indebted poor countries (HIPC),HPC,1963,36.37836168
+High income,HIC,1963,56.80097441
+High income: nonOECD,NOC,1963,34.31326941
+High income: OECD,OEC,1963,59.28278165
+Latin America & Caribbean (all income levels),LCN,1963,30.33184934
+Latin America & Caribbean (developing only),LAC,1963,29.83906399
+Least developed countries: UN classification,LDC,1963,37.14857521
+Low & middle income,LMY,1963,27.43839487
+Low income,LIC,1963,39.92769274
+Lower middle income,LMC,1963,30.29051856
+Middle East & North Africa (all income levels),MEA,1963,24.90058364
+Middle East & North Africa (developing only),MNA,1963,25.38562262
+Middle income,MIC,1963,26.73962459
+North America,NAC,1963,45.60768502
+OECD members,OED,1963,55.90368245
+Other small states,OSS,1963,51.3387872
+Pacific island small states,PSS,1963,75.72262804
+Small states,SST,1963,68.86215086
+South Asia,SAS,1963,35.41699526
+Sub-Saharan Africa (all income levels),SSF,1963,32.29462221
+Sub-Saharan Africa (developing only),SSA,1963,32.24867205
+Upper middle income,UMC,1963,24.30557959
+World,WLD,1963,35.14691289
 Afghanistan,AFG,1963,67.26
 Albania,ALB,1963,40.23
 Algeria,DZA,1963,54.07
@@ -381,6 +473,7 @@ Cambodia,KHM,1963,49.71
 Cameroon,CMR,1963,31.04
 Canada,CAN,1963,43.41
 Cayman Islands,CYM,1963,113.9
+Central African Republic,CAF,1963,53.38
 Chad,TCD,1963,42.23
 Chile,CHL,1963,30.28
 China,CHN,1963,19.69
@@ -532,6 +625,36 @@ Vietnam,VNM,1963,21.44
 "Yemen, Rep.",YEM,1963,33.2
 Zambia,ZMB,1963,26.66
 Zimbabwe,ZWE,1963,45.62
+Arab World,ARB,1964,30.37578859
+Caribbean small states,CSS,1964,96.10754189
+East Asia & Pacific (all income levels),EAS,1964,25.28042181
+East Asia & Pacific (developing only),EAP,1964,22.35987129
+Euro area,EMU,1964,71.24150454
+European Union,EUU,1964,75.14542442
+Fragile and conflict affected situations,FCS,1964,35.30526628
+Heavily indebted poor countries (HIPC),HPC,1964,37.79356659
+High income,HIC,1964,56.29715831
+High income: nonOECD,NOC,1964,36.50697552
+High income: OECD,OEC,1964,58.48125931
+Latin America & Caribbean (all income levels),LCN,1964,31.80834348
+Latin America & Caribbean (developing only),LAC,1964,31.27797869
+Least developed countries: UN classification,LDC,1964,38.0248347
+Low & middle income,LMY,1964,28.48281875
+Low income,LIC,1964,41.549397
+Lower middle income,LMC,1964,31.18242143
+Middle East & North Africa (all income levels),MEA,1964,25.52557368
+Middle East & North Africa (developing only),MNA,1964,25.86497079
+Middle income,MIC,1964,27.75174991
+North America,NAC,1964,43.49852356
+OECD members,OED,1964,55.54219349
+Other small states,OSS,1964,49.34065911
+Pacific island small states,PSS,1964,75.91716674
+Small states,SST,1964,69.24590639
+South Asia,SAS,1964,36.22797953
+Sub-Saharan Africa (all income levels),SSF,1964,33.11459157
+Sub-Saharan Africa (developing only),SSA,1964,33.06341463
+Upper middle income,UMC,1964,25.40011426
+World,WLD,1964,35.78487944
 Afghanistan,AFG,1964,73.15
 Albania,ALB,1964,48.36
 Algeria,DZA,1964,46.42
@@ -565,6 +688,7 @@ Cambodia,KHM,1964,53.2
 Cameroon,CMR,1964,31.8
 Canada,CAN,1964,38.2
 Cayman Islands,CYM,1964,125.4
+Central African Republic,CAF,1964,52.01
 Chad,TCD,1964,40.24
 Chile,CHL,1964,31.2
 China,CHN,1964,21.08
@@ -717,6 +841,36 @@ West Bank and Gaza,WBG,1964,36.4
 "Yemen, Rep.",YEM,1964,33.07
 Zambia,ZMB,1964,29.18
 Zimbabwe,ZWE,1964,57.86
+Arab World,ARB,1965,31.7954261
+Caribbean small states,CSS,1965,101.3793132
+East Asia & Pacific (all income levels),EAS,1965,26.37113389
+East Asia & Pacific (developing only),EAP,1965,23.57029008
+Euro area,EMU,1965,71.99143433
+European Union,EUU,1965,75.12131499
+Fragile and conflict affected situations,FCS,1965,35.42716622
+Heavily indebted poor countries (HIPC),HPC,1965,37.51959468
+High income,HIC,1965,57.59084074
+High income: nonOECD,NOC,1965,35.64022368
+High income: OECD,OEC,1965,60.01337343
+Latin America & Caribbean (all income levels),LCN,1965,34.32508299
+Latin America & Caribbean (developing only),LAC,1965,35.08411479
+Least developed countries: UN classification,LDC,1965,38.06728144
+Low & middle income,LMY,1965,29.40130461
+Low income,LIC,1965,41.01319884
+Lower middle income,LMC,1965,30.57121708
+Middle East & North Africa (all income levels),MEA,1965,27.07826214
+Middle East & North Africa (developing only),MNA,1965,27.48327764
+Middle income,MIC,1965,28.75162464
+North America,NAC,1965,47.58411236
+OECD members,OED,1965,56.96722032
+Other small states,OSS,1965,53.67929389
+Pacific island small states,PSS,1965,70.44459548
+Small states,SST,1965,72.56829232
+South Asia,SAS,1965,34.81278319
+Sub-Saharan Africa (all income levels),SSF,1965,33.26961325
+Sub-Saharan Africa (developing only),SSA,1965,33.22067474
+Upper middle income,UMC,1965,27.50434159
+World,WLD,1965,36.80186514
 Afghanistan,AFG,1965,75.72
 Albania,ALB,1965,43.43
 Algeria,DZA,1965,54.02
@@ -750,6 +904,7 @@ Cambodia,KHM,1965,49.15
 Cameroon,CMR,1965,29.7
 Canada,CAN,1965,42.59
 Cayman Islands,CYM,1965,143.6
+Central African Republic,CAF,1965,55.68
 Chad,TCD,1965,38.52
 Chile,CHL,1965,28.56
 China,CHN,1965,22.82
@@ -850,3 +1005,3222 @@ Norway,NOR,1965,117.16
 Oman,OMN,1965,17.01
 Pakistan,PAK,1965,25.36
 Panama,PAN,1965,73.71
+Papua New Guinea,PNG,1965,39.13
+Paraguay,PRY,1965,21.2
+Peru,PER,1965,36.65
+Philippines,PHL,1965,33.24
+Poland,POL,1965,105.33
+Portugal,PRT,1965,127.46
+Puerto Rico,PRI,1965,490.02
+Qatar,QAT,1965,17.75
+Romania,ROM,1965,66.07
+Russian Federation,RUS,1965,78.3
+Rwanda,RWA,1965,31.58
+Samoa,WSM,1965,97.72
+Sao Tome and Principe,STP,1965,81.8
+Saudi Arabia,SAU,1965,13.3
+Senegal,SEN,1965,83.58
+Seychelles,SYC,1965,305.41
+Sierra Leone,SLE,1965,38.67
+Singapore,SGP,1965,453.31
+Solomon Islands,SLB,1965,32.52
+Somalia,SOM,1965,66.81
+South Africa,ZAF,1965,41.66
+Spain,ESP,1965,49.1
+Sri Lanka,LKA,1965,51.39
+St. Kitts and Nevis,KNA,1965,242.11
+St. Lucia,LCA,1965,332.7
+St. Vincent and the Grenadines,VCT,1965,75.75
+Sudan,SDN,1965,30.07
+Suriname,SUR,1965,60.15
+Swaziland,SWZ,1965,27.38
+Sweden,SWE,1965,103.73
+Switzerland,CHE,1965,92.06
+Syrian Arab Republic,SYR,1965,23.19
+Tanzania,TZA,1965,31.66
+Thailand,THA,1965,24.65
+Timor-Leste,TMP,1965,40.51
+Togo,TGO,1965,40.71
+Tonga,TON,1965,144.39
+Trinidad and Tobago,TTO,1965,229.31
+Tunisia,TUN,1965,33.89
+Turkey,TUR,1965,34.39
+Tuvalu,TUV,1965,115.45
+Uganda,UGA,1965,37.51
+United Arab Emirates,ARE,1965,1.04
+United Kingdom,GBR,1965,71.28
+United States,USA,1965,48.16
+Uruguay,URY,1965,36.3
+Vanuatu,VUT,1965,66.57
+"Venezuela, RB",VEN,1965,43.49
+Vietnam,VNM,1965,21.37
+West Bank and Gaza,WBG,1965,33.8
+"Yemen, Rep.",YEM,1965,34.64
+Zambia,ZMB,1965,29.7
+Zimbabwe,ZWE,1965,53.05
+Arab World,ARB,1966,28.14656187
+Caribbean small states,CSS,1966,101.2795065
+East Asia & Pacific (all income levels),EAS,1966,28.1070405
+East Asia & Pacific (developing only),EAP,1966,25.00494145
+Euro area,EMU,1966,71.91155672
+European Union,EUU,1966,76.91943142
+Fragile and conflict affected situations,FCS,1966,34.4741094
+Heavily indebted poor countries (HIPC),HPC,1966,38.66718734
+High income,HIC,1966,58.5568817
+High income: nonOECD,NOC,1966,37.16789793
+High income: OECD,OEC,1966,60.91707539
+Latin America & Caribbean (all income levels),LCN,1966,33.75555805
+Latin America & Caribbean (developing only),LAC,1966,33.86157251
+Least developed countries: UN classification,LDC,1966,37.54900579
+Low & middle income,LMY,1966,30.0281438
+Low income,LIC,1966,42.15416566
+Lower middle income,LMC,1966,30.14370288
+Middle East & North Africa (all income levels),MEA,1966,24.66864451
+Middle East & North Africa (developing only),MNA,1966,24.85204958
+Middle income,MIC,1966,29.34969863
+North America,NAC,1966,47.38417879
+OECD members,OED,1966,58.13384104
+Other small states,OSS,1966,53.12475644
+Pacific island small states,PSS,1966,70.61104571
+Small states,SST,1966,72.27052277
+South Asia,SAS,1966,34.39661167
+Sub-Saharan Africa (all income levels),SSF,1966,33.99970661
+Sub-Saharan Africa (developing only),SSA,1966,33.94744293
+Upper middle income,UMC,1966,28.80542948
+World,WLD,1966,37.51767182
+Afghanistan,AFG,1966,74.45
+Albania,ALB,1966,51.77
+Algeria,DZA,1966,32.48
+American Samoa,ASM,1966,60.18
+Angola,AGO,1966,49.02
+Antigua and Barbuda,ATG,1966,123.74
+Argentina,ARG,1966,29.63
+Armenia,ARM,1966,73.7
+Australia,AUS,1966,40.14
+Austria,AUT,1966,83.95
+Azerbaijan,AZE,1966,64.3
+"Bahamas, The",BHS,1966,49.71
+Bahrain,BHR,1966,73.27
+Bangladesh,BGD,1966,40.32
+Barbados,BRB,1966,298.07
+Belarus,BLR,1966,87.5
+Belize,BLZ,1966,18.57
+Benin,BEN,1966,18.44
+Bermuda,BMU,1966,93.26
+Bhutan,BTN,1966,33.15
+Bolivia,BOL,1966,27.06
+Bosnia and Herzegovina,BIH,1966,61.5
+Botswana,BWA,1966,55.5
+Brazil,BRA,1966,26.84
+Brunei Darussalam,BRN,1966,61.84
+Bulgaria,BGR,1966,169.82
+Burkina Faso,BFA,1966,21.47
+Burundi,BDI,1966,60.23
+Cabo Verde,CPV,1966,59.06
+Cambodia,KHM,1966,47.54
+Cameroon,CMR,1966,30.78
+Canada,CAN,1966,50.33
+Cayman Islands,CYM,1966,220.36
+Central African Republic,CAF,1966,55.18
+Chad,TCD,1966,39.94
+Chile,CHL,1966,32.79
+China,CHN,1966,24.59
+Colombia,COL,1966,36.67
+Comoros,COM,1966,47.37
+"Congo, Dem. Rep.",ZAR,1966,63.75
+"Congo, Rep.",COG,1966,49.44
+Costa Rica,CRI,1966,22.13
+Cote d'Ivoire,CIV,1966,25.2
+Croatia,HRV,1966,107.9
+Cuba,CUB,1966,63.93
+Cyprus,CYP,1966,123.87
+Czech Republic,CZE,1966,101.5
+Denmark,DNK,1966,60.3
+Djibouti,DJI,1966,4.01
+Dominica,DMA,1966,116.2
+Dominican Republic,DOM,1966,68.91
+Ecuador,ECU,1966,51.37
+"Egypt, Arab Rep.",EGY,1966,28.73
+El Salvador,SLV,1966,74.78
+Equatorial Guinea,GNQ,1966,146.01
+Eritrea,ERI,1966,70.1
+Estonia,EST,1966,104.8
+Ethiopia,ETH,1966,70.8
+Faeroe Islands,FRO,1966,132.11
+Fiji,FJI,1966,77.3
+Finland,FIN,1966,61.29
+France,FRA,1966,72.3
+French Polynesia,PYF,1966,120.35
+Gabon,GAB,1966,33.84
+"Gambia, The",GMB,1966,85.84
+Georgia,GEO,1966,138.6
+Germany,DEU,1966,85.7
+Ghana,GHA,1966,28.9
+Greece,GRC,1966,54.31
+Grenada,GRD,1966,168.03
+Guam,GUM,1966,30.76
+Guatemala,GTM,1966,27.29
+Guinea,GIN,1966,37.05
+Guinea-Bissau,GNB,1966,32.25
+Guyana,GUY,1966,75.52
+Haiti,HTI,1966,85.35
+Honduras,HND,1966,43.81
+"Hong Kong SAR, China",HKG,1966,352.2
+Hungary,HUN,1966,71.88
+Iceland,ISL,1966,19.46
+India,IND,1966,34.22
+Indonesia,IDN,1966,23.67
+"Iran, Islamic Rep.",IRN,1966,16.43
+Iraq,IRQ,1966,42.6
+Ireland,IRL,1966,78.65
+Israel,ISR,1966,41.84
+Italy,ITA,1966,85.37
+Jamaica,JAM,1966,125.89
+Japan,JPN,1966,131.29
+Jordan,JOR,1966,42.45
+Kazakhstan,KAZ,1966,59.2
+Kenya,KEN,1966,27.52
+Kiribati,KIR,1966,51.72
+"Korea, Dem. Rep.",PRK,1966,47.25
+"Korea, Rep.",KOR,1966,51.22
+Kuwait,KWT,1966,2.69
+Kyrgyz Republic,KGZ,1966,59.1
+Lao PDR,LAO,1966,25.06
+Latvia,LVA,1966,92.2
+Lebanon,LBN,1966,36.4
+Lesotho,LSO,1966,91.98
+Liberia,LBR,1966,55.72
+Libya,LBY,1966,28.64
+Liechtenstein,LIE,1966,47.81
+Lithuania,LTU,1966,118.6
+"Macao SAR, China",MAC,1966,51.81
+Madagascar,MDG,1966,49.15
+Malawi,MWI,1966,26.2
+Malaysia,MYS,1966,19.66
+Maldives,MDV,1966,66.36
+Mali,MLI,1966,23.62
+Malta,MLT,1966,51.84
+Marshall Islands,MHL,1966,146.1
+Mauritania,MRT,1966,49.21
+Mauritius,MUS,1966,90.52
+Mexico,MEX,1966,42.1
+"Micronesia, Fed. Sts.",FSM,1966,95.2
+Moldova,MDA,1966,108.1
+Mongolia,MNG,1966,80.17
+Morocco,MAR,1966,29.49
+Mozambique,MOZ,1966,55.98
+Myanmar,MMR,1966,20.8
+Namibia,NAM,1966,35.62
+Nepal,NPL,1966,28.57
+Netherlands,NLD,1966,50.6
+New Caledonia,NCL,1966,144.89
+New Zealand,NZL,1966,24.74
+Nicaragua,NIC,1966,62.91
+Niger,NER,1966,34.28
+Nigeria,NGA,1966,25.51
+Norway,NOR,1966,114.06
+Oman,OMN,1966,17.35
+Pakistan,PAK,1966,25.83
+Panama,PAN,1966,73.23
+Papua New Guinea,PNG,1966,40.82
+Paraguay,PRY,1966,19.39
+Peru,PER,1966,40.11
+Philippines,PHL,1966,34.11
+Poland,POL,1966,115.79
+Portugal,PRT,1966,93.42
+Puerto Rico,PRI,1966,490.65
+Qatar,QAT,1966,19.75
+Romania,ROM,1966,80.04
+Russian Federation,RUS,1966,79.3
+Rwanda,RWA,1966,34.61
+Samoa,WSM,1966,90.92
+Sao Tome and Principe,STP,1966,84.81
+Saudi Arabia,SAU,1966,14.28
+Senegal,SEN,1966,75.15
+Seychelles,SYC,1966,351.03
+Sierra Leone,SLE,1966,41
+Singapore,SGP,1966,472.39
+Solomon Islands,SLB,1966,31.91
+Somalia,SOM,1966,67.88
+South Africa,ZAF,1966,45.47
+Spain,ESP,1966,53.35
+Sri Lanka,LKA,1966,52.91
+St. Kitts and Nevis,KNA,1966,246.71
+St. Lucia,LCA,1966,328.42
+St. Vincent and the Grenadines,VCT,1966,72.83
+Sudan,SDN,1966,29.53
+Suriname,SUR,1966,63.51
+Swaziland,SWZ,1966,32.91
+Sweden,SWE,1966,80.32
+Switzerland,CHE,1966,110.17
+Syrian Arab Republic,SYR,1966,18.24
+Tanzania,TZA,1966,35.55
+Thailand,THA,1966,29.26
+Timor-Leste,TMP,1966,42.84
+Togo,TGO,1966,41.17
+Tonga,TON,1966,160.9
+Trinidad and Tobago,TTO,1966,217.53
+Tunisia,TUN,1966,25.22
+Turkey,TUR,1966,37.96
+Tuvalu,TUV,1966,115.62
+Uganda,UGA,1966,38.95
+United Arab Emirates,ARE,1966,1.4
+United Kingdom,GBR,1966,66.81
+United States,USA,1966,47.05
+Uruguay,URY,1966,37.44
+Vanuatu,VUT,1966,75.41
+"Venezuela, RB",VEN,1966,44.61
+Vietnam,VNM,1966,19.85
+West Bank and Gaza,WBG,1966,83.5
+"Yemen, Rep.",YEM,1966,32.06
+Zambia,ZMB,1966,33.02
+Zimbabwe,ZWE,1966,59.17
+Arab World,ARB,1967,30.36169522
+Caribbean small states,CSS,1967,101.190835
+East Asia & Pacific (all income levels),EAS,1967,28.13521685
+East Asia & Pacific (developing only),EAP,1967,25.07271333
+Euro area,EMU,1967,76.82881142
+European Union,EUU,1967,81.06861095
+Fragile and conflict affected situations,FCS,1967,37.56106127
+Heavily indebted poor countries (HIPC),HPC,1967,41.3758998
+High income,HIC,1967,61.17966074
+High income: nonOECD,NOC,1967,40.23291129
+High income: OECD,OEC,1967,63.49105554
+Latin America & Caribbean (all income levels),LCN,1967,35.99476488
+Latin America & Caribbean (developing only),LAC,1967,35.95057437
+Least developed countries: UN classification,LDC,1967,40.83773378
+Low & middle income,LMY,1967,31.28406403
+Low income,LIC,1967,44.41568555
+Lower middle income,LMC,1967,32.03531357
+Middle East & North Africa (all income levels),MEA,1967,25.9341621
+Middle East & North Africa (developing only),MNA,1967,26.05647482
+Middle income,MIC,1967,30.54935605
+North America,NAC,1967,48.61575884
+OECD members,OED,1967,60.44001621
+Other small states,OSS,1967,56.60730679
+Pacific island small states,PSS,1967,71.74212699
+Small states,SST,1967,74.18905162
+South Asia,SAS,1967,37.43900476
+Sub-Saharan Africa (all income levels),SSF,1967,37.01808504
+Sub-Saharan Africa (developing only),SSA,1967,36.96816986
+Upper middle income,UMC,1967,29.53077101
+World,WLD,1967,39.13242767
+Afghanistan,AFG,1967,83.05
+Albania,ALB,1967,51.33
+Algeria,DZA,1967,36.03
+American Samoa,ASM,1967,65.56
+Angola,AGO,1967,50.27
+Antigua and Barbuda,ATG,1967,102.63
+Argentina,ARG,1967,33.62
+Armenia,ARM,1967,57.1
+Australia,AUS,1967,31.14
+Austria,AUT,1967,88.37
+Azerbaijan,AZE,1967,53.8
+"Bahamas, The",BHS,1967,53.02
+Bahrain,BHR,1967,73.97
+Bangladesh,BGD,1967,46.18
+Barbados,BRB,1967,347.83
+Belarus,BLR,1967,69
+Belize,BLZ,1967,21.05
+Benin,BEN,1967,20.7
+Bermuda,BMU,1967,83.07
+Bhutan,BTN,1967,34.01
+Bolivia,BOL,1967,28.07
+Bosnia and Herzegovina,BIH,1967,77.7
+Botswana,BWA,1967,69.02
+Brazil,BRA,1967,29.56
+Brunei Darussalam,BRN,1967,67.6
+Bulgaria,BGR,1967,159.74
+Burkina Faso,BFA,1967,22.27
+Burundi,BDI,1967,62.92
+Cabo Verde,CPV,1967,59.32
+Cambodia,KHM,1967,49.68
+Cameroon,CMR,1967,34.5
+Canada,CAN,1967,40.04
+Cayman Islands,CYM,1967,224.84
+Central African Republic,CAF,1967,59.55
+Chad,TCD,1967,38.5
+Chile,CHL,1967,33.01
+China,CHN,1967,24.86
+Colombia,COL,1967,37.61
+Comoros,COM,1967,48.08
+"Congo, Dem. Rep.",ZAR,1967,66.25
+"Congo, Rep.",COG,1967,54.18
+Costa Rica,CRI,1967,23.09
+Cote d'Ivoire,CIV,1967,23.19
+Croatia,HRV,1967,112.1
+Cuba,CUB,1967,80.79
+Cyprus,CYP,1967,148.74
+Czech Republic,CZE,1967,97.4
+Denmark,DNK,1967,61.21
+Djibouti,DJI,1967,4.25
+Dominica,DMA,1967,115.53
+Dominican Republic,DOM,1967,67.92
+Ecuador,ECU,1967,49.24
+"Egypt, Arab Rep.",EGY,1967,27.76
+El Salvador,SLV,1967,75.23
+Equatorial Guinea,GNQ,1967,140.14
+Eritrea,ERI,1967,70.6
+Estonia,EST,1967,106.8
+Ethiopia,ETH,1967,71.6
+Faeroe Islands,FRO,1967,116.89
+Fiji,FJI,1967,75.51
+Finland,FIN,1967,65.28
+France,FRA,1967,78.01
+French Polynesia,PYF,1967,108.09
+Gabon,GAB,1967,34.73
+"Gambia, The",GMB,1967,76.46
+Georgia,GEO,1967,141.3
+Germany,DEU,1967,97.41
+Ghana,GHA,1967,31.56
+Greece,GRC,1967,55.64
+Grenada,GRD,1967,185.66
+Guam,GUM,1967,36
+Guatemala,GTM,1967,25.97
+Guinea,GIN,1967,38.88
+Guinea-Bissau,GNB,1967,31.54
+Guyana,GUY,1967,74.66
+Haiti,HTI,1967,87.23
+Honduras,HND,1967,50.39
+"Hong Kong SAR, China",HKG,1967,404.29
+Hungary,HUN,1967,74.94
+Iceland,ISL,1967,33.03
+India,IND,1967,36.86
+Indonesia,IDN,1967,22.81
+"Iran, Islamic Rep.",IRN,1967,16.24
+Iraq,IRQ,1967,47.47
+Ireland,IRL,1967,86.28
+Israel,ISR,1967,49.43
+Italy,ITA,1967,92.57
+Jamaica,JAM,1967,120.19
+Japan,JPN,1967,141.23
+Jordan,JOR,1967,54.71
+Kazakhstan,KAZ,1967,64.2
+Kenya,KEN,1967,28.99
+Kiribati,KIR,1967,59.33
+"Korea, Dem. Rep.",PRK,1967,45.64
+"Korea, Rep.",KOR,1967,48.16
+Kuwait,KWT,1967,3.01
+Kyrgyz Republic,KGZ,1967,72.5
+Lao PDR,LAO,1967,27.32
+Latvia,LVA,1967,103.3
+Lebanon,LBN,1967,45.9
+Lesotho,LSO,1967,89.04
+Liberia,LBR,1967,57.13
+Libya,LBY,1967,34.63
+Liechtenstein,LIE,1967,35.86
+Lithuania,LTU,1967,136.9
+"Macao SAR, China",MAC,1967,41.45
+Madagascar,MDG,1967,52.34
+Malawi,MWI,1967,30.11
+Malaysia,MYS,1967,20.08
+Maldives,MDV,1967,68.07
+Mali,MLI,1967,25.5
+Malta,MLT,1967,57.27
+Marshall Islands,MHL,1967,135.8
+Mauritania,MRT,1967,48.01
+Mauritius,MUS,1967,108.29
+Mexico,MEX,1967,42.05
+"Micronesia, Fed. Sts.",FSM,1967,95
+Moldova,MDA,1967,115.9
+Mongolia,MNG,1967,98.82
+Morocco,MAR,1967,30.38
+Mozambique,MOZ,1967,58.43
+Myanmar,MMR,1967,23.32
+Namibia,NAM,1967,36.26
+Nepal,NPL,1967,29.31
+Netherlands,NLD,1967,59.74
+New Caledonia,NCL,1967,123.05
+New Zealand,NZL,1967,24.98
+Nicaragua,NIC,1967,69.67
+Niger,NER,1967,38.01
+Nigeria,NGA,1967,26.6
+Norway,NOR,1967,103.58
+Oman,OMN,1967,17.53
+Pakistan,PAK,1967,29.31
+Panama,PAN,1967,77.98
+Papua New Guinea,PNG,1967,41.8
+Paraguay,PRY,1967,20.57
+Peru,PER,1967,40.96
+Philippines,PHL,1967,34.63
+Poland,POL,1967,120.02
+Portugal,PRT,1967,117.48
+Puerto Rico,PRI,1967,439.95
+Qatar,QAT,1967,21.76
+Romania,ROM,1967,74.96
+Russian Federation,RUS,1967,88.9
+Rwanda,RWA,1967,42.41
+Samoa,WSM,1967,86.21
+Sao Tome and Principe,STP,1967,85.37
+Saudi Arabia,SAU,1967,13.17
+Senegal,SEN,1967,83.58
+Seychelles,SYC,1967,417.17
+Sierra Leone,SLE,1967,40.67
+Singapore,SGP,1967,464.08
+Solomon Islands,SLB,1967,32.48
+Somalia,SOM,1967,69.9
+South Africa,ZAF,1967,63.76
+Spain,ESP,1967,48.44
+Sri Lanka,LKA,1967,58.82
+St. Kitts and Nevis,KNA,1967,231.89
+St. Lucia,LCA,1967,326.72
+St. Vincent and the Grenadines,VCT,1967,67.78
+Sudan,SDN,1967,36.69
+Suriname,SUR,1967,75.08
+Swaziland,SWZ,1967,38.83
+Sweden,SWE,1967,102.52
+Switzerland,CHE,1967,133.59
+Syrian Arab Republic,SYR,1967,23.41
+Tanzania,TZA,1967,34.37
+Thailand,THA,1967,25.57
+Timor-Leste,TMP,1967,51.39
+Togo,TGO,1967,41.74
+Tonga,TON,1967,168.11
+Trinidad and Tobago,TTO,1967,212.43
+Tunisia,TUN,1967,29.06
+Turkey,TUR,1967,38.9
+Tuvalu,TUV,1967,104.24
+Uganda,UGA,1967,45.66
+United Arab Emirates,ARE,1967,1.52
+United Kingdom,GBR,1967,71.92
+United States,USA,1967,49.6
+Uruguay,URY,1967,30.61
+Vanuatu,VUT,1967,87.24
+"Venezuela, RB",VEN,1967,46.55
+Vietnam,VNM,1967,20.93
+West Bank and Gaza,WBG,1967,95.5
+"Yemen, Rep.",YEM,1967,31.78
+Zambia,ZMB,1967,32.8
+Zimbabwe,ZWE,1967,65.76
+Arab World,ARB,1968,33.2414274
+Caribbean small states,CSS,1968,96.83601783
+East Asia & Pacific (all income levels),EAS,1968,29.00427975
+East Asia & Pacific (developing only),EAP,1968,25.50952437
+Euro area,EMU,1968,76.77952173
+European Union,EUU,1968,81.53718327
+Fragile and conflict affected situations,FCS,1968,38.08167094
+Heavily indebted poor countries (HIPC),HPC,1968,41.7719854
+High income,HIC,1968,62.65991119
+High income: nonOECD,NOC,1968,37.13463001
+High income: OECD,OEC,1968,65.4765297
+Latin America & Caribbean (all income levels),LCN,1968,35.59475418
+Latin America & Caribbean (developing only),LAC,1968,36.38797236
+Least developed countries: UN classification,LDC,1968,41.39414449
+Low & middle income,LMY,1968,32.10048408
+Low income,LIC,1968,45.44458993
+Lower middle income,LMC,1968,33.69797275
+Middle East & North Africa (all income levels),MEA,1968,29.27155738
+Middle East & North Africa (developing only),MNA,1968,29.56734429
+Middle income,MIC,1968,31.35388769
+North America,NAC,1968,50.96652942
+OECD members,OED,1968,62.42224857
+Other small states,OSS,1968,54.96845551
+Pacific island small states,PSS,1968,77.25344994
+Small states,SST,1968,72.58240412
+South Asia,SAS,1968,39.23528889
+Sub-Saharan Africa (all income levels),SSF,1968,36.39634595
+Sub-Saharan Africa (developing only),SSA,1968,36.34186844
+Upper middle income,UMC,1968,29.74707866
+World,WLD,1968,40.12312029
+Afghanistan,AFG,1968,85.05
+Albania,ALB,1968,53.31
+Algeria,DZA,1968,48.31
+American Samoa,ASM,1968,66.78
+Angola,AGO,1968,48.97
+Antigua and Barbuda,ATG,1968,74.98
+Argentina,ARG,1968,28.79
+Armenia,ARM,1968,64.2
+Australia,AUS,1968,44.97
+Austria,AUT,1968,95.79
+Azerbaijan,AZE,1968,55
+"Bahamas, The",BHS,1968,53.47
+Bahrain,BHR,1968,74.55
+Bangladesh,BGD,1968,46.63
+Barbados,BRB,1968,272.67
+Belarus,BLR,1968,65.9
+Belize,BLZ,1968,24.02
+Benin,BEN,1968,22.89
+Bermuda,BMU,1968,80.99
+Bhutan,BTN,1968,34.86
+Bolivia,BOL,1968,31.02
+Bosnia and Herzegovina,BIH,1968,81.6
+Botswana,BWA,1968,56.45
+Brazil,BRA,1968,29.61
+Brunei Darussalam,BRN,1968,63.53
+Bulgaria,BGR,1968,160.14
+Burkina Faso,BFA,1968,24.32
+Burundi,BDI,1968,64.41
+Cabo Verde,CPV,1968,41.46
+Cambodia,KHM,1968,61.07
+Cameroon,CMR,1968,36.17
+Canada,CAN,1968,45.27
+Cayman Islands,CYM,1968,224.92
+Central African Republic,CAF,1968,62.37
+Chad,TCD,1968,43.7
+Chile,CHL,1968,34.16
+China,CHN,1968,24.69
+Colombia,COL,1968,40.02
+Comoros,COM,1968,48.33
+"Congo, Dem. Rep.",ZAR,1968,70.25
+"Congo, Rep.",COG,1968,53.74
+Costa Rica,CRI,1968,26.34
+Cote d'Ivoire,CIV,1968,27.38
+Croatia,HRV,1968,124.8
+Cuba,CUB,1968,73.9
+Cyprus,CYP,1968,148.51
+Czech Republic,CZE,1968,98.4
+Denmark,DNK,1968,66.16
+Djibouti,DJI,1968,4.49
+Dominica,DMA,1968,125.71
+Dominican Republic,DOM,1968,65.33
+Ecuador,ECU,1968,52.18
+"Egypt, Arab Rep.",EGY,1968,30.1
+El Salvador,SLV,1968,72.04
+Equatorial Guinea,GNQ,1968,149.28
+Eritrea,ERI,1968,139.4
+Estonia,EST,1968,89.3
+Ethiopia,ETH,1968,65.8
+Faeroe Islands,FRO,1968,121.39
+Fiji,FJI,1968,93.73
+Finland,FIN,1968,66.18
+France,FRA,1968,81.32
+French Polynesia,PYF,1968,105.49
+Gabon,GAB,1968,36.69
+"Gambia, The",GMB,1968,84.39
+Georgia,GEO,1968,124.3
+Germany,DEU,1968,95.34
+Ghana,GHA,1968,30.32
+Greece,GRC,1968,54.17
+Grenada,GRD,1968,190.63
+Guam,GUM,1968,38.4
+Guatemala,GTM,1968,29.77
+Guinea,GIN,1968,39.97
+Guinea-Bissau,GNB,1968,31.8
+Guyana,GUY,1968,67.58
+Haiti,HTI,1968,87.2
+Honduras,HND,1968,53.56
+"Hong Kong SAR, China",HKG,1968,350.63
+Hungary,HUN,1968,72.85
+Iceland,ISL,1968,27.65
+India,IND,1968,38.67
+Indonesia,IDN,1968,26.2
+"Iran, Islamic Rep.",IRN,1968,18.48
+Iraq,IRQ,1968,50.99
+Ireland,IRL,1968,89
+Israel,ISR,1968,51.44
+Italy,ITA,1968,86.46
+Jamaica,JAM,1968,110.25
+Japan,JPN,1968,146.43
+Jordan,JOR,1968,24.68
+Kazakhstan,KAZ,1968,42.8
+Kenya,KEN,1968,31.37
+Kiribati,KIR,1968,43.64
+"Korea, Dem. Rep.",PRK,1968,45.62
+"Korea, Rep.",KOR,1968,48.38
+Kuwait,KWT,1968,3.6
+Kyrgyz Republic,KGZ,1968,77
+Lao PDR,LAO,1968,26.64
+Latvia,LVA,1968,78.9
+Lebanon,LBN,1968,44.45
+Lesotho,LSO,1968,87.54
+Liberia,LBR,1968,59.34
+Libya,LBY,1968,36.3
+Liechtenstein,LIE,1968,71.71
+Lithuania,LTU,1968,120.2
+"Macao SAR, China",MAC,1968,36.27
+Madagascar,MDG,1968,53.06
+Malawi,MWI,1968,28.29
+Malaysia,MYS,1968,22.63
+Maldives,MDV,1968,69.43
+Mali,MLI,1968,23.9
+Malta,MLT,1968,57.53
+Marshall Islands,MHL,1968,96.7
+Mauritania,MRT,1968,49.7
+Mauritius,MUS,1968,96.66
+Mexico,MEX,1968,43.6
+"Micronesia, Fed. Sts.",FSM,1968,95
+Moldova,MDA,1968,87.3
+Mongolia,MNG,1968,67.84
+Morocco,MAR,1968,47.8
+Mozambique,MOZ,1968,64.34
+Myanmar,MMR,1968,24.7
+Namibia,NAM,1968,36.77
+Nepal,NPL,1968,30.17
+Netherlands,NLD,1968,58.93
+New Caledonia,NCL,1968,127.16
+New Zealand,NZL,1968,29.63
+Nicaragua,NIC,1968,67.72
+Niger,NER,1968,29.93
+Nigeria,NGA,1968,27.09
+Norway,NOR,1968,125.66
+Oman,OMN,1968,17.7
+Pakistan,PAK,1968,32.19
+Panama,PAN,1968,104.56
+Papua New Guinea,PNG,1968,43.22
+Paraguay,PRY,1968,20.95
+Peru,PER,1968,37.37
+Philippines,PHL,1968,34.49
+Poland,POL,1968,126.49
+Portugal,PRT,1968,113.69
+Puerto Rico,PRI,1968,372.07
+Qatar,QAT,1968,23.76
+Romania,ROM,1968,75.72
+Russian Federation,RUS,1968,60
+Rwanda,RWA,1968,41.68
+Samoa,WSM,1968,97.45
+Sao Tome and Principe,STP,1968,81.54
+Saudi Arabia,SAU,1968,13.76
+Senegal,SEN,1968,65.12
+Seychelles,SYC,1968,444.59
+Sierra Leone,SLE,1968,41.09
+Singapore,SGP,1968,532.11
+Solomon Islands,SLB,1968,30.69
+Somalia,SOM,1968,69.19
+South Africa,ZAF,1968,50.45
+Spain,ESP,1968,52.96
+Sri Lanka,LKA,1968,61.28
+St. Kitts and Nevis,KNA,1968,227.19
+St. Lucia,LCA,1968,324.62
+St. Vincent and the Grenadines,VCT,1968,71.06
+Sudan,SDN,1968,30.55
+Suriname,SUR,1968,76.72
+Swaziland,SWZ,1968,36.95
+Sweden,SWE,1968,106.82
+Switzerland,CHE,1968,113.34
+Syrian Arab Republic,SYR,1968,22.3
+Tanzania,TZA,1968,33.03
+Thailand,THA,1968,27.69
+Timor-Leste,TMP,1968,46.02
+Togo,TGO,1968,43.27
+Tonga,TON,1968,155.64
+Trinidad and Tobago,TTO,1968,233.68
+Tunisia,TUN,1968,29.46
+Turkey,TUR,1968,41.15
+Tuvalu,TUV,1968,96.88
+Uganda,UGA,1968,48.48
+United Arab Emirates,ARE,1968,1.68
+United Kingdom,GBR,1968,70.53
+United States,USA,1968,51.62
+Uruguay,URY,1968,31.95
+Vanuatu,VUT,1968,77.22
+"Venezuela, RB",VEN,1968,47.49
+Vietnam,VNM,1968,19.68
+West Bank and Gaza,WBG,1968,80.3
+"Yemen, Rep.",YEM,1968,31.23
+Zambia,ZMB,1968,33.11
+Zimbabwe,ZWE,1968,48.81
+Arab World,ARB,1969,32.58146412
+Caribbean small states,CSS,1969,95.56682906
+East Asia & Pacific (all income levels),EAS,1969,29.16339041
+East Asia & Pacific (developing only),EAP,1969,25.91673301
+Euro area,EMU,1969,73.74947014
+European Union,EUU,1969,78.62290982
+Fragile and conflict affected situations,FCS,1969,39.79149075
+Heavily indebted poor countries (HIPC),HPC,1969,43.89967888
+High income,HIC,1969,61.57778901
+High income: nonOECD,NOC,1969,38.64215665
+High income: OECD,OEC,1969,64.10864955
+Latin America & Caribbean (all income levels),LCN,1969,36.07990184
+Latin America & Caribbean (developing only),LAC,1969,36.7636314
+Least developed countries: UN classification,LDC,1969,43.08393616
+Low & middle income,LMY,1969,32.84047987
+Low income,LIC,1969,47.70871958
+Lower middle income,LMC,1969,34.94696347
+Middle East & North Africa (all income levels),MEA,1969,28.43399902
+Middle East & North Africa (developing only),MNA,1969,28.55999571
+Middle income,MIC,1969,32.00860892
+North America,NAC,1969,51.77968629
+OECD members,OED,1969,61.00057189
+Other small states,OSS,1969,56.16409067
+Pacific island small states,PSS,1969,76.07763516
+Small states,SST,1969,72.59626709
+South Asia,SAS,1969,40.61345228
+Sub-Saharan Africa (all income levels),SSF,1969,39.16631048
+Sub-Saharan Africa (developing only),SSA,1969,39.12651179
+Upper middle income,UMC,1969,29.99444369
+World,WLD,1969,40.38476322
+Afghanistan,AFG,1969,87.39
+Albania,ALB,1969,54.57
+Algeria,DZA,1969,43.07
+American Samoa,ASM,1969,73.39
+Angola,AGO,1969,52.66
+Antigua and Barbuda,ATG,1969,98.1
+Argentina,ARG,1969,30.73
+Armenia,ARM,1969,62.6
+Australia,AUS,1969,37.61
+Austria,AUT,1969,90.2
+Azerbaijan,AZE,1969,61.8
+"Bahamas, The",BHS,1969,53.79
+Bahrain,BHR,1969,75.06
+Bangladesh,BGD,1969,49.14
+Barbados,BRB,1969,251.42
+Belarus,BLR,1969,59.2
+Belize,BLZ,1969,21.97
+Benin,BEN,1969,21.85
+Bermuda,BMU,1969,63.72
+Bhutan,BTN,1969,35.71
+Bolivia,BOL,1969,30.61
+Bosnia and Herzegovina,BIH,1969,78.8
+Botswana,BWA,1969,67.41
+Brazil,BRA,1969,30.41
+Brunei Darussalam,BRN,1969,73.76
+Bulgaria,BGR,1969,168.42
+Burkina Faso,BFA,1969,23.48
+Burundi,BDI,1969,63.39
+Cabo Verde,CPV,1969,42.09
+Cambodia,KHM,1969,49.94
+Cameroon,CMR,1969,35.88
+Canada,CAN,1969,47.85
+Cayman Islands,CYM,1969,229.68
+Central African Republic,CAF,1969,64.94
+Chad,TCD,1969,41.86
+Chile,CHL,1969,29.13
+China,CHN,1969,24.83
+Colombia,COL,1969,40.09
+Comoros,COM,1969,50.9
+"Congo, Dem. Rep.",ZAR,1969,71.86
+"Congo, Rep.",COG,1969,52.85
+Costa Rica,CRI,1969,29.41
+Cote d'Ivoire,CIV,1969,27.43
+Croatia,HRV,1969,120.3
+Cuba,CUB,1969,69.39
+Cyprus,CYP,1969,162.47
+Czech Republic,CZE,1969,103.3
+Denmark,DNK,1969,63.47
+Djibouti,DJI,1969,4.49
+Dominica,DMA,1969,131.33
+Dominican Republic,DOM,1969,76.94
+Ecuador,ECU,1969,51.24
+"Egypt, Arab Rep.",EGY,1969,32.42
+El Salvador,SLV,1969,78.16
+Equatorial Guinea,GNQ,1969,123.46
+Eritrea,ERI,1969,110.4
+Estonia,EST,1969,84.7
+Ethiopia,ETH,1969,71.3
+Faeroe Islands,FRO,1969,100.44
+Fiji,FJI,1969,85.47
+Finland,FIN,1969,66.26
+France,FRA,1969,74.4
+French Polynesia,PYF,1969,135.04
+Gabon,GAB,1969,36.47
+"Gambia, The",GMB,1969,78.68
+Georgia,GEO,1969,138.7
+Germany,DEU,1969,84.95
+Ghana,GHA,1969,32.85
+Greece,GRC,1969,55.02
+Grenada,GRD,1969,188.61
+Guam,GUM,1969,42.75
+Guatemala,GTM,1969,30.6
+Guinea,GIN,1969,39.59
+Guinea-Bissau,GNB,1969,29.94
+Guyana,GUY,1969,77.09
+Haiti,HTI,1969,89.49
+Honduras,HND,1969,55.74
+"Hong Kong SAR, China",HKG,1969,378.21
+Hungary,HUN,1969,86.24
+Iceland,ISL,1969,22.56
+India,IND,1969,40.03
+Indonesia,IDN,1969,26.71
+"Iran, Islamic Rep.",IRN,1969,18.9
+Iraq,IRQ,1969,53.43
+Ireland,IRL,1969,83.6
+Israel,ISR,1969,53.64
+Italy,ITA,1969,90.22
+Jamaica,JAM,1969,102.29
+Japan,JPN,1969,139.47
+Jordan,JOR,1969,26.69
+Kazakhstan,KAZ,1969,83.7
+Kenya,KEN,1969,32.71
+Kiribati,KIR,1969,44.55
+"Korea, Dem. Rep.",PRK,1969,51.16
+"Korea, Rep.",KOR,1969,55.01
+Kuwait,KWT,1969,4.28
+Kyrgyz Republic,KGZ,1969,86.8
+Lao PDR,LAO,1969,29.57
+Latvia,LVA,1969,79.3
+Lebanon,LBN,1969,37.01
+Lesotho,LSO,1969,87.76
+Liberia,LBR,1969,60.52
+Libya,LBY,1969,25.54
+Liechtenstein,LIE,1969,53.78
+Lithuania,LTU,1969,98.8
+"Macao SAR, China",MAC,1969,46.63
+Madagascar,MDG,1969,56.55
+Malawi,MWI,1969,28.84
+Malaysia,MYS,1969,25.43
+Maldives,MDV,1969,70.3
+Mali,MLI,1969,27.34
+Malta,MLT,1969,67.05
+Marshall Islands,MHL,1969,76.1
+Mauritania,MRT,1969,52.94
+Mauritius,MUS,1969,108.22
+Mexico,MEX,1969,41.25
+"Micronesia, Fed. Sts.",FSM,1969,83.8
+Moldova,MDA,1969,80.2
+Mongolia,MNG,1969,38.17
+Morocco,MAR,1969,34.73
+Mozambique,MOZ,1969,64.12
+Myanmar,MMR,1969,24.22
+Namibia,NAM,1969,37.43
+Nepal,NPL,1969,31.25
+Netherlands,NLD,1969,58.69
+New Caledonia,NCL,1969,121.57
+New Zealand,NZL,1969,32.23
+Nicaragua,NIC,1969,66.04
+Niger,NER,1969,35.66
+Nigeria,NGA,1969,30.21
+Norway,NOR,1969,112.93
+Oman,OMN,1969,19.68
+Pakistan,PAK,1969,32.98
+Panama,PAN,1969,109.41
+Papua New Guinea,PNG,1969,44.93
+Paraguay,PRY,1969,21.78
+Peru,PER,1969,40.89
+Philippines,PHL,1969,36.37
+Poland,POL,1969,113.19
+Portugal,PRT,1969,105.18
+Puerto Rico,PRI,1969,340.33
+Qatar,QAT,1969,25.77
+Romania,ROM,1969,76.43
+Russian Federation,RUS,1969,68.5
+Rwanda,RWA,1969,44.93
+Samoa,WSM,1969,106.89
+Sao Tome and Principe,STP,1969,75.91
+Saudi Arabia,SAU,1969,14.85
+Senegal,SEN,1969,71.38
+Seychelles,SYC,1969,300.8
+Sierra Leone,SLE,1969,44.92
+Singapore,SGP,1969,550
+Solomon Islands,SLB,1969,33.93
+Somalia,SOM,1969,72.66
+South Africa,ZAF,1969,52.79
+Spain,ESP,1969,50.56
+Sri Lanka,LKA,1969,61.05
+St. Kitts and Nevis,KNA,1969,177.01
+St. Lucia,LCA,1969,318.74
+St. Vincent and the Grenadines,VCT,1969,72.56
+Sudan,SDN,1969,37.47
+Suriname,SUR,1969,74.37
+Swaziland,SWZ,1969,39.95
+Sweden,SWE,1969,81.53
+Switzerland,CHE,1969,121.16
+Syrian Arab Republic,SYR,1969,24.3
+Tanzania,TZA,1969,34.51
+Thailand,THA,1969,29.88
+Timor-Leste,TMP,1969,52.26
+Togo,TGO,1969,44.11
+Tonga,TON,1969,154.99
+Trinidad and Tobago,TTO,1969,225.49
+Tunisia,TUN,1969,23.51
+Turkey,TUR,1969,39.78
+Tuvalu,TUV,1969,87.59
+Uganda,UGA,1969,55.66
+United Arab Emirates,ARE,1969,1.95
+United Kingdom,GBR,1969,70.4
+United States,USA,1969,52.23
+Uruguay,URY,1969,37.84
+Vanuatu,VUT,1969,81.31
+"Venezuela, RB",VEN,1969,49.1
+Vietnam,VNM,1969,20.39
+West Bank and Gaza,WBG,1969,101.8
+"Yemen, Rep.",YEM,1969,31.9
+Zambia,ZMB,1969,33.93
+Zimbabwe,ZWE,1969,80.17
+Arab World,ARB,1970,32.84073499
+Caribbean small states,CSS,1970,96.81589305
+East Asia & Pacific (all income levels),EAS,1970,30.68733345
+East Asia & Pacific (developing only),EAP,1970,27.68611088
+Euro area,EMU,1970,78.17987925
+European Union,EUU,1970,81.81217793
+Fragile and conflict affected situations,FCS,1970,39.46273596
+Heavily indebted poor countries (HIPC),HPC,1970,45.52131544
+High income,HIC,1970,61.97812943
+High income: nonOECD,NOC,1970,41.32426324
+High income: OECD,OEC,1970,64.25720567
+Latin America & Caribbean (all income levels),LCN,1970,38.43632296
+Latin America & Caribbean (developing only),LAC,1970,39.00844506
+Least developed countries: UN classification,LDC,1970,44.07857001
+Low & middle income,LMY,1970,34.49474057
+Low income,LIC,1970,49.91712374
+Lower middle income,LMC,1970,36.55712434
+Middle East & North Africa (all income levels),MEA,1970,28.47086889
+Middle East & North Africa (developing only),MNA,1970,28.54462985
+Middle income,MIC,1970,33.63186556
+North America,NAC,1970,48.83514091
+OECD members,OED,1970,61.52929681
+Other small states,OSS,1970,55.56706627
+Pacific island small states,PSS,1970,77.50936716
+Small states,SST,1970,72.91888336
+South Asia,SAS,1970,42.42587217
+Sub-Saharan Africa (all income levels),SSF,1970,41.03973831
+Sub-Saharan Africa (developing only),SSA,1970,40.99368325
+Upper middle income,UMC,1970,31.62667713
+World,WLD,1970,41.70983756
+Afghanistan,AFG,1970,79.17
+Albania,ALB,1970,56.48
+Algeria,DZA,1970,45.02
+American Samoa,ASM,1970,69.94
+Angola,AGO,1970,53.65
+Antigua and Barbuda,ATG,1970,102.1
+Argentina,ARG,1970,33.59
+Armenia,ARM,1970,59.05
+Australia,AUS,1970,36.83
+Austria,AUT,1970,89.08
+Azerbaijan,AZE,1970,71.4
+"Bahamas, The",BHS,1970,58.75
+Bahrain,BHR,1970,75.99
+Bangladesh,BGD,1970,46.12
+Barbados,BRB,1970,286.95
+Belarus,BLR,1970,75.85
+Belgium,BEL,1970,102.21
+Belize,BLZ,1970,24.05
+Benin,BEN,1970,23.24
+Bermuda,BMU,1970,98.78
+Bhutan,BTN,1970,36.45
+Bolivia,BOL,1970,31.94
+Bosnia and Herzegovina,BIH,1970,56.6
+Botswana,BWA,1970,50.37
+Brazil,BRA,1970,31.12
+Brunei Darussalam,BRN,1970,72.65
+Bulgaria,BGR,1970,163.92
+Burkina Faso,BFA,1970,23.39
+Burundi,BDI,1970,64.82
+Cabo Verde,CPV,1970,34.28
+Cambodia,KHM,1970,65.93
+Cameroon,CMR,1970,39.11
+Canada,CAN,1970,42.28
+Cayman Islands,CYM,1970,230.2
+Central African Republic,CAF,1970,64.62
+Chad,TCD,1970,38.13
+Chile,CHL,1970,30.99
+China,CHN,1970,26.62
+Colombia,COL,1970,41.48
+Comoros,COM,1970,49
+"Congo, Dem. Rep.",ZAR,1970,74.36
+"Congo, Rep.",COG,1970,52.36
+Costa Rica,CRI,1970,31.71
+Cote d'Ivoire,CIV,1970,29.35
+Croatia,HRV,1970,103.82
+Cuba,CUB,1970,117.58
+Cyprus,CYP,1970,149.1
+Czech Republic,CZE,1970,98.81
+Denmark,DNK,1970,64.34
+Djibouti,DJI,1970,4.78
+Dominica,DMA,1970,112.93
+Dominican Republic,DOM,1970,80.45
+Ecuador,ECU,1970,50.6
+"Egypt, Arab Rep.",EGY,1970,32.05
+El Salvador,SLV,1970,79.95
+Equatorial Guinea,GNQ,1970,141.71
+Eritrea,ERI,1970,68.62
+Estonia,EST,1970,125.58
+Ethiopia,ETH,1970,74.93
+Faeroe Islands,FRO,1970,133.92
+Fiji,FJI,1970,93.05
+Finland,FIN,1970,79.39
+France,FRA,1970,83.4
+French Polynesia,PYF,1970,124.76
+Gabon,GAB,1970,38.16
+"Gambia, The",GMB,1970,80.52
+Georgia,GEO,1970,100.63
+Germany,DEU,1970,90.45
+Ghana,GHA,1970,34.22
+Greece,GRC,1970,60.59
+Grenada,GRD,1970,181.69
+Guam,GUM,1970,38.54
+Guatemala,GTM,1970,31.08
+Guinea,GIN,1970,41.12
+Guinea-Bissau,GNB,1970,30.66
+Guyana,GUY,1970,73.51
+Haiti,HTI,1970,92.64
+Honduras,HND,1970,53.4
+"Hong Kong SAR, China",HKG,1970,398.83
+Hungary,HUN,1970,70.5
+Iceland,ISL,1970,23.25
+India,IND,1970,42.53
+Indonesia,IDN,1970,28.26
+"Iran, Islamic Rep.",IRN,1970,19.06
+Iraq,IRQ,1970,48.41
+Ireland,IRL,1970,84.41
+Israel,ISR,1970,54.12
+Italy,ITA,1970,89.93
+Jamaica,JAM,1970,106.65
+Japan,JPN,1970,133.3
+Jordan,JOR,1970,18.75
+Kazakhstan,KAZ,1970,78.67
+Kenya,KEN,1970,33.09
+Kiribati,KIR,1970,47.09
+"Korea, Dem. Rep.",PRK,1970,51.54
+"Korea, Rep.",KOR,1970,54.25
+Kuwait,KWT,1970,4.55
+Kyrgyz Republic,KGZ,1970,93.71
+Lao PDR,LAO,1970,29.88
+Latvia,LVA,1970,82.07
+Lebanon,LBN,1970,42.26
+Lesotho,LSO,1970,80.96
+Liberia,LBR,1970,69.24
+Libya,LBY,1970,28.36
+Liechtenstein,LIE,1970,71.71
+Lithuania,LTU,1970,115.44
+Luxembourg,LUX,1970,96.11
+"Macao SAR, China",MAC,1970,38.86
+Madagascar,MDG,1970,58.17
+Malawi,MWI,1970,28.02
+Malaysia,MYS,1970,26.54
+Maldives,MDV,1970,74.05
+Mali,MLI,1970,27.57
+Malta,MLT,1970,54.24
+Marshall Islands,MHL,1970,19.1
+Mauritania,MRT,1970,50.18
+Mauritius,MUS,1970,94.94
+Mexico,MEX,1970,43.89
+"Micronesia, Fed. Sts.",FSM,1970,85.55
+Moldova,MDA,1970,89.05
+Mongolia,MNG,1970,84.42
+Morocco,MAR,1970,35.45
+Mozambique,MOZ,1970,67.19
+Myanmar,MMR,1970,24.88
+Namibia,NAM,1970,37.78
+Nepal,NPL,1970,32.49
+Netherlands,NLD,1970,63.6
+New Caledonia,NCL,1970,105.96
+New Zealand,NZL,1970,30.67
+Nicaragua,NIC,1970,60.18
+Niger,NER,1970,30.44
+Nigeria,NGA,1970,33.24
+Norway,NOR,1970,119.04
+Oman,OMN,1970,19.72
+Pakistan,PAK,1970,34.2
+Panama,PAN,1970,101.98
+Papua New Guinea,PNG,1970,46.54
+Paraguay,PRY,1970,23.72
+Peru,PER,1970,45.05
+Philippines,PHL,1970,38.7
+Poland,POL,1970,124.11
+Portugal,PRT,1970,117.08
+Puerto Rico,PRI,1970,348.02
+Qatar,QAT,1970,26.77
+Romania,ROM,1970,61.46
+Russian Federation,RUS,1970,79.23
+Rwanda,RWA,1970,46.94
+Samoa,WSM,1970,97.2
+Sao Tome and Principe,STP,1970,76.15
+Saudi Arabia,SAU,1970,16.26
+Senegal,SEN,1970,49.37
+Seychelles,SYC,1970,280.94
+Sierra Leone,SLE,1970,43.04
+Singapore,SGP,1970,541.64
+Solomon Islands,SLB,1970,37.13
+Somalia,SOM,1970,80.39
+South Africa,ZAF,1970,51.6
+Spain,ESP,1970,53.62
+Sri Lanka,LKA,1970,64.59
+St. Kitts and Nevis,KNA,1970,230.4
+St. Lucia,LCA,1970,264.52
+St. Vincent and the Grenadines,VCT,1970,69.05
+Sudan,SDN,1970,40.08
+Suriname,SUR,1970,82.66
+Swaziland,SWZ,1970,46.28
+Sweden,SWE,1970,104.19
+Switzerland,CHE,1970,109.96
+Syrian Arab Republic,SYR,1970,19.44
+Tanzania,TZA,1970,36.07
+Thailand,THA,1970,30.93
+Timor-Leste,TMP,1970,54
+Togo,TGO,1970,46.48
+Tonga,TON,1970,138.18
+Trinidad and Tobago,TTO,1970,232.49
+Tunisia,TUN,1970,33.97
+Turkey,TUR,1970,43.12
+Tuvalu,TUV,1970,79.7
+Uganda,UGA,1970,69.88
+United Arab Emirates,ARE,1970,2.26
+United Kingdom,GBR,1970,74.57
+United States,USA,1970,49.58
+Uruguay,URY,1970,40.34
+Vanuatu,VUT,1970,75.54
+"Venezuela, RB",VEN,1970,52.13
+Vietnam,VNM,1970,22.52
+West Bank and Gaza,WBG,1970,86.12
+"Yemen, Rep.",YEM,1970,29.17
+Zambia,ZMB,1970,31.56
+Zimbabwe,ZWE,1970,59.37
+Arab World,ARB,1971,36.61081434
+Caribbean small states,CSS,1971,99.27724481
+East Asia & Pacific (all income levels),EAS,1971,31.38396596
+East Asia & Pacific (developing only),EAP,1971,28.49281029
+Euro area,EMU,1971,76.86152975
+European Union,EUU,1971,81.08908144
+Fragile and conflict affected situations,FCS,1971,41.00167087
+Heavily indebted poor countries (HIPC),HPC,1971,46.67583816
+High income,HIC,1971,64.62919337
+High income: nonOECD,NOC,1971,42.78530417
+High income: OECD,OEC,1971,67.03958417
+Latin America & Caribbean (all income levels),LCN,1971,39.78293745
+Latin America & Caribbean (developing only),LAC,1971,40.35671986
+Least developed countries: UN classification,LDC,1971,43.57070616
+Low & middle income,LMY,1971,35.48845114
+Low income,LIC,1971,49.97222516
+Lower middle income,LMC,1971,36.95861443
+Middle East & North Africa (all income levels),MEA,1971,31.30194655
+Middle East & North Africa (developing only),MNA,1971,31.17125912
+Middle income,MIC,1971,34.67809086
+North America,NAC,1971,56.28078723
+OECD members,OED,1971,64.29267143
+Other small states,OSS,1971,56.91713045
+Pacific island small states,PSS,1971,76.75826053
+Small states,SST,1971,74.36845271
+South Asia,SAS,1971,42.53326401
+Sub-Saharan Africa (all income levels),SSF,1971,41.54814082
+Sub-Saharan Africa (developing only),SSA,1971,41.51694309
+Upper middle income,UMC,1971,33.11485158
+World,WLD,1971,43.13864605
+Afghanistan,AFG,1971,71.23
+Albania,ALB,1971,57.92
+Algeria,DZA,1971,46.17
+American Samoa,ASM,1971,64.26
+Angola,AGO,1971,55
+Antigua and Barbuda,ATG,1971,174.55
+Argentina,ARG,1971,35.11
+Armenia,ARM,1971,63.46
+Australia,AUS,1971,39.64
+Austria,AUT,1971,82.74
+Azerbaijan,AZE,1971,80.58
+"Bahamas, The",BHS,1971,55.59
+Bahrain,BHR,1971,76.68
+Bangladesh,BGD,1971,41.53
+Barbados,BRB,1971,249.38
+Belarus,BLR,1971,74.72
+Belgium,BEL,1971,88.94
+Belize,BLZ,1971,25.11
+Benin,BEN,1971,23.8
+Bermuda,BMU,1971,66.28
+Bhutan,BTN,1971,37.34
+Bolivia,BOL,1971,33.52
+Bosnia and Herzegovina,BIH,1971,65.7
+Botswana,BWA,1971,90.52
+Brazil,BRA,1971,33.58
+Brunei Darussalam,BRN,1971,61.28
+Bulgaria,BGR,1971,163.69
+Burkina Faso,BFA,1971,21.15
+Burundi,BDI,1971,66.8
+Cabo Verde,CPV,1971,29.06
+Cambodia,KHM,1971,49.78
+Cameroon,CMR,1971,39.82
+Canada,CAN,1971,51.99
+Cayman Islands,CYM,1971,230.24
+Central African Republic,CAF,1971,63.78
+Chad,TCD,1971,38.52
+Chile,CHL,1971,34.72
+China,CHN,1971,27.53
+Colombia,COL,1971,42.34
+Comoros,COM,1971,50.36
+"Congo, Dem. Rep.",ZAR,1971,75
+"Congo, Rep.",COG,1971,53.52
+Costa Rica,CRI,1971,34.58
+Cote d'Ivoire,CIV,1971,30.68
+Croatia,HRV,1971,117.18
+Cuba,CUB,1971,83.56
+Cyprus,CYP,1971,170.25
+Czech Republic,CZE,1971,102.25
+Denmark,DNK,1971,66.24
+Djibouti,DJI,1971,4.78
+Dominica,DMA,1971,108.15
+Dominican Republic,DOM,1971,85.07
+Ecuador,ECU,1971,49.58
+"Egypt, Arab Rep.",EGY,1971,32.93
+El Salvador,SLV,1971,90.03
+Equatorial Guinea,GNQ,1971,107.5
+Eritrea,ERI,1971,90.21
+Estonia,EST,1971,105.09
+Ethiopia,ETH,1971,83.51
+Faeroe Islands,FRO,1971,106.49
+Fiji,FJI,1971,83.3
+Finland,FIN,1971,76.07
+France,FRA,1971,81.09
+French Polynesia,PYF,1971,119.13
+Gabon,GAB,1971,39.62
+"Gambia, The",GMB,1971,86.28
+Georgia,GEO,1971,105.25
+Germany,DEU,1971,87.9
+Ghana,GHA,1971,35.65
+Greece,GRC,1971,59
+Grenada,GRD,1971,164.33
+Guam,GUM,1971,40.28
+Guatemala,GTM,1971,30.49
+Guinea,GIN,1971,42.56
+Guinea-Bissau,GNB,1971,27.29
+Guyana,GUY,1971,78.65
+Haiti,HTI,1971,95.1
+Honduras,HND,1971,57.55
+"Hong Kong SAR, China",HKG,1971,417.96
+Hungary,HUN,1971,78.72
+Iceland,ISL,1971,51.58
+India,IND,1971,43.11
+Indonesia,IDN,1971,28.89
+"Iran, Islamic Rep.",IRN,1971,18.81
+Iraq,IRQ,1971,52.64
+Ireland,IRL,1971,88.7
+Israel,ISR,1971,61.46
+Italy,ITA,1971,89.19
+Jamaica,JAM,1971,115.13
+Japan,JPN,1971,125.02
+Jordan,JOR,1971,23.82
+Kazakhstan,KAZ,1971,102.3
+Kenya,KEN,1971,33.03
+Kiribati,KIR,1971,54.25
+"Korea, Dem. Rep.",PRK,1971,55.02
+"Korea, Rep.",KOR,1971,55.61
+Kuwait,KWT,1971,5.87
+Kyrgyz Republic,KGZ,1971,101.43
+Lao PDR,LAO,1971,27.9
+Latvia,LVA,1971,80.33
+Lebanon,LBN,1971,48.59
+Lesotho,LSO,1971,86.74
+Liberia,LBR,1971,71.66
+Libya,LBY,1971,22.16
+Liechtenstein,LIE,1971,41.83
+Lithuania,LTU,1971,93.67
+Luxembourg,LUX,1971,85
+"Macao SAR, China",MAC,1971,36.27
+Madagascar,MDG,1971,57.9
+Malawi,MWI,1971,33.84
+Malaysia,MYS,1971,28.05
+Maldives,MDV,1971,76.89
+Mali,MLI,1971,27.61
+Malta,MLT,1971,63.16
+Marshall Islands,MHL,1971,16.79
+Mauritania,MRT,1971,37.94
+Mauritius,MUS,1971,99.21
+Mexico,MEX,1971,46.68
+"Micronesia, Fed. Sts.",FSM,1971,89.43
+Moldova,MDA,1971,94.2
+Mongolia,MNG,1971,109.85
+Morocco,MAR,1971,44.66
+Mozambique,MOZ,1971,69.44
+Myanmar,MMR,1971,25.6
+Namibia,NAM,1971,38.4
+Nepal,NPL,1971,32.44
+Netherlands,NLD,1971,64.87
+New Caledonia,NCL,1971,114.36
+New Zealand,NZL,1971,31.32
+Nicaragua,NIC,1971,64.39
+Niger,NER,1971,33.63
+Nigeria,NGA,1971,29.67
+Norway,NOR,1971,113.27
+Oman,OMN,1971,20.2
+Pakistan,PAK,1971,35.57
+Panama,PAN,1971,106.54
+Papua New Guinea,PNG,1971,47.79
+Paraguay,PRY,1971,22.85
+Peru,PER,1971,45.35
+Philippines,PHL,1971,40.19
+Poland,POL,1971,108.19
+Portugal,PRT,1971,101.88
+Puerto Rico,PRI,1971,296.36
+Qatar,QAT,1971,28.9
+Romania,ROM,1971,80.42
+Russian Federation,RUS,1971,90.08
+Rwanda,RWA,1971,47.72
+Samoa,WSM,1971,114.71
+Sao Tome and Principe,STP,1971,81.95
+Saudi Arabia,SAU,1971,22.87
+Senegal,SEN,1971,78.54
+Seychelles,SYC,1971,249.11
+Sierra Leone,SLE,1971,43.37
+Singapore,SGP,1971,657.79
+Solomon Islands,SLB,1971,38.17
+Somalia,SOM,1971,78.37
+South Africa,ZAF,1971,63.62
+Spain,ESP,1971,54.94
+Sri Lanka,LKA,1971,62.91
+St. Kitts and Nevis,KNA,1971,196.14
+St. Lucia,LCA,1971,265
+St. Vincent and the Grenadines,VCT,1971,74.01
+Sudan,SDN,1971,41.9
+Suriname,SUR,1971,81.93
+Swaziland,SWZ,1971,46.75
+Sweden,SWE,1971,106.46
+Switzerland,CHE,1971,116.64
+Syrian Arab Republic,SYR,1971,23.18
+Tanzania,TZA,1971,35.52
+Thailand,THA,1971,31.44
+Timor-Leste,TMP,1971,54.81
+Togo,TGO,1971,47.06
+Tonga,TON,1971,141.57
+Trinidad and Tobago,TTO,1971,219.4
+Tunisia,TUN,1971,50.36
+Turkey,TUR,1971,45.65
+Tuvalu,TUV,1971,107.7
+Uganda,UGA,1971,67.61
+United Arab Emirates,ARE,1971,2.56
+United Kingdom,GBR,1971,78.36
+United States,USA,1971,56.77
+Uruguay,URY,1971,37.7
+Vanuatu,VUT,1971,80.85
+"Venezuela, RB",VEN,1971,51.37
+Vietnam,VNM,1971,23.1
+West Bank and Gaza,WBG,1971,106.1
+"Yemen, Rep.",YEM,1971,37.67
+Zambia,ZMB,1971,40.32
+Zimbabwe,ZWE,1971,78.95
+Arab World,ARB,1972,36.90432897
+Caribbean small states,CSS,1972,96.02949454
+East Asia & Pacific (all income levels),EAS,1972,30.75677432
+East Asia & Pacific (developing only),EAP,1972,27.71066941
+Euro area,EMU,1972,75.72591493
+European Union,EUU,1972,82.11262864
+Fragile and conflict affected situations,FCS,1972,42.99063939
+Heavily indebted poor countries (HIPC),HPC,1972,47.01548341
+High income,HIC,1972,64.2468647
+High income: nonOECD,NOC,1972,39.45645115
+High income: OECD,OEC,1972,66.98239334
+Latin America & Caribbean (all income levels),LCN,1972,39.64835046
+Latin America & Caribbean (developing only),LAC,1972,40.94343706
+Least developed countries: UN classification,LDC,1972,42.99245311
+Low & middle income,LMY,1972,34.97101321
+Low income,LIC,1972,50.20355109
+Lower middle income,LMC,1972,35.697687
+Middle East & North Africa (all income levels),MEA,1972,32.45769444
+Middle East & North Africa (developing only),MNA,1972,32.55161643
+Middle income,MIC,1972,34.11875995
+North America,NAC,1972,55.4872521
+OECD members,OED,1972,64.40264863
+Other small states,OSS,1972,57.14156638
+Pacific island small states,PSS,1972,69.6167657
+Small states,SST,1972,72.37797858
+South Asia,SAS,1972,40.74946128
+Sub-Saharan Africa (all income levels),SSF,1972,40.58444054
+Sub-Saharan Africa (developing only),SSA,1972,40.56534764
+Upper middle income,UMC,1972,33.03644673
+World,WLD,1972,42.65667778
+Afghanistan,AFG,1972,83.94
+Albania,ALB,1972,61.18
+Algeria,DZA,1972,39.75
+American Samoa,ASM,1972,63.16
+Angola,AGO,1972,52.56
+Antigua and Barbuda,ATG,1972,78.03
+Argentina,ARG,1972,31.62
+Armenia,ARM,1972,62.84
+Australia,AUS,1972,35.74
+Austria,AUT,1972,78.48
+Azerbaijan,AZE,1972,84.49
+"Bahamas, The",BHS,1972,63.94
+Bahrain,BHR,1972,78.25
+Bangladesh,BGD,1972,41.45
+Barbados,BRB,1972,217.93
+Belarus,BLR,1972,79.35
+Belgium,BEL,1972,97.77
+Belize,BLZ,1972,26.2
+Benin,BEN,1972,23.99
+Bermuda,BMU,1972,59.14
+Bhutan,BTN,1972,38.15
+Bolivia,BOL,1972,35.92
+Bosnia and Herzegovina,BIH,1972,71.5
+Botswana,BWA,1972,78.56
+Brazil,BRA,1972,34.71
+Brunei Darussalam,BRN,1972,60.09
+Bulgaria,BGR,1972,173.39
+Burkina Faso,BFA,1972,21.09
+Burundi,BDI,1972,59.7
+Cabo Verde,CPV,1972,27.85
+Cambodia,KHM,1972,38.25
+Cameroon,CMR,1972,41.72
+Canada,CAN,1972,46.34
+Cayman Islands,CYM,1972,232.5
+Central African Republic,CAF,1972,67.56
+Chad,TCD,1972,34.42
+Chile,CHL,1972,35.08
+China,CHN,1972,26.66
+Colombia,COL,1972,44.26
+Comoros,COM,1972,48.98
+"Congo, Dem. Rep.",ZAR,1972,76.64
+"Congo, Rep.",COG,1972,51.04
+Costa Rica,CRI,1972,34.71
+Cote d'Ivoire,CIV,1972,30.66
+Croatia,HRV,1972,129.09
+Cuba,CUB,1972,75.24
+Cyprus,CYP,1972,161.75
+Czech Republic,CZE,1972,95.99
+Denmark,DNK,1972,65.4
+Djibouti,DJI,1972,5.27
+Dominica,DMA,1972,107.74
+Dominican Republic,DOM,1972,86.4
+Ecuador,ECU,1972,46.57
+"Egypt, Arab Rep.",EGY,1972,33.68
+El Salvador,SLV,1972,91.26
+Equatorial Guinea,GNQ,1972,74.48
+Eritrea,ERI,1972,54.75
+Estonia,EST,1972,92.14
+Ethiopia,ETH,1972,81.08
+Faeroe Islands,FRO,1972,96.26
+Fiji,FJI,1972,74.81
+Finland,FIN,1972,73.33
+France,FRA,1972,78.46
+French Polynesia,PYF,1972,109.57
+Gabon,GAB,1972,40.59
+"Gambia, The",GMB,1972,74.84
+Georgia,GEO,1972,92.28
+Germany,DEU,1972,87.75
+Ghana,GHA,1972,34.55
+Greece,GRC,1972,62.45
+Grenada,GRD,1972,155.75
+Guam,GUM,1972,42.42
+Guatemala,GTM,1972,34.07
+Guinea,GIN,1972,40.52
+Guinea-Bissau,GNB,1972,29.46
+Guyana,GUY,1972,68.51
+Haiti,HTI,1972,97.42
+Honduras,HND,1972,61.14
+"Hong Kong SAR, China",HKG,1972,391.23
+Hungary,HUN,1972,85.16
+Iceland,ISL,1972,39.99
+India,IND,1972,40.69
+Indonesia,IDN,1972,28.85
+"Iran, Islamic Rep.",IRN,1972,21.78
+Iraq,IRQ,1972,65.18
+Ireland,IRL,1972,74.86
+Israel,ISR,1972,67.7
+Italy,ITA,1972,81.7
+Jamaica,JAM,1972,115.49
+Japan,JPN,1972,133.79
+Jordan,JOR,1972,29.86
+Kazakhstan,KAZ,1972,100.83
+Kenya,KEN,1972,35.05
+Kiribati,KIR,1972,40.75
+"Korea, Dem. Rep.",PRK,1972,55.09
+"Korea, Rep.",KOR,1972,56.89
+Kuwait,KWT,1972,5.12
+Kyrgyz Republic,KGZ,1972,89.43
+Lao PDR,LAO,1972,27.76
+Latvia,LVA,1972,95.96
+Lebanon,LBN,1972,53.64
+Lesotho,LSO,1972,52.53
+Liberia,LBR,1972,71.79
+Libya,LBY,1972,39.22
+Liechtenstein,LIE,1972,41.83
+Lithuania,LTU,1972,113.13
+Luxembourg,LUX,1972,106.1
+"Macao SAR, China",MAC,1972,44.04
+Madagascar,MDG,1972,59.09
+Malawi,MWI,1972,35.72
+Malaysia,MYS,1972,28.77
+Maldives,MDV,1972,74.51
+Mali,MLI,1972,24.82
+Malta,MLT,1972,66.62
+Marshall Islands,MHL,1972,58.6
+Mauritania,MRT,1972,33.01
+Mauritius,MUS,1972,116.43
+Mexico,MEX,1972,46.92
+"Micronesia, Fed. Sts.",FSM,1972,90.36
+Moldova,MDA,1972,99.6
+Mongolia,MNG,1972,56.73
+Morocco,MAR,1972,39.9
+Mozambique,MOZ,1972,72.05
+Myanmar,MMR,1972,24.08
+Namibia,NAM,1972,38.94
+Nepal,NPL,1972,30.26
+Netherlands,NLD,1972,61.32
+New Caledonia,NCL,1972,124.88
+New Zealand,NZL,1972,34.64
+Nicaragua,NIC,1972,67.71
+Niger,NER,1972,33.17
+Nigeria,NGA,1972,25.75
+Norway,NOR,1972,106.4
+Oman,OMN,1972,20.94
+Pakistan,PAK,1972,36.06
+Panama,PAN,1972,102.84
+Papua New Guinea,PNG,1972,49.43
+Paraguay,PRY,1972,23.1
+Peru,PER,1972,42.96
+Philippines,PHL,1972,39.42
+Poland,POL,1972,124.36
+Portugal,PRT,1972,104.91
+Puerto Rico,PRI,1972,288
+Qatar,QAT,1972,28.94
+Romania,ROM,1972,89.68
+Russian Federation,RUS,1972,93.25
+Rwanda,RWA,1972,46.53
+Samoa,WSM,1972,108.97
+Sao Tome and Principe,STP,1972,80.07
+Saudi Arabia,SAU,1972,14.13
+Senegal,SEN,1972,45.29
+Seychelles,SYC,1972,297.41
+Sierra Leone,SLE,1972,43.68
+Singapore,SGP,1972,664.7
+Solomon Islands,SLB,1972,37.06
+Somalia,SOM,1972,92.4
+South Africa,ZAF,1972,67.57
+Spain,ESP,1972,60.9
+Sri Lanka,LKA,1972,61.84
+St. Kitts and Nevis,KNA,1972,178.87
+St. Lucia,LCA,1972,265.82
+St. Vincent and the Grenadines,VCT,1972,69.29
+Sudan,SDN,1972,42.68
+Suriname,SUR,1972,75.16
+Swaziland,SWZ,1972,50.07
+Sweden,SWE,1972,104.32
+Switzerland,CHE,1972,96.44
+Syrian Arab Republic,SYR,1972,31.55
+Tanzania,TZA,1972,36.75
+Thailand,THA,1972,29.94
+Timor-Leste,TMP,1972,56.43
+Togo,TGO,1972,44.31
+Tonga,TON,1972,154.37
+Trinidad and Tobago,TTO,1972,236.7
+Tunisia,TUN,1972,38.79
+Turkey,TUR,1972,47.56
+Tuvalu,TUV,1972,54.62
+Uganda,UGA,1972,69.17
+United Arab Emirates,ARE,1972,2.25
+United Kingdom,GBR,1972,74.7
+United States,USA,1972,56.53
+Uruguay,URY,1972,34.62
+Vanuatu,VUT,1972,58.25
+"Venezuela, RB",VEN,1972,49.48
+Vietnam,VNM,1972,23.54
+West Bank and Gaza,WBG,1972,99.38
+"Yemen, Rep.",YEM,1972,36.34
+Zambia,ZMB,1972,48.04
+Zimbabwe,ZWE,1972,89.56
+Arab World,ARB,1973,34.58663472
+Caribbean small states,CSS,1973,89.0758234
+East Asia & Pacific (all income levels),EAS,1973,33.91713137
+East Asia & Pacific (developing only),EAP,1973,30.86103802
+Euro area,EMU,1973,83.44802408
+European Union,EUU,1973,88.56823124
+Fragile and conflict affected situations,FCS,1973,42.16691407
+Heavily indebted poor countries (HIPC),HPC,1973,47.81188509
+High income,HIC,1973,69.2210413
+High income: nonOECD,NOC,1973,42.64057253
+High income: OECD,OEC,1973,72.15409578
+Latin America & Caribbean (all income levels),LCN,1973,40.01449208
+Latin America & Caribbean (developing only),LAC,1973,40.70732432
+Least developed countries: UN classification,LDC,1973,44.51377674
+Low & middle income,LMY,1973,36.71569892
+Low income,LIC,1973,50.29784316
+Lower middle income,LMC,1973,37.79314261
+Middle East & North Africa (all income levels),MEA,1973,31.01980108
+Middle East & North Africa (developing only),MNA,1973,30.93542178
+Middle income,MIC,1973,35.95578441
+North America,NAC,1973,59.30275459
+OECD members,OED,1973,68.5899381
+Other small states,OSS,1973,58.43300408
+Pacific island small states,PSS,1973,71.51325793
+Small states,SST,1973,70.88315907
+South Asia,SAS,1973,44.11520231
+Sub-Saharan Africa (all income levels),SSF,1973,40.10686031
+Sub-Saharan Africa (developing only),SSA,1973,40.08675246
+Upper middle income,UMC,1973,34.69632339
+World,WLD,1973,45.24918798
+Afghanistan,AFG,1973,91.25
+Albania,ALB,1973,66.77
+Algeria,DZA,1973,36.57
+American Samoa,ASM,1973,62.21
+Angola,AGO,1973,53.88
+Antigua and Barbuda,ATG,1973,75.37
+Argentina,ARG,1973,35.88
+Armenia,ARM,1973,68.49
+Australia,AUS,1973,43.71
+Austria,AUT,1973,86.8
+Azerbaijan,AZE,1973,89.92
+"Bahamas, The",BHS,1973,64.68
+Bahrain,BHR,1973,78.25
+Bangladesh,BGD,1973,46.36
+Barbados,BRB,1973,207.73
+Belarus,BLR,1973,85.62
+Belgium,BEL,1973,98.03
+Belize,BLZ,1973,27.96
+Benin,BEN,1973,24.41
+Bermuda,BMU,1973,76.29
+Bhutan,BTN,1973,39.01
+Bolivia,BOL,1973,40.52
+Bosnia and Herzegovina,BIH,1973,68.51
+Botswana,BWA,1973,63.46
+Brazil,BRA,1973,32.74
+Brunei Darussalam,BRN,1973,77.22
+Bulgaria,BGR,1973,171.45
+Burkina Faso,BFA,1973,19.96
+Burundi,BDI,1973,67.76
+Cabo Verde,CPV,1973,26.62
+Cambodia,KHM,1973,25.82
+Cameroon,CMR,1973,42.68
+Canada,CAN,1973,48.84
+Cayman Islands,CYM,1973,233.81
+Central African Republic,CAF,1973,69.11
+Chad,TCD,1973,34.76
+Chile,CHL,1973,30.65
+China,CHN,1973,30.06
+Colombia,COL,1973,46.83
+Comoros,COM,1973,48.28
+"Congo, Dem. Rep.",ZAR,1973,78.5
+"Congo, Rep.",COG,1973,52.9
+Costa Rica,CRI,1973,37.32
+Cote d'Ivoire,CIV,1973,33.38
+Croatia,HRV,1973,92.34
+Cuba,CUB,1973,81.53
+Cyprus,CYP,1973,114.09
+Czech Republic,CZE,1973,77.86
+Denmark,DNK,1973,64.37
+Djibouti,DJI,1973,5.61
+Dominica,DMA,1973,99.11
+Dominican Republic,DOM,1973,92.74
+Ecuador,ECU,1973,46.69
+"Egypt, Arab Rep.",EGY,1973,33.71
+El Salvador,SLV,1973,93.68
+Equatorial Guinea,GNQ,1973,77.98
+Eritrea,ERI,1973,69.32
+Estonia,EST,1973,88.85
+Ethiopia,ETH,1973,85.33
+Faeroe Islands,FRO,1973,86.6
+Fiji,FJI,1973,77.08
+Finland,FIN,1973,68.16
+France,FRA,1973,92.14
+French Polynesia,PYF,1973,90.97
+Gabon,GAB,1973,41.83
+"Gambia, The",GMB,1973,89.31
+Georgia,GEO,1973,121.66
+Germany,DEU,1973,91.88
+Ghana,GHA,1973,34.88
+Greece,GRC,1973,63.52
+Grenada,GRD,1973,147.3
+Guam,GUM,1973,43.94
+Guatemala,GTM,1973,37.02
+Guinea,GIN,1973,40.9
+Guinea-Bissau,GNB,1973,28.18
+Guyana,GUY,1973,65.71
+Haiti,HTI,1973,97.9
+Honduras,HND,1973,58.14
+"Hong Kong SAR, China",HKG,1973,381.01
+Hungary,HUN,1973,92.23
+Iceland,ISL,1973,27.69
+India,IND,1973,44.25
+Indonesia,IDN,1973,31.32
+"Iran, Islamic Rep.",IRN,1973,22.34
+Iraq,IRQ,1973,50.79
+Ireland,IRL,1973,81.36
+Israel,ISR,1973,66.7
+Italy,ITA,1973,90.67
+Jamaica,JAM,1973,102.12
+Japan,JPN,1973,133.58
+Jordan,JOR,1973,14.18
+Kazakhstan,KAZ,1973,98.14
+Kenya,KEN,1973,37.93
+Kiribati,KIR,1973,53.85
+"Korea, Dem. Rep.",PRK,1973,59.95
+"Korea, Rep.",KOR,1973,58.24
+Kuwait,KWT,1973,7.25
+Kyrgyz Republic,KGZ,1973,96.09
+Lao PDR,LAO,1973,29.44
+Latvia,LVA,1973,91.25
+Lebanon,LBN,1973,48.22
+Lesotho,LSO,1973,72.79
+Liberia,LBR,1973,73.63
+Libya,LBY,1973,51.37
+Liechtenstein,LIE,1973,65.74
+Lithuania,LTU,1973,122.97
+Luxembourg,LUX,1973,90.94
+"Macao SAR, China",MAC,1973,46.63
+Madagascar,MDG,1973,59.66
+Malawi,MWI,1973,37.77
+Malaysia,MYS,1973,32.01
+Maldives,MDV,1973,78.17
+Mali,MLI,1973,24.8
+Malta,MLT,1973,66.37
+Marshall Islands,MHL,1973,135.64
+Mauritania,MRT,1973,29.26
+Mauritius,MUS,1973,115.22
+Mexico,MEX,1973,48.87
+"Micronesia, Fed. Sts.",FSM,1973,88.88
+Moldova,MDA,1973,97.84
+Mongolia,MNG,1973,141.98
+Morocco,MAR,1973,35.88
+Mozambique,MOZ,1973,75.19
+Myanmar,MMR,1973,26.42
+Namibia,NAM,1973,39.94
+Nepal,NPL,1973,34.24
+Netherlands,NLD,1973,64.51
+New Caledonia,NCL,1973,131.11
+New Zealand,NZL,1973,35.98
+Nicaragua,NIC,1973,72.23
+Niger,NER,1973,20.25
+Nigeria,NGA,1973,26.67
+Norway,NOR,1973,109.43
+Oman,OMN,1973,22
+Pakistan,PAK,1973,36.46
+Panama,PAN,1973,105.39
+Papua New Guinea,PNG,1973,49.85
+Paraguay,PRY,1973,24.3
+Peru,PER,1973,43.07
+Philippines,PHL,1973,40.68
+Poland,POL,1973,134.37
+Portugal,PRT,1973,108.4
+Puerto Rico,PRI,1973,254.75
+Qatar,QAT,1973,0.17
+Romania,ROM,1973,81.47
+Russian Federation,RUS,1973,87.22
+Rwanda,RWA,1973,48.71
+Samoa,WSM,1973,105.45
+Sao Tome and Principe,STP,1973,82.72
+Saudi Arabia,SAU,1973,16.99
+Senegal,SEN,1973,57.75
+Seychelles,SYC,1973,266.92
+Sierra Leone,SLE,1973,43.86
+Singapore,SGP,1973,561.67
+Solomon Islands,SLB,1973,37.72
+Somalia,SOM,1973,80.97
+South Africa,ZAF,1973,52.07
+Spain,ESP,1973,67.62
+Sri Lanka,LKA,1973,61.81
+St. Kitts and Nevis,KNA,1973,157.98
+St. Lucia,LCA,1973,244.9
+St. Vincent and the Grenadines,VCT,1973,71.14
+Sudan,SDN,1973,41.03
+Suriname,SUR,1973,86.89
+Swaziland,SWZ,1973,48.62
+Sweden,SWE,1973,97.72
+Switzerland,CHE,1973,117.16
+Syrian Arab Republic,SYR,1973,20.22
+Tanzania,TZA,1973,39.17
+Thailand,THA,1973,36.12
+Timor-Leste,TMP,1973,61.48
+Togo,TGO,1973,44.95
+Tonga,TON,1973,145.34
+Trinidad and Tobago,TTO,1973,197.99
+Tunisia,TUN,1973,48.19
+Turkey,TUR,1973,42.17
+Tuvalu,TUV,1973,48.36
+Uganda,UGA,1973,69.35
+United Arab Emirates,ARE,1973,2.67
+United Kingdom,GBR,1973,78.37
+United States,USA,1973,60.5
+Uruguay,URY,1973,40.63
+Vanuatu,VUT,1973,66.47
+"Venezuela, RB",VEN,1973,50.4
+Vietnam,VNM,1973,24.11
+West Bank and Gaza,WBG,1973,104.45
+"Yemen, Rep.",YEM,1973,41.27
+Zambia,ZMB,1973,40.41
+Zimbabwe,ZWE,1973,62.13
+Arab World,ARB,1974,38.8331601
+Caribbean small states,CSS,1974,94.59665152
+East Asia & Pacific (all income levels),EAS,1974,34.23023691
+East Asia & Pacific (developing only),EAP,1974,31.22137312
+Euro area,EMU,1974,82.90603176
+European Union,EUU,1974,87.96549611
+Fragile and conflict affected situations,FCS,1974,46.28794038
+Heavily indebted poor countries (HIPC),HPC,1974,50.59390084
+High income,HIC,1974,67.13478663
+High income: nonOECD,NOC,1974,47.50035082
+High income: OECD,OEC,1974,69.30137258
+Latin America & Caribbean (all income levels),LCN,1974,43.33114696
+Latin America & Caribbean (developing only),LAC,1974,43.77644192
+Least developed countries: UN classification,LDC,1974,45.47040755
+Low & middle income,LMY,1974,37.75156935
+Low income,LIC,1974,52.2370104
+Lower middle income,LMC,1974,38.26542674
+Middle East & North Africa (all income levels),MEA,1974,34.17522586
+Middle East & North Africa (developing only),MNA,1974,33.98038962
+Middle income,MIC,1974,36.9411158
+North America,NAC,1974,53.90124246
+OECD members,OED,1974,66.57411781
+Other small states,OSS,1974,61.02767376
+Pacific island small states,PSS,1974,73.00168704
+Small states,SST,1974,74.34481456
+South Asia,SAS,1974,42.60265755
+Sub-Saharan Africa (all income levels),SSF,1974,44.26337641
+Sub-Saharan Africa (developing only),SSA,1974,44.24492303
+Upper middle income,UMC,1974,36.03333527
+World,WLD,1974,45.4654202
+Afghanistan,AFG,1974,94.92
+Albania,ALB,1974,68.1
+Algeria,DZA,1974,39.75
+American Samoa,ASM,1974,58.4
+Angola,AGO,1974,54.51
+Antigua and Barbuda,ATG,1974,72
+Argentina,ARG,1974,40.87
+Armenia,ARM,1974,85.48
+Australia,AUS,1974,42.34
+Austria,AUT,1974,85.83
+Azerbaijan,AZE,1974,88.26
+"Bahamas, The",BHS,1974,66.47
+Bahrain,BHR,1974,85.09
+Bangladesh,BGD,1974,43.83
+Barbados,BRB,1974,188.84
+Belarus,BLR,1974,105.6
+Belgium,BEL,1974,108.84
+Belize,BLZ,1974,30.98
+Benin,BEN,1974,21.83
+Bermuda,BMU,1974,83.41
+Bhutan,BTN,1974,39.83
+Bolivia,BOL,1974,40.98
+Bosnia and Herzegovina,BIH,1974,104.22
+Botswana,BWA,1974,94.15
+Brazil,BRA,1974,36.25
+Brunei Darussalam,BRN,1974,95.43
+Bulgaria,BGR,1974,160.07
+Burkina Faso,BFA,1974,24.62
+Burundi,BDI,1974,63.19
+Cabo Verde,CPV,1974,27.48
+Cambodia,KHM,1974,19.78
+Cameroon,CMR,1974,46.71
+Canada,CAN,1974,42.91
+Cayman Islands,CYM,1974,222.71
+Central African Republic,CAF,1974,74.96
+Chad,TCD,1974,39.96
+Chile,CHL,1974,32.31
+China,CHN,1974,30.22
+Colombia,COL,1974,50.04
+Comoros,COM,1974,52.1
+"Congo, Dem. Rep.",ZAR,1974,80.43
+"Congo, Rep.",COG,1974,50.85
+Costa Rica,CRI,1974,34.56
+Cote d'Ivoire,CIV,1974,34.54
+Croatia,HRV,1974,105.91
+Cuba,CUB,1974,90.16
+Cyprus,CYP,1974,135.57
+Czech Republic,CZE,1974,113.6
+Denmark,DNK,1974,71.06
+Djibouti,DJI,1974,6.23
+Dominica,DMA,1974,109.05
+Dominican Republic,DOM,1974,93.16
+Ecuador,ECU,1974,52.03
+"Egypt, Arab Rep.",EGY,1974,33.99
+El Salvador,SLV,1974,101.94
+Equatorial Guinea,GNQ,1974,79.1
+Eritrea,ERI,1974,69.21
+Estonia,EST,1974,91.73
+Ethiopia,ETH,1974,92.25
+Faeroe Islands,FRO,1974,87.18
+Fiji,FJI,1974,69.53
+Finland,FIN,1974,70.34
+France,FRA,1974,87.04
+French Polynesia,PYF,1974,83.86
+Gabon,GAB,1974,42.7
+"Gambia, The",GMB,1974,81.29
+Georgia,GEO,1974,99.22
+Germany,DEU,1974,92.76
+Ghana,GHA,1974,39.73
+Greece,GRC,1974,69.59
+Grenada,GRD,1974,140.62
+Guam,GUM,1974,45
+Guatemala,GTM,1974,40.34
+Guinea,GIN,1974,41.21
+Guinea-Bissau,GNB,1974,29.26
+Guyana,GUY,1974,82.69
+Haiti,HTI,1974,99.65
+Honduras,HND,1974,52.89
+"Hong Kong SAR, China",HKG,1974,381.67
+Hungary,HUN,1974,92.79
+Iceland,ISL,1974,60.68
+India,IND,1974,42.33
+Indonesia,IDN,1974,32.63
+"Iran, Islamic Rep.",IRN,1974,23.96
+Iraq,IRQ,1974,51.77
+Ireland,IRL,1974,76.28
+Israel,ISR,1974,69.91
+Italy,ITA,1974,90.85
+Jamaica,JAM,1974,103.41
+Japan,JPN,1974,131.11
+Jordan,JOR,1974,31.97
+Kazakhstan,KAZ,1974,90.89
+Kenya,KEN,1974,39.52
+Kiribati,KIR,1974,65.83
+"Korea, Dem. Rep.",PRK,1974,63.67
+"Korea, Rep.",KOR,1974,60.88
+Kuwait,KWT,1974,9.73
+Kyrgyz Republic,KGZ,1974,105.08
+Lao PDR,LAO,1974,30.24
+Latvia,LVA,1974,91.25
+Lebanon,LBN,1974,57.84
+Lesotho,LSO,1974,116.36
+Liberia,LBR,1974,77.62
+Libya,LBY,1974,45.58
+Liechtenstein,LIE,1974,41.83
+Lithuania,LTU,1974,111.57
+Luxembourg,LUX,1974,111.32
+"Macao SAR, China",MAC,1974,46.63
+Madagascar,MDG,1974,69.42
+Malawi,MWI,1974,37.62
+Malaysia,MYS,1974,33.61
+Maldives,MDV,1974,79.08
+Mali,MLI,1974,30.12
+Malta,MLT,1974,66.63
+Marshall Islands,MHL,1974,83.95
+Mauritania,MRT,1974,34.51
+Mauritius,MUS,1974,111.08
+Mexico,MEX,1974,50.12
+"Micronesia, Fed. Sts.",FSM,1974,98.64
+Moldova,MDA,1974,107.38
+Mongolia,MNG,1974,96.48
+Morocco,MAR,1974,42.79
+Mozambique,MOZ,1974,72.19
+Myanmar,MMR,1974,26.52
+Namibia,NAM,1974,40.34
+Nepal,NPL,1974,34.85
+Netherlands,NLD,1974,66
+New Caledonia,NCL,1974,112.68
+New Zealand,NZL,1974,32.57
+Nicaragua,NIC,1974,89.48
+Niger,NER,1974,28.6
+Nigeria,NGA,1974,29.51
+Norway,NOR,1974,132.26
+Oman,OMN,1974,22.25
+Pakistan,PAK,1974,37.42
+Panama,PAN,1974,108.69
+Papua New Guinea,PNG,1974,53.29
+Paraguay,PRY,1974,27.79
+Peru,PER,1974,44.53
+Philippines,PHL,1974,43.65
+Poland,POL,1974,127.87
+Portugal,PRT,1974,115.61
+Puerto Rico,PRI,1974,249.26
+Qatar,QAT,1974,0.19
+Romania,ROM,1974,82.27
+Russian Federation,RUS,1974,96.2
+Rwanda,RWA,1974,46.54
+Samoa,WSM,1974,112.56
+Sao Tome and Principe,STP,1974,79.33
+Saudi Arabia,SAU,1974,24.24
+Senegal,SEN,1974,82.41
+Seychelles,SYC,1974,250.79
+Sierra Leone,SLE,1974,44.16
+Singapore,SGP,1974,421.81
+Solomon Islands,SLB,1974,38.57
+Somalia,SOM,1974,79.32
+South Africa,ZAF,1974,73.67
+Spain,ESP,1974,66.73
+Sri Lanka,LKA,1974,66.72
+St. Kitts and Nevis,KNA,1974,162.02
+St. Lucia,LCA,1974,268.24
+St. Vincent and the Grenadines,VCT,1974,64.83
+Sudan,SDN,1974,49.38
+Suriname,SUR,1974,84.86
+Swaziland,SWZ,1974,55.46
+Sweden,SWE,1974,126.87
+Switzerland,CHE,1974,98.79
+Syrian Arab Republic,SYR,1974,33.88
+Tanzania,TZA,1974,39
+Thailand,THA,1974,35.46
+Timor-Leste,TMP,1974,60.17
+Togo,TGO,1974,44.51
+Tonga,TON,1974,155.74
+Trinidad and Tobago,TTO,1974,197.96
+Tunisia,TUN,1974,48.32
+Turkey,TUR,1974,47.33
+Tuvalu,TUV,1974,126.7
+Uganda,UGA,1974,72.49
+United Arab Emirates,ARE,1974,4.34
+United Kingdom,GBR,1974,79.94
+United States,USA,1974,55.16
+Uruguay,URY,1974,44.83
+Vanuatu,VUT,1974,86.06
+"Venezuela, RB",VEN,1974,52.93
+Vietnam,VNM,1974,24.17
+West Bank and Gaza,WBG,1974,97.61
+"Yemen, Rep.",YEM,1974,40.97
+Zambia,ZMB,1974,43.56
+Zimbabwe,ZWE,1974,94.67
+Arab World,ARB,1975,39.76149962
+Caribbean small states,CSS,1975,91.43123917
+East Asia & Pacific (all income levels),EAS,1975,35.28687759
+East Asia & Pacific (developing only),EAP,1975,32.06323063
+Euro area,EMU,1975,79.92243952
+European Union,EUU,1975,84.40507156
+Fragile and conflict affected situations,FCS,1975,47.7002128
+Heavily indebted poor countries (HIPC),HPC,1975,51.87280083
+High income,HIC,1975,69.23219582
+High income: nonOECD,NOC,1975,45.87937779
+High income: OECD,OEC,1975,71.80909121
+Latin America & Caribbean (all income levels),LCN,1975,43.21739129
+Latin America & Caribbean (developing only),LAC,1975,43.99211485
+Least developed countries: UN classification,LDC,1975,47.63319477
+Low & middle income,LMY,1975,39.11188309
+Low income,LIC,1975,53.91517139
+Lower middle income,LMC,1975,40.49864454
+Middle East & North Africa (all income levels),MEA,1975,35.08715786
+Middle East & North Africa (developing only),MNA,1975,34.87720463
+Middle income,MIC,1975,38.28364614
+North America,NAC,1975,61.4239992
+OECD members,OED,1975,68.93433103
+Other small states,OSS,1975,56.24361575
+Pacific island small states,PSS,1975,71.81806991
+Small states,SST,1975,70.61606579
+South Asia,SAS,1975,46.80881151
+Sub-Saharan Africa (all income levels),SSF,1975,44.20637281
+Sub-Saharan Africa (developing only),SSA,1975,44.19335993
+Upper middle income,UMC,1975,36.76532263
+World,WLD,1975,47.01924047
+Afghanistan,AFG,1975,97.68
+Albania,ALB,1975,69.48
+Algeria,DZA,1975,44.69
+American Samoa,ASM,1975,57.26
+Angola,AGO,1975,45.83
+Antigua and Barbuda,ATG,1975,77.86
+Argentina,ARG,1975,38.89
+Armenia,ARM,1975,105.37
+Australia,AUS,1975,45.85
+Austria,AUT,1975,86.06
+Azerbaijan,AZE,1975,106.98
+"Bahamas, The",BHS,1975,69.26
+Bahrain,BHR,1975,120.21
+Bangladesh,BGD,1975,48.96
+Barbados,BRB,1975,173.08
+Belarus,BLR,1975,94.63
+Belgium,BEL,1975,100.84
+Belize,BLZ,1975,28.58
+Benin,BEN,1975,20.98
+Bermuda,BMU,1975,83.06
+Bhutan,BTN,1975,40.72
+Bolivia,BOL,1975,43.55
+Bosnia and Herzegovina,BIH,1975,94.42
+Botswana,BWA,1975,82.14
+Brazil,BRA,1975,36.6
+Brunei Darussalam,BRN,1975,95.5
+Bulgaria,BGR,1975,162.49
+Burkina Faso,BFA,1975,28.36
+Burundi,BDI,1975,68.03
+Cabo Verde,CPV,1975,28.19
+Cambodia,KHM,1975,25.25
+Cameroon,CMR,1975,46.66
+Canada,CAN,1975,51.23
+Cayman Islands,CYM,1975,233.08
+Central African Republic,CAF,1975,74.1
+Chad,TCD,1975,42.67
+Chile,CHL,1975,32.48
+China,CHN,1975,30.84
+Colombia,COL,1975,54.71
+Comoros,COM,1975,51.93
+"Congo, Dem. Rep.",ZAR,1975,82.56
+"Congo, Rep.",COG,1975,52.3
+Costa Rica,CRI,1975,36.92
+Cote d'Ivoire,CIV,1975,40
+Croatia,HRV,1975,94.94
+Cuba,CUB,1975,87.49
+Cyprus,CYP,1975,115.03
+Czech Republic,CZE,1975,100.12
+Denmark,DNK,1975,62.72
+Djibouti,DJI,1975,6.37
+Dominica,DMA,1975,113.83
+Dominican Republic,DOM,1975,88.86
+Ecuador,ECU,1975,52.29
+"Egypt, Arab Rep.",EGY,1975,34.98
+El Salvador,SLV,1975,108.81
+Equatorial Guinea,GNQ,1975,67.07
+Eritrea,ERI,1975,115.03
+Estonia,EST,1975,116.28
+Ethiopia,ETH,1975,103.82
+Faeroe Islands,FRO,1975,82.35
+Fiji,FJI,1975,69.27
+Finland,FIN,1975,84.35
+France,FRA,1975,78.26
+French Polynesia,PYF,1975,121.95
+Gabon,GAB,1975,43.98
+"Gambia, The",GMB,1975,78.53
+Georgia,GEO,1975,131.96
+Germany,DEU,1975,82.98
+Ghana,GHA,1975,36.69
+Greece,GRC,1975,74.75
+Grenada,GRD,1975,144.35
+Guam,GUM,1975,49.58
+Guatemala,GTM,1975,39.94
+Guinea,GIN,1975,42
+Guinea-Bissau,GNB,1975,34.15
+Guyana,GUY,1975,79.26
+Haiti,HTI,1975,100.92
+Honduras,HND,1975,42.06
+"Hong Kong SAR, China",HKG,1975,363.27
+Hungary,HUN,1975,90.99
+Iceland,ISL,1975,29.83
+India,IND,1975,47.15
+Indonesia,IDN,1975,31.95
+"Iran, Islamic Rep.",IRN,1975,24.52
+Iraq,IRQ,1975,53.14
+Ireland,IRL,1975,76.27
+Israel,ISR,1975,69.55
+Italy,ITA,1975,93.29
+Jamaica,JAM,1975,100.11
+Japan,JPN,1975,136.56
+Jordan,JOR,1975,18.65
+Kazakhstan,KAZ,1975,100.07
+Kenya,KEN,1975,39.29
+Kiribati,KIR,1975,39.72
+"Korea, Dem. Rep.",PRK,1975,67.9
+"Korea, Rep.",KOR,1975,68.85
+Kuwait,KWT,1975,8.03
+Kyrgyz Republic,KGZ,1975,95.69
+Lao PDR,LAO,1975,29.7
+Latvia,LVA,1975,111.58
+Lebanon,LBN,1975,44.79
+Lesotho,LSO,1975,87.61
+Liberia,LBR,1975,74.92
+Libya,LBY,1975,54.79
+Liechtenstein,LIE,1975,59.76
+Lithuania,LTU,1975,113.6
+Luxembourg,LUX,1975,93.25
+"Macao SAR, China",MAC,1975,46.63
+Madagascar,MDG,1975,67.29
+Malawi,MWI,1975,37.13
+Malaysia,MYS,1975,33.93
+Maldives,MDV,1975,88.38
+Mali,MLI,1975,35.38
+Malta,MLT,1975,69.96
+Marshall Islands,MHL,1975,96.71
+Mauritania,MRT,1975,37.09
+Mauritius,MUS,1975,81.15
+Mexico,MEX,1975,49.42
+"Micronesia, Fed. Sts.",FSM,1975,101.16
+Moldova,MDA,1975,99.84
+Mongolia,MNG,1975,149.01
+Morocco,MAR,1975,39.34
+Mozambique,MOZ,1975,66.02
+Myanmar,MMR,1975,27.85
+Namibia,NAM,1975,41.36
+Nepal,NPL,1975,36.38
+Netherlands,NLD,1975,59.83
+New Caledonia,NCL,1975,112.65
+New Zealand,NZL,1975,32.85
+Nicaragua,NIC,1975,85.76
+Niger,NER,1975,25.11
+Nigeria,NGA,1975,28.58
+Norway,NOR,1975,91.66
+Oman,OMN,1975,22.71
+Pakistan,PAK,1975,36.75
+Panama,PAN,1975,112.39
+Papua New Guinea,PNG,1975,53.82
+Paraguay,PRY,1975,28.05
+Peru,PER,1975,43.67
+Philippines,PHL,1975,50.18
+Poland,POL,1975,125.8
+Portugal,PRT,1975,102.14
+Puerto Rico,PRI,1975,249.52
+Qatar,QAT,1975,0.2
+Romania,ROM,1975,81.08
+Russian Federation,RUS,1975,100.62
+Rwanda,RWA,1975,52.11
+Samoa,WSM,1975,110.94
+Sao Tome and Principe,STP,1975,65.47
+Saudi Arabia,SAU,1975,26.59
+Senegal,SEN,1975,104.71
+Seychelles,SYC,1975,223.99
+Sierra Leone,SLE,1975,47.51
+Singapore,SGP,1975,405.08
+Solomon Islands,SLB,1975,40.05
+Somalia,SOM,1975,79.17
+South Africa,ZAF,1975,68.36
+Spain,ESP,1975,66.91
+Sri Lanka,LKA,1975,69.46
+St. Kitts and Nevis,KNA,1975,163.39
+St. Lucia,LCA,1975,231.05
+St. Vincent and the Grenadines,VCT,1975,60.91
+Sudan,SDN,1975,48.67
+Suriname,SUR,1975,90.8
+Swaziland,SWZ,1975,56.46
+Sweden,SWE,1975,103.71
+Switzerland,CHE,1975,118.38
+Syrian Arab Republic,SYR,1975,34.17
+Tanzania,TZA,1975,43.4
+Thailand,THA,1975,39.4
+Timor-Leste,TMP,1975,61.61
+Togo,TGO,1975,46.42
+Tonga,TON,1975,165.17
+Trinidad and Tobago,TTO,1975,189.93
+Tunisia,TUN,1975,59.06
+Turkey,TUR,1975,50.19
+Tuvalu,TUV,1975,60.43
+Uganda,UGA,1975,77.15
+United Arab Emirates,ARE,1975,4.56
+United Kingdom,GBR,1975,64.6
+United States,USA,1975,62.59
+Uruguay,URY,1975,43.09
+Vanuatu,VUT,1975,83.35
+"Venezuela, RB",VEN,1975,55.33
+Vietnam,VNM,1975,23.04
+West Bank and Gaza,WBG,1975,109.19
+"Yemen, Rep.",YEM,1975,48.64
+Zambia,ZMB,1975,52.85
+Zimbabwe,ZWE,1975,88.01
+Arab World,ARB,1976,40.1774968
+Caribbean small states,CSS,1976,93.34983497
+East Asia & Pacific (all income levels),EAS,1976,35.58990999
+East Asia & Pacific (developing only),EAP,1976,32.3669239
+Euro area,EMU,1976,76.19004076
+European Union,EUU,1976,83.8431667
+Fragile and conflict affected situations,FCS,1976,49.11462868
+Heavily indebted poor countries (HIPC),HPC,1976,51.6512404
+High income,HIC,1976,68.71413105
+High income: nonOECD,NOC,1976,48.19156882
+High income: OECD,OEC,1976,70.9787184
+Latin America & Caribbean (all income levels),LCN,1976,43.95200841
+Latin America & Caribbean (developing only),LAC,1976,44.36607312
+Least developed countries: UN classification,LDC,1976,47.15131806
+Low & middle income,LMY,1976,39.49091797
+Low income,LIC,1976,54.8855724
+Lower middle income,LMC,1976,40.28580655
+Middle East & North Africa (all income levels),MEA,1976,36.46007333
+Middle East & North Africa (developing only),MNA,1976,36.52000495
+Middle income,MIC,1976,38.62959437
+North America,NAC,1976,61.81845481
+OECD members,OED,1976,68.44470151
+Other small states,OSS,1976,62.140887
+Pacific island small states,PSS,1976,74.47087034
+Small states,SST,1976,74.68548824
+South Asia,SAS,1976,45.90302669
+Sub-Saharan Africa (all income levels),SSF,1976,43.17554018
+Sub-Saharan Africa (developing only),SSA,1976,43.16606788
+Upper middle income,UMC,1976,37.49430422
+World,WLD,1976,47.16276361
+Afghanistan,AFG,1976,102.93
+Albania,ALB,1976,77.07
+Algeria,DZA,1976,40.16
+American Samoa,ASM,1976,53.81
+Angola,AGO,1976,38.12
+Antigua and Barbuda,ATG,1976,77.42
+Argentina,ARG,1976,41.73
+Armenia,ARM,1976,109.15
+Australia,AUS,1976,44.77
+Austria,AUT,1976,88.09
+Azerbaijan,AZE,1976,104.76
+"Bahamas, The",BHS,1976,76.63
+Bahrain,BHR,1976,157.77
+Bangladesh,BGD,1976,46.43
+Barbados,BRB,1976,183.71
+Belarus,BLR,1976,99.77
+Belgium,BEL,1976,90.32
+Belize,BLZ,1976,26.44
+Benin,BEN,1976,25.02
+Bermuda,BMU,1976,85.54
+Bhutan,BTN,1976,41.58
+Bolivia,BOL,1976,43.71
+Bosnia and Herzegovina,BIH,1976,101.35
+Botswana,BWA,1976,104.64
+Brazil,BRA,1976,37.55
+Brunei Darussalam,BRN,1976,81.99
+Bulgaria,BGR,1976,177.15
+Burkina Faso,BFA,1976,25.36
+Burundi,BDI,1976,69.11
+Cabo Verde,CPV,1976,33.72
+Cambodia,KHM,1976,26.28
+Cameroon,CMR,1976,43.87
+Canada,CAN,1976,56.41
+Cayman Islands,CYM,1976,234.73
+Central African Republic,CAF,1976,76.07
+Chad,TCD,1976,41.36
+Chile,CHL,1976,32.61
+China,CHN,1976,30.48
+Colombia,COL,1976,55.7
+Comoros,COM,1976,51.32
+"Congo, Dem. Rep.",ZAR,1976,83.75
+"Congo, Rep.",COG,1976,53.17
+Costa Rica,CRI,1976,36.38
+Cote d'Ivoire,CIV,1976,40.13
+Croatia,HRV,1976,99.15
+Cuba,CUB,1976,90.36
+Cyprus,CYP,1976,124.25
+Czech Republic,CZE,1976,86.28
+Denmark,DNK,1976,58.45
+Djibouti,DJI,1976,7.04
+Dominica,DMA,1976,127.36
+Dominican Republic,DOM,1976,98.59
+Ecuador,ECU,1976,52.04
+"Egypt, Arab Rep.",EGY,1976,36.11
+El Salvador,SLV,1976,95.07
+Equatorial Guinea,GNQ,1976,57.55
+Eritrea,ERI,1976,115.76
+Estonia,EST,1976,92
+Ethiopia,ETH,1976,103.93
+Faeroe Islands,FRO,1976,110.91
+Fiji,FJI,1976,72
+Finland,FIN,1976,99.5
+France,FRA,1976,77.28
+French Polynesia,PYF,1976,111.84
+Gabon,GAB,1976,45.5
+"Gambia, The",GMB,1976,76.94
+Georgia,GEO,1976,68.82
+Germany,DEU,1976,75.72
+Ghana,GHA,1976,31.98
+Greece,GRC,1976,68.34
+Grenada,GRD,1976,168.47
+Guam,GUM,1976,43.44
+Guatemala,GTM,1976,42.53
+Guinea,GIN,1976,43.82
+Guinea-Bissau,GNB,1976,39
+Guyana,GUY,1976,72.36
+Haiti,HTI,1976,101.89
+Honduras,HND,1976,49.85
+"Hong Kong SAR, China",HKG,1976,375.79
+Hungary,HUN,1976,87.99
+Iceland,ISL,1976,33.4
+India,IND,1976,46.1
+Indonesia,IDN,1976,31.69
+"Iran, Islamic Rep.",IRN,1976,27.01
+Iraq,IRQ,1976,62.26
+Ireland,IRL,1976,79.15
+Israel,ISR,1976,70.97
+Italy,ITA,1976,87.17
+Jamaica,JAM,1976,101.93
+Japan,JPN,1976,130.09
+Jordan,JOR,1976,18.02
+Kazakhstan,KAZ,1976,109.04
+Kenya,KEN,1976,43.21
+Kiribati,KIR,1976,52.35
+"Korea, Dem. Rep.",PRK,1976,71.11
+"Korea, Rep.",KOR,1976,77.56
+Kuwait,KWT,1976,9.21
+Kyrgyz Republic,KGZ,1976,99.24
+Lao PDR,LAO,1976,26.37
+Latvia,LVA,1976,97.17
+Lebanon,LBN,1976,43.8
+Lesotho,LSO,1976,71.8
+Liberia,LBR,1976,78.14
+Libya,LBY,1976,60.34
+Liechtenstein,LIE,1976,59.76
+Lithuania,LTU,1976,74.83
+Luxembourg,LUX,1976,95.43
+"Macao SAR, China",MAC,1976,46.63
+Madagascar,MDG,1976,68.78
+Malawi,MWI,1976,39.6
+Malaysia,MYS,1976,36.5
+Maldives,MDV,1976,85.17
+Mali,MLI,1976,35.96
+Malta,MLT,1976,70.67
+Marshall Islands,MHL,1976,119.34
+Mauritania,MRT,1976,37.16
+Mauritius,MUS,1976,117.58
+Mexico,MEX,1976,46.48
+"Micronesia, Fed. Sts.",FSM,1976,100.19
+Moldova,MDA,1976,92.78
+Mongolia,MNG,1976,115.85
+Montenegro,MNE,1976,100
+Morocco,MAR,1976,44.91
+Mozambique,MOZ,1976,62.99
+Myanmar,MMR,1976,28.24
+Namibia,NAM,1976,41.6
+Nepal,NPL,1976,35.07
+Netherlands,NLD,1976,59.88
+New Caledonia,NCL,1976,110.58
+New Zealand,NZL,1976,36.86
+Nicaragua,NIC,1976,83.51
+Niger,NER,1976,33.74
+Nigeria,NGA,1976,26.11
+Norway,NOR,1976,103.12
+Oman,OMN,1976,24.41
+Pakistan,PAK,1976,37.74
+Panama,PAN,1976,111.28
+Papua New Guinea,PNG,1976,55.35
+Paraguay,PRY,1976,31.24
+Peru,PER,1976,42.68
+Philippines,PHL,1976,54.88
+Poland,POL,1976,136.41
+Portugal,PRT,1976,96.66
+Puerto Rico,PRI,1976,250.87
+Qatar,QAT,1976,0.36
+Romania,ROM,1976,108.56
+Russian Federation,RUS,1976,103.18
+Rwanda,RWA,1976,54.99
+Samoa,WSM,1976,109.46
+Sao Tome and Principe,STP,1976,61.74
+Saudi Arabia,SAU,1976,19.79
+Senegal,SEN,1976,91.98
+Seychelles,SYC,1976,219.56
+Sierra Leone,SLE,1976,47.41
+Singapore,SGP,1976,439.22
+Solomon Islands,SLB,1976,42.17
+Somalia,SOM,1976,78.88
+South Africa,ZAF,1976,66.74
+Spain,ESP,1976,64.12
+Sri Lanka,LKA,1976,69.78
+St. Kitts and Nevis,KNA,1976,231.94
+St. Lucia,LCA,1976,250.36
+St. Vincent and the Grenadines,VCT,1976,71.45
+Sudan,SDN,1976,44.82
+Suriname,SUR,1976,89.73
+Swaziland,SWZ,1976,57.74
+Sweden,SWE,1976,110.25
+Switzerland,CHE,1976,105.82
+Syrian Arab Republic,SYR,1976,40.01
+Tanzania,TZA,1976,45.02
+Thailand,THA,1976,42.57
+Timor-Leste,TMP,1976,64.38
+Togo,TGO,1976,44.01
+Tonga,TON,1976,161.95
+Trinidad and Tobago,TTO,1976,219.3
+Tunisia,TUN,1976,45.37
+Turkey,TUR,1976,55.31
+Tuvalu,TUV,1976,49.13
+Uganda,UGA,1976,70.9
+United Arab Emirates,ARE,1976,5.3
+United Kingdom,GBR,1976,62.5
+United States,USA,1976,62.44
+Uruguay,URY,1976,48.88
+Vanuatu,VUT,1976,88.91
+"Venezuela, RB",VEN,1976,51.17
+Vietnam,VNM,1976,26.69
+West Bank and Gaza,WBG,1976,93.2
+"Yemen, Rep.",YEM,1976,48.05
+Zambia,ZMB,1976,60.83
+Zimbabwe,ZWE,1976,95.1
+Arab World,ARB,1977,38.22504913
+Caribbean small states,CSS,1977,95.66735077
+East Asia & Pacific (all income levels),EAS,1977,36.40807844
+East Asia & Pacific (developing only),EAP,1977,33.01850573
+Euro area,EMU,1977,75.53887403
+European Union,EUU,1977,82.68281801
+Fragile and conflict affected situations,FCS,1977,48.46060687
+Heavily indebted poor countries (HIPC),HPC,1977,51.02129629
+High income,HIC,1977,71.17522728
+High income: nonOECD,NOC,1977,49.09492289
+High income: OECD,OEC,1977,73.61170559
+Latin America & Caribbean (all income levels),LCN,1977,47.11523094
+Latin America & Caribbean (developing only),LAC,1977,48.0985474
+Least developed countries: UN classification,LDC,1977,47.54933127
+Low & middle income,LMY,1977,40.74983536
+Low income,LIC,1977,54.6221728
+Lower middle income,LMC,1977,42.22247972
+Middle East & North Africa (all income levels),MEA,1977,34.56954457
+Middle East & North Africa (developing only),MNA,1977,34.22642864
+Middle income,MIC,1977,39.97368467
+North America,NAC,1977,66.95280844
+OECD members,OED,1977,70.95986353
+Other small states,OSS,1977,61.86561847
+Pacific island small states,PSS,1977,80.91457462
+Small states,SST,1977,76.2307121
+South Asia,SAS,1977,49.71954751
+Sub-Saharan Africa (all income levels),SSF,1977,43.17343669
+Sub-Saharan Africa (developing only),SSA,1977,43.1647724
+Upper middle income,UMC,1977,38.43219445
+World,WLD,1977,48.73728388
+Afghanistan,AFG,1977,86.27
+Albania,ALB,1977,81.56
+Algeria,DZA,1977,29.51
+American Samoa,ASM,1977,52.39
+Angola,AGO,1977,35.92
+Antigua and Barbuda,ATG,1977,78.44
+Argentina,ARG,1977,41.59
+Armenia,ARM,1977,124.33
+Australia,AUS,1977,40.71
+Austria,AUT,1977,81.53
+Azerbaijan,AZE,1977,103.44
+"Bahamas, The",BHS,1977,76.11
+Bahrain,BHR,1977,198.78
+Bangladesh,BGD,1977,50.29
+Barbados,BRB,1977,208.19
+Belarus,BLR,1977,104.45
+Belgium,BEL,1977,95.48
+Belize,BLZ,1977,33.34
+Benin,BEN,1977,23.91
+Bermuda,BMU,1977,81.2
+Bhutan,BTN,1977,42.5
+Bolivia,BOL,1977,41.59
+Bosnia and Herzegovina,BIH,1977,87.74
+Botswana,BWA,1977,91.51
+Brazil,BRA,1977,41.21
+Brunei Darussalam,BRN,1977,68.57
+Bulgaria,BGR,1977,156.02
+Burkina Faso,BFA,1977,25.59
+Burundi,BDI,1977,71.25
+Cabo Verde,CPV,1977,33.11
+Cambodia,KHM,1977,24.55
+Cameroon,CMR,1977,44.66
+Canada,CAN,1977,57.85
+Cayman Islands,CYM,1977,235.38
+Central African Republic,CAF,1977,75.5
+Chad,TCD,1977,40.71
+Chile,CHL,1977,38.39
+China,CHN,1977,31.08
+Colombia,COL,1977,58.19
+Comoros,COM,1977,54.78
+"Congo, Dem. Rep.",ZAR,1977,84.34
+"Congo, Rep.",COG,1977,54.65
+Costa Rica,CRI,1977,37.24
+Cote d'Ivoire,CIV,1977,40.51
+Croatia,HRV,1977,94.44
+Cuba,CUB,1977,99.33
+Cyprus,CYP,1977,123.03
+Czech Republic,CZE,1977,92.45
+Denmark,DNK,1977,73.89
+Djibouti,DJI,1977,7.61
+Dominica,DMA,1977,126.33
+Dominican Republic,DOM,1977,97.36
+Ecuador,ECU,1977,53.74
+"Egypt, Arab Rep.",EGY,1977,35.1
+El Salvador,SLV,1977,101.96
+Equatorial Guinea,GNQ,1977,56.28
+Eritrea,ERI,1977,128.27
+Estonia,EST,1977,131.05
+Ethiopia,ETH,1977,105.02
+Faeroe Islands,FRO,1977,106.41
+Fiji,FJI,1977,81.82
+Finland,FIN,1977,74.98
+France,FRA,1977,73.76
+French Polynesia,PYF,1977,93.93
+Gabon,GAB,1977,50.79
+"Gambia, The",GMB,1977,57.72
+Georgia,GEO,1977,92.71
+Germany,DEU,1977,86.23
+Ghana,GHA,1977,27.75
+Greece,GRC,1977,68.39
+Grenada,GRD,1977,164.48
+Guam,GUM,1977,51.04
+Guatemala,GTM,1977,46.03
+Guinea,GIN,1977,44.24
+Guinea-Bissau,GNB,1977,35.79
+Guyana,GUY,1977,81.49
+Haiti,HTI,1977,100.35
+Honduras,HND,1977,56.27
+"Hong Kong SAR, China",HKG,1977,390.51
+Hungary,HUN,1977,100.15
+Iceland,ISL,1977,36.45
+India,IND,1977,50.35
+Indonesia,IDN,1977,33.06
+"Iran, Islamic Rep.",IRN,1977,26.62
+Iraq,IRQ,1977,64
+Ireland,IRL,1977,102.38
+Israel,ISR,1977,73.08
+Italy,ITA,1977,88.05
+Jamaica,JAM,1977,100.31
+Japan,JPN,1977,140.21
+Jordan,JOR,1977,20.43
+Kazakhstan,KAZ,1977,123.98
+Kenya,KEN,1977,45.67
+Kiribati,KIR,1977,53.07
+"Korea, Dem. Rep.",PRK,1977,74.96
+"Korea, Rep.",KOR,1977,83.76
+Kuwait,KWT,1977,10.51
+Kyrgyz Republic,KGZ,1977,100.25
+Lao PDR,LAO,1977,28.69
+Latvia,LVA,1977,114.41
+Lebanon,LBN,1977,44.16
+Lesotho,LSO,1977,133.69
+Liberia,LBR,1977,79.6
+Libya,LBY,1977,41.62
+Liechtenstein,LIE,1977,53.78
+Lithuania,LTU,1977,107.86
+Luxembourg,LUX,1977,87.66
+"Macao SAR, China",MAC,1977,46.63
+Madagascar,MDG,1977,66.71
+Malawi,MWI,1977,43.78
+Malaysia,MYS,1977,37.11
+Maldives,MDV,1977,90.5
+Mali,MLI,1977,34.91
+Malta,MLT,1977,66.2
+Marshall Islands,MHL,1977,155.86
+Mauritania,MRT,1977,34.43
+Mauritius,MUS,1977,111.17
+Mexico,MEX,1977,52.07
+"Micronesia, Fed. Sts.",FSM,1977,95.89
+Moldova,MDA,1977,62.54
+Mongolia,MNG,1977,123.79
+Montenegro,MNE,1977,88.21
+Morocco,MAR,1977,34.25
+Mozambique,MOZ,1977,60.55
+Myanmar,MMR,1977,29.15
+Namibia,NAM,1977,42.65
+Nepal,NPL,1977,34.09
+Netherlands,NLD,1977,64.1
+New Caledonia,NCL,1977,103.94
+New Zealand,NZL,1977,37.23
+Nicaragua,NIC,1977,86.22
+Niger,NER,1977,35.13
+Nigeria,NGA,1977,25.85
+Norway,NOR,1977,119.32
+Oman,OMN,1977,26.95
+Pakistan,PAK,1977,41.1
+Panama,PAN,1977,120.03
+Papua New Guinea,PNG,1977,55.66
+Paraguay,PRY,1977,37.35
+Peru,PER,1977,43.34
+Philippines,PHL,1977,56.12
+Poland,POL,1977,117.4
+Portugal,PRT,1977,81.58
+Puerto Rico,PRI,1977,230.53
+Qatar,QAT,1977,23.77
+Romania,ROM,1977,101.55
+Russian Federation,RUS,1977,102.32
+Rwanda,RWA,1977,57.39
+Samoa,WSM,1977,114.16
+Sao Tome and Principe,STP,1977,61.13
+Saudi Arabia,SAU,1977,25.02
+Senegal,SEN,1977,45.41
+Seychelles,SYC,1977,205.39
+Sierra Leone,SLE,1977,48.99
+Singapore,SGP,1977,396.72
+Solomon Islands,SLB,1977,44.14
+Somalia,SOM,1977,75.27
+South Africa,ZAF,1977,71.51
+Spain,ESP,1977,58.58
+Sri Lanka,LKA,1977,71.9
+St. Kitts and Nevis,KNA,1977,249.24
+St. Lucia,LCA,1977,239.58
+St. Vincent and the Grenadines,VCT,1977,70.08
+Sudan,SDN,1977,49.79
+Suriname,SUR,1977,97.07
+Swaziland,SWZ,1977,54.92
+Sweden,SWE,1977,112.87
+Switzerland,CHE,1977,97.06
+Syrian Arab Republic,SYR,1977,36.81
+Tanzania,TZA,1977,47.48
+Thailand,THA,1977,42.76
+Timor-Leste,TMP,1977,69.81
+Togo,TGO,1977,42.15
+Tonga,TON,1977,155.76
+Trinidad and Tobago,TTO,1977,192.42
+Tunisia,TUN,1977,50.53
+Turkey,TUR,1977,54.31
+Tuvalu,TUV,1977,68.7
+Uganda,UGA,1977,70.65
+United Arab Emirates,ARE,1977,6.32
+United Kingdom,GBR,1977,78.85
+United States,USA,1977,67.99
+Uruguay,URY,1977,38.43
+Vanuatu,VUT,1977,103.02
+"Venezuela, RB",VEN,1977,60.81
+Vietnam,VNM,1977,25.96
+West Bank and Gaza,WBG,1977,100.96
+"Yemen, Rep.",YEM,1977,46.45
+Zambia,ZMB,1977,56.93
+Zimbabwe,ZWE,1977,87.46
+Arab World,ARB,1978,40.87398427
+Caribbean small states,CSS,1978,101.1543652
+East Asia & Pacific (all income levels),EAS,1978,39.62128376
+East Asia & Pacific (developing only),EAP,1978,36.08300403
+Euro area,EMU,1978,82.62076303
+European Union,EUU,1978,89.4261342
+Fragile and conflict affected situations,FCS,1978,50.48348221
+Heavily indebted poor countries (HIPC),HPC,1978,51.81723903
+High income,HIC,1978,74.96947254
+High income: nonOECD,NOC,1978,51.22745269
+High income: OECD,OEC,1978,77.58931489
+Latin America & Caribbean (all income levels),LCN,1978,48.04074263
+Latin America & Caribbean (developing only),LAC,1978,48.69403536
+Least developed countries: UN classification,LDC,1978,48.62126023
+Low & middle income,LMY,1978,42.90709233
+Low income,LIC,1978,54.98233556
+Lower middle income,LMC,1978,43.85306795
+Middle East & North Africa (all income levels),MEA,1978,36.96768163
+Middle East & North Africa (developing only),MNA,1978,36.68857933
+Middle income,MIC,1978,42.23148821
+North America,NAC,1978,67.99642596
+OECD members,OED,1978,74.97140827
+Other small states,OSS,1978,65.39610458
+Pacific island small states,PSS,1978,81.41236482
+Small states,SST,1978,80.02749608
+South Asia,SAS,1978,51.54609725
+Sub-Saharan Africa (all income levels),SSF,1978,43.3561219
+Sub-Saharan Africa (developing only),SSA,1978,43.34729024
+Upper middle income,UMC,1978,41.11993769
+World,WLD,1978,51.32429242
+Afghanistan,AFG,1978,96.17
+Albania,ALB,1978,82.71
+Algeria,DZA,1978,29.37
+American Samoa,ASM,1978,49.26
+Angola,AGO,1978,34.16
+Antigua and Barbuda,ATG,1978,81.66
+Argentina,ARG,1978,44.93
+Armenia,ARM,1978,126.34
+Australia,AUS,1978,56.76
+Austria,AUT,1978,88.75
+Azerbaijan,AZE,1978,109.03
+"Bahamas, The",BHS,1978,74.71
+Bahrain,BHR,1978,199.97
+Bangladesh,BGD,1978,51.31
+Barbados,BRB,1978,185.77
+Belarus,BLR,1978,119.09
+Belgium,BEL,1978,92.56
+Belize,BLZ,1978,38.14
+Benin,BEN,1978,26.74
+Bermuda,BMU,1978,84.44
+Bhutan,BTN,1978,43.67
+Bolivia,BOL,1978,41
+Bosnia and Herzegovina,BIH,1978,95.79
+Botswana,BWA,1978,79.98
+Brazil,BRA,1978,39.4
+Brunei Darussalam,BRN,1978,68.15
+Bulgaria,BGR,1978,166.8
+Burkina Faso,BFA,1978,28.36
+Burundi,BDI,1978,66.41
+Cabo Verde,CPV,1978,36.71
+Cambodia,KHM,1978,23.3
+Cameroon,CMR,1978,44.1
+Canada,CAN,1978,61.58
+Cayman Islands,CYM,1978,228.9
+Central African Republic,CAF,1978,72.81
+Chad,TCD,1978,42.4
+Chile,CHL,1978,37.43
+China,CHN,1978,34.42
+Colombia,COL,1978,63.05
+Comoros,COM,1978,54.91
+"Congo, Dem. Rep.",ZAR,1978,81.54
+"Congo, Rep.",COG,1978,52.77
+Costa Rica,CRI,1978,39.15
+Cote d'Ivoire,CIV,1978,41.04
+Croatia,HRV,1978,111.53
+Cuba,CUB,1978,113.23
+Cyprus,CYP,1978,125.2
+Czech Republic,CZE,1978,102.81
+Denmark,DNK,1978,72.88
+Djibouti,DJI,1978,8.36
+Dominica,DMA,1978,141.64
+Dominican Republic,DOM,1978,100.49
+Ecuador,ECU,1978,48.68
+"Egypt, Arab Rep.",EGY,1978,36.76
+El Salvador,SLV,1978,114.79
+Equatorial Guinea,GNQ,1978,58.01
+Eritrea,ERI,1978,57.72
+Estonia,EST,1978,119.23
+Ethiopia,ETH,1978,110.37
+Faeroe Islands,FRO,1978,106.41
+Fiji,FJI,1978,83.08
+Finland,FIN,1978,81.29
+France,FRA,1978,84.04
+French Polynesia,PYF,1978,86.83
+Gabon,GAB,1978,55.12
+"Gambia, The",GMB,1978,77.76
+Georgia,GEO,1978,75.11
+Germany,DEU,1978,90.32
+Ghana,GHA,1978,27.13
+Greece,GRC,1978,74.86
+Grenada,GRD,1978,170.37
+Guam,GUM,1978,59.16
+Guatemala,GTM,1978,46.97
+Guinea,GIN,1978,44.4
+Guinea-Bissau,GNB,1978,33.36
+Guyana,GUY,1978,88.37
+Haiti,HTI,1978,104.04
+Honduras,HND,1978,60.71
+"Hong Kong SAR, China",HKG,1978,351.86
+Hungary,HUN,1978,99.46
+Iceland,ISL,1978,62.11
+India,IND,1978,52.52
+Indonesia,IDN,1978,35.29
+"Iran, Islamic Rep.",IRN,1978,27.77
+Iraq,IRQ,1978,68.61
+Ireland,IRL,1978,86.71
+Israel,ISR,1978,77.06
+Italy,ITA,1978,90
+Jamaica,JAM,1978,110.39
+Japan,JPN,1978,135.04
+Jordan,JOR,1978,34.53
+Kazakhstan,KAZ,1978,105.06
+Kenya,KEN,1978,45.01
+Kiribati,KIR,1978,61.8
+"Korea, Dem. Rep.",PRK,1978,76.83
+"Korea, Rep.",KOR,1978,89.76
+Kuwait,KWT,1978,11.59
+Kyrgyz Republic,KGZ,1978,100.81
+Lao PDR,LAO,1978,24.59
+Latvia,LVA,1978,122.35
+Lebanon,LBN,1978,50.37
+Lesotho,LSO,1978,132.38
+Liberia,LBR,1978,79.36
+Libya,LBY,1978,56.77
+Liechtenstein,LIE,1978,35.86
+Lithuania,LTU,1978,122.77
+Luxembourg,LUX,1978,105.85
+"Macao SAR, China",MAC,1978,56.99
+Madagascar,MDG,1978,63.88
+Malawi,MWI,1978,44.43
+Malaysia,MYS,1978,36.88
+Maldives,MDV,1978,87.63
+Mali,MLI,1978,34.68
+Malta,MLT,1978,60.72
+Marshall Islands,MHL,1978,201.65
+Mauritania,MRT,1978,39.46
+Mauritius,MUS,1978,115.86
+Mexico,MEX,1978,57.59
+"Micronesia, Fed. Sts.",FSM,1978,94.32
+Moldova,MDA,1978,107.53
+Mongolia,MNG,1978,109.78
+Montenegro,MNE,1978,105.27
+Morocco,MAR,1978,42.94
+Mozambique,MOZ,1978,58.99
+Myanmar,MMR,1978,32.15
+Namibia,NAM,1978,43.13
+Nepal,NPL,1978,35.32
+Netherlands,NLD,1978,69.91
+New Caledonia,NCL,1978,101.81
+New Zealand,NZL,1978,39.23
+Nicaragua,NIC,1978,93.97
+Niger,NER,1978,38.45
+Nigeria,NGA,1978,24.95
+Norway,NOR,1978,125.61
+Oman,OMN,1978,28.6
+Pakistan,PAK,1978,39.99
+Panama,PAN,1978,123.48
+Papua New Guinea,PNG,1978,57.56
+Paraguay,PRY,1978,37.91
+Peru,PER,1978,41.58
+Philippines,PHL,1978,57.83
+Poland,POL,1978,131.43
+Portugal,PRT,1978,85.73
+Puerto Rico,PRI,1978,222.67
+Qatar,QAT,1978,32.77
+Romania,ROM,1978,101.31
+Russian Federation,RUS,1978,112.79
+Rwanda,RWA,1978,58.5
+Samoa,WSM,1978,106.19
+Sao Tome and Principe,STP,1978,63.71
+Saudi Arabia,SAU,1978,24.56
+Senegal,SEN,1978,87.78
+Seychelles,SYC,1978,182.7
+Sierra Leone,SLE,1978,49.61
+Singapore,SGP,1978,365.07
+Solomon Islands,SLB,1978,47.46
+Somalia,SOM,1978,74.68
+South Africa,ZAF,1978,76.16
+Spain,ESP,1978,71.32
+Sri Lanka,LKA,1978,76.2
+St. Kitts and Nevis,KNA,1978,255.01
+St. Lucia,LCA,1978,264.41
+St. Vincent and the Grenadines,VCT,1978,81.43
+Sudan,SDN,1978,50.18
+Suriname,SUR,1978,105.37
+Swaziland,SWZ,1978,63.99
+Sweden,SWE,1978,117.72
+Switzerland,CHE,1978,109.8
+Syrian Arab Republic,SYR,1978,41.76
+Tanzania,TZA,1978,47.91
+Thailand,THA,1978,49.79
+Timor-Leste,TMP,1978,70.65
+Togo,TGO,1978,45.55
+Tonga,TON,1978,134.63
+Trinidad and Tobago,TTO,1978,166.49
+Tunisia,TUN,1978,45.13
+Turkey,TUR,1978,57.62
+Tuvalu,TUV,1978,129.64
+Uganda,UGA,1978,70.27
+United Arab Emirates,ARE,1978,8.77
+United Kingdom,GBR,1978,82.87
+United States,USA,1978,68.73
+Uruguay,URY,1978,37.58
+Vanuatu,VUT,1978,108.23
+"Venezuela, RB",VEN,1978,59.83
+Vietnam,VNM,1978,25.92
+West Bank and Gaza,WBG,1978,104.15
+"Yemen, Rep.",YEM,1978,44.35
+Zambia,ZMB,1978,51.05
+Zimbabwe,ZWE,1978,88.49
+Arab World,ARB,1979,40.67276744
+Caribbean small states,CSS,1979,95.80178835
+East Asia & Pacific (all income levels),EAS,1979,40.52374263
+East Asia & Pacific (developing only),EAP,1979,37.06130803
+Euro area,EMU,1979,87.56578904
+European Union,EUU,1979,93.16643776
+Fragile and conflict affected situations,FCS,1979,49.40538081
+Heavily indebted poor countries (HIPC),HPC,1979,50.79262222
+High income,HIC,1979,79.23130778
+High income: nonOECD,NOC,1979,53.53946748
+High income: OECD,OEC,1979,82.06630547
+Latin America & Caribbean (all income levels),LCN,1979,49.10641353
+Latin America & Caribbean (developing only),LAC,1979,49.43327707
+Least developed countries: UN classification,LDC,1979,47.13423948
+Low & middle income,LMY,1979,42.97665909
+Low income,LIC,1979,53.93774736
+Lower middle income,LMC,1979,43.18704664
+Middle East & North Africa (all income levels),MEA,1979,36.7979066
+Middle East & North Africa (developing only),MNA,1979,36.40904213
+Middle income,MIC,1979,42.36339141
+North America,NAC,1979,74.28146244
+OECD members,OED,1979,78.74697897
+Other small states,OSS,1979,62.86875188
+Pacific island small states,PSS,1979,93.88962963
+Small states,SST,1979,78.56783165
+South Asia,SAS,1979,49.15497121
+Sub-Saharan Africa (all income levels),SSF,1979,42.61346702
+Sub-Saharan Africa (developing only),SSA,1979,42.60326988
+Upper middle income,UMC,1979,41.79879728
+World,WLD,1979,52.49443756
+Afghanistan,AFG,1979,93.01
+Albania,ALB,1979,85.32
+Algeria,DZA,1979,34.74
+American Samoa,ASM,1979,41.29
+Angola,AGO,1979,31.09
+Antigua and Barbuda,ATG,1979,86.08
+Argentina,ARG,1979,46.87
+Armenia,ARM,1979,127.29
+Australia,AUS,1979,54.56
+Austria,AUT,1979,84.88
+Azerbaijan,AZE,1979,112.35
+"Bahamas, The",BHS,1979,74.98
+Bahrain,BHR,1979,200.42
+Bangladesh,BGD,1979,50.26
+Barbados,BRB,1979,211.79
+Belarus,BLR,1979,112.55
+Belgium,BEL,1979,100.4
+Belize,BLZ,1979,34.35
+Benin,BEN,1979,28.44
+Bermuda,BMU,1979,85.2
+Bhutan,BTN,1979,44.78
+Bolivia,BOL,1979,39.97
+Bosnia and Herzegovina,BIH,1979,100.35
+Botswana,BWA,1979,68.91
+Brazil,BRA,1979,41.11
+Brunei Darussalam,BRN,1979,69.99
+Bulgaria,BGR,1979,170.5
+Burkina Faso,BFA,1979,30.07
+Burundi,BDI,1979,67.53
+Cabo Verde,CPV,1979,40.38
+Cambodia,KHM,1979,15.18
+Cameroon,CMR,1979,45.18
+Canada,CAN,1979,56.2
+Cayman Islands,CYM,1979,234.21
+Central African Republic,CAF,1979,76.82
+Chad,TCD,1979,38.38
+Chile,CHL,1979,41.71
+China,CHN,1979,35.38
+Colombia,COL,1979,64.15
+Comoros,COM,1979,56.51
+"Congo, Dem. Rep.",ZAR,1979,85.65
+"Congo, Rep.",COG,1979,54.03
+Costa Rica,CRI,1979,39.21
+Cote d'Ivoire,CIV,1979,45.47
+Croatia,HRV,1979,109.53
+Cuba,CUB,1979,122.51
+Cyprus,CYP,1979,133.93
+Czech Republic,CZE,1979,99.64
+Denmark,DNK,1979,74.96
+Djibouti,DJI,1979,11.91
+Dominica,DMA,1979,103.08
+Dominican Republic,DOM,1979,95.89
+Ecuador,ECU,1979,47.82
+"Egypt, Arab Rep.",EGY,1979,39.27
+El Salvador,SLV,1979,115.35
+Equatorial Guinea,GNQ,1979,59.64
+Eritrea,ERI,1979,84.73
+Estonia,EST,1979,129.07
+Ethiopia,ETH,1979,123.33
+Faeroe Islands,FRO,1979,106.41
+Fiji,FJI,1979,106.33
+Finland,FIN,1979,83
+France,FRA,1979,92.32
+French Polynesia,PYF,1979,93.24
+Gabon,GAB,1979,58.74
+"Gambia, The",GMB,1979,45.54
+Georgia,GEO,1979,73.42
+Germany,DEU,1979,92.25
+Ghana,GHA,1979,28.32
+Greece,GRC,1979,70.41
+Grenada,GRD,1979,179.12
+Guam,GUM,1979,59.27
+Guatemala,GTM,1979,45.95
+Guinea,GIN,1979,45.8
+Guinea-Bissau,GNB,1979,34.87
+Guyana,GUY,1979,77.32
+Haiti,HTI,1979,109.82
+Honduras,HND,1979,65.72
+"Hong Kong SAR, China",HKG,1979,374.94
+Hungary,HUN,1979,95.08
+Iceland,ISL,1979,31.37
+India,IND,1979,48.93
+Indonesia,IDN,1979,37.03
+"Iran, Islamic Rep.",IRN,1979,25.95
+Iraq,IRQ,1979,61.26
+Ireland,IRL,1979,85.79
+Israel,ISR,1979,75.81
+Italy,ITA,1979,97.57
+Jamaica,JAM,1979,103.65
+Japan,JPN,1979,135.14
+Jordan,JOR,1979,23.57
+Kazakhstan,KAZ,1979,131.4
+Kenya,KEN,1979,48.97
+Kiribati,KIR,1979,56.6
+"Korea, Dem. Rep.",PRK,1979,79.22
+"Korea, Rep.",KOR,1979,89.99
+Kuwait,KWT,1979,12.42
+Kyrgyz Republic,KGZ,1979,107.34
+Lao PDR,LAO,1979,32.09
+Latvia,LVA,1979,115.38
+Lebanon,LBN,1979,50.59
+Lesotho,LSO,1979,112.63
+Liberia,LBR,1979,80.01
+Libya,LBY,1979,52.47
+Liechtenstein,LIE,1979,53.78
+Lithuania,LTU,1979,136.93
+Luxembourg,LUX,1979,98.34
+"Macao SAR, China",MAC,1979,56.99
+Madagascar,MDG,1979,63.27
+Malawi,MWI,1979,44.13
+Malaysia,MYS,1979,40.63
+Maldives,MDV,1979,86.04
+Mali,MLI,1979,34.75
+Malta,MLT,1979,69.22
+Marshall Islands,MHL,1979,184.16
+Mauritania,MRT,1979,39.24
+Mauritius,MUS,1979,116.13
+Mexico,MEX,1979,54.79
+"Micronesia, Fed. Sts.",FSM,1979,93.33
+Moldova,MDA,1979,89.82
+Mongolia,MNG,1979,109.9
+Montenegro,MNE,1979,111.28
+Morocco,MAR,1979,44.85
+Mozambique,MOZ,1979,58.53
+Myanmar,MMR,1979,32.32
+Namibia,NAM,1979,43.9
+Nepal,NPL,1979,33.02
+Netherlands,NLD,1979,68.99
+New Caledonia,NCL,1979,101.67
+New Zealand,NZL,1979,39.36
+Nicaragua,NIC,1979,86.49
+Niger,NER,1979,41.17
+Nigeria,NGA,1979,25.27
+Norway,NOR,1979,110.22
+Oman,OMN,1979,32.75
+Pakistan,PAK,1979,44.49
+Panama,PAN,1979,124.12
+Papua New Guinea,PNG,1979,57.9
+Paraguay,PRY,1979,38.58
+Peru,PER,1979,42.67
+Philippines,PHL,1979,59.4
+Poland,POL,1979,129.64
+Portugal,PRT,1979,111.06
+Puerto Rico,PRI,1979,206.22
+Qatar,QAT,1979,40.28
+Romania,ROM,1979,108.06
+Russian Federation,RUS,1979,108.12
+Rwanda,RWA,1979,63.58
+Samoa,WSM,1979,121.24
+Sao Tome and Principe,STP,1979,70.05
+Saudi Arabia,SAU,1979,27.09
+Senegal,SEN,1979,56.27
+Seychelles,SYC,1979,201.47
+Sierra Leone,SLE,1979,46.47
+Singapore,SGP,1979,328.51
+Solomon Islands,SLB,1979,54.3
+Somalia,SOM,1979,75.07
+South Africa,ZAF,1979,71.77
+Spain,ESP,1979,74.73
+Sri Lanka,LKA,1979,86.01
+St. Kitts and Nevis,KNA,1979,268.42
+St. Lucia,LCA,1979,257.17
+St. Vincent and the Grenadines,VCT,1979,78.25
+Sudan,SDN,1979,42.53
+Suriname,SUR,1979,110.4
+Swaziland,SWZ,1979,60.47
+Sweden,SWE,1979,111.85
+Switzerland,CHE,1979,129.06
+Syrian Arab Republic,SYR,1979,35.22
+Tanzania,TZA,1979,50.79
+Thailand,THA,1979,46.77
+Timor-Leste,TMP,1979,71.07
+Togo,TGO,1979,49.91
+Tonga,TON,1979,133.7
+Trinidad and Tobago,TTO,1979,172.48
+Tunisia,TUN,1979,46.52
+Turkey,TUR,1979,58.12
+Tuvalu,TUV,1979,136.26
+Uganda,UGA,1979,48.92
+United Arab Emirates,ARE,1979,10.69
+United Kingdom,GBR,1979,81.69
+United States,USA,1979,76.35
+Uruguay,URY,1979,41.6
+Vanuatu,VUT,1979,107.25
+"Venezuela, RB",VEN,1979,61.18
+Vietnam,VNM,1979,29.03
+West Bank and Gaza,WBG,1979,109.53
+"Yemen, Rep.",YEM,1979,49.75
+Zambia,ZMB,1979,41.73
+Zimbabwe,ZWE,1979,81.96
+Arab World,ARB,1980,44.31933256
+Caribbean small states,CSS,1980,96.10682679
+East Asia & Pacific (all income levels),EAS,1980,40.56972545
+East Asia & Pacific (developing only),EAP,1980,37.78845458
+Euro area,EMU,1980,88.12446673
+European Union,EUU,1980,90.24098493
+Fragile and conflict affected situations,FCS,1980,53.97537444
+Heavily indebted poor countries (HIPC),HPC,1980,51.17074669
+High income,HIC,1980,74.13465917
+High income: nonOECD,NOC,1980,49.4985155
+High income: OECD,OEC,1980,76.85316471
+Latin America & Caribbean (all income levels),LCN,1980,50.51291979
+Latin America & Caribbean (developing only),LAC,1980,52.35555074
+Least developed countries: UN classification,LDC,1980,49.59807199
+Low & middle income,LMY,1980,44.29969759
+Low income,LIC,1980,55.4825748
+Lower middle income,LMC,1980,45.05583962
+Middle East & North Africa (all income levels),MEA,1980,40.00512775
+Middle East & North Africa (developing only),MNA,1980,39.83890332
+Middle income,MIC,1980,43.67402092
+North America,NAC,1980,67.64381769
+OECD members,OED,1980,74.72217752
+Other small states,OSS,1980,61.98383703
+Pacific island small states,PSS,1980,87.70548367
+Small states,SST,1980,77.37270118
+South Asia,SAS,1980,50.79681547
+Sub-Saharan Africa (all income levels),SSF,1980,43.66683587
+Sub-Saharan Africa (developing only),SSA,1980,43.65470349
+Upper middle income,UMC,1980,42.72682033
+World,WLD,1980,52.13214295
+Afghanistan,AFG,1980,90.77
+Albania,ALB,1980,80.22
+Algeria,DZA,1980,38.21
+American Samoa,ASM,1980,45.96
+Angola,AGO,1980,31.25
+Antigua and Barbuda,ATG,1980,89.76
+Argentina,ARG,1980,41.4
+Armenia,ARM,1980,95.67
+Australia,AUS,1980,46.62
+Austria,AUT,1980,93.19
+Azerbaijan,AZE,1980,100.96
+"Bahamas, The",BHS,1980,74.77
+Bahrain,BHR,1980,203.04
+Bangladesh,BGD,1980,53.47
+Barbados,BRB,1980,242.16
+Belarus,BLR,1980,107.73
+Belgium,BEL,1980,97.89
+Belize,BLZ,1980,40.04
+Benin,BEN,1980,25.95
+Bermuda,BMU,1980,76.33
+Bhutan,BTN,1980,47.9
+Bolivia,BOL,1980,41.41
+Bosnia and Herzegovina,BIH,1980,92.22
+Botswana,BWA,1980,80.75
+Brazil,BRA,1980,45.45
+Brunei Darussalam,BRN,1980,66.65
+Bulgaria,BGR,1980,157.9
+Burkina Faso,BFA,1980,27.25
+Burundi,BDI,1980,65.86
+Cabo Verde,CPV,1980,57.26
+Cambodia,KHM,1980,30.77
+Cameroon,CMR,1980,46.32
+Canada,CAN,1980,59.01
+Cayman Islands,CYM,1980,254.07
+Central African Republic,CAF,1980,76.28
+Chad,TCD,1980,39.52
+Chile,CHL,1980,41.05
+China,CHN,1980,35
+Colombia,COL,1980,65.42
+Comoros,COM,1980,58.06
+"Congo, Dem. Rep.",ZAR,1980,89.57
+"Congo, Rep.",COG,1980,55.53
+Costa Rica,CRI,1980,38.94
+Cote d'Ivoire,CIV,1980,47.26
+Croatia,HRV,1980,98.76
+Cuba,CUB,1980,106.55
+Cyprus,CYP,1980,137.72
+Czech Republic,CZE,1980,86.69
+Denmark,DNK,1980,71.1
+Djibouti,DJI,1980,41.42
+Dominica,DMA,1980,90
+Dominican Republic,DOM,1980,94.33
+Ecuador,ECU,1980,52.03
+"Egypt, Arab Rep.",EGY,1980,40.23
+El Salvador,SLV,1980,109.38
+Equatorial Guinea,GNQ,1980,65.36
+Eritrea,ERI,1980,84.68
+Estonia,EST,1980,114.97
+Ethiopia,ETH,1980,127.04
+Faeroe Islands,FRO,1980,106.41
+Fiji,FJI,1980,93.62
+Finland,FIN,1980,88.6
+France,FRA,1980,90.45
+French Polynesia,PYF,1980,114.04
+Gabon,GAB,1980,62.37
+"Gambia, The",GMB,1980,48.01
+Georgia,GEO,1980,60.27
+Germany,DEU,1980,84.08
+Ghana,GHA,1980,28.26
+Greece,GRC,1980,82.73
+Grenada,GRD,1980,163.22
+Guam,GUM,1980,54.02
+Guatemala,GTM,1980,48.17
+Guinea,GIN,1980,46.24
